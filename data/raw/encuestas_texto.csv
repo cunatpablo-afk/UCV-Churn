@@ -1,0 +1,1016 @@
+encuesta_id,fecha,zona_id,region,tipo_zona,puntuacion_general_1a5,nps_0a10,texto_libre,indice_calidad_global,incidencia_masiva,stress_calidad,flag_incongruente,sent_text_latente
+E77700132,2023-01-01,Z04,Centro,suburbana,3,0,Desde hace meses no tengo cobertura dentro de casa. los datos van lentísimos. Gracias por la atención.,35.13,0,0.4981,0,-0.913
+E77700023,2023-01-01,Z05,Este,urbana_premium,5,1,En las últimas semanas se corta en llamadas. el 5G ni se nota. no me dieron solución.,40.98,0,0.4146,1,-0.619
+E77700582,2023-01-01,Z05,Este,urbana_premium,5,0,En mi experiencia la cobertura es mala. la velocidad es muy baja. Espero que lo solucionen pronto.,40.98,0,0.4146,1,-0.574
+E77700150,2023-01-01,Z09,Norte,urbana_premium,2,3,En mi experiencia se queda sin servicio. hay mucha latencia. no me dieron solución. No es lo que esperaba.,41.35,0,0.4093,0,-1.0
+E77700247,2023-01-01,Z09,Norte,urbana_premium,3,3,"En mi experiencia hay cortes constantes. los datos van lentísimos. Si no mejora, me planteo cambiarme.",41.35,0,0.4093,0,-0.7
+E77700525,2023-01-01,Z09,Norte,urbana_premium,2,0,En general hay cortes constantes. la velocidad es muy baja. la atención al cliente no ayuda. Espero que lo solucionen pronto.,41.35,0,0.4093,0,-0.989
+E77700689,2023-01-01,Z09,Norte,urbana_premium,4,10,Este mes la cobertura es mala. no entiendo los cargos. Además tiene altibajos.,41.35,0,0.4093,0,-0.239
+E77700989,2023-01-01,Z09,Norte,urbana_premium,3,4,En mi zona la cobertura es mala. el descuento no se aplicó.,41.35,0,0.4093,0,-0.266
+E77700258,2023-01-01,Z10,Este,suburbana,2,2,"En mi experiencia la señal va y viene. los datos van lentísimos. la factura sube sin explicación. Si no mejora, me planteo cambiarme.",31.56,0,0.5491,0,-0.413
+E77700927,2023-01-01,Z14,Norte,rural,3,12,"En mi experiencia se corta en llamadas. el 5G ni se nota. no entiendo los cargos. Si no mejora, me planteo cambiarme.",21.79,0,0.6887,0,-0.962
+E77700549,2023-01-01,Z15,Oeste,suburbana,5,4,Últimamente no tengo cobertura dentro de casa. los datos van lentísimos. el descuento no se aplicó. No es lo que esperaba.,31.15,0,0.555,1,-0.634
+E77700034,2023-01-01,Z16,Este,urbana_premium,3,2,"En general no tengo cobertura dentro de casa. hay mucha latencia. me parece caro para lo que ofrecen. Por favor, revisen la cobertura en mi zona.",40.73,0,0.4181,0,-0.734
+E77700507,2023-01-01,Z16,Este,urbana_premium,1,2,Este mes se nota congestión. tiene altibajos. Por otro lado no es perfecto pero cumple.,40.73,0,0.4181,1,-0.141
+E77700137,2023-01-01,Z17,Sur,suburbana,4,0,En mi zona hay cortes constantes. los datos van lentísimos. no me dieron solución.,31.85,0,0.545,1,-0.941
+E77700369,2023-01-01,Z17,Sur,suburbana,4,4,Este mes se corta en llamadas. el 5G ni se nota. me parece caro para lo que ofrecen.,31.85,0,0.545,0,-0.508
+E77700008,2023-01-01,Z20,Oeste,suburbana,4,2,"En las últimas semanas no tengo cobertura dentro de casa. los datos van lentísimos. tardaron muchísimo. Por favor, revisen la cobertura en mi zona.",30.24,0,0.568,1,-0.652
+E77700422,2023-01-01,Z22,Este,suburbana,2,1,"En general se corta en llamadas. se nota congestión. Si no mejora, me planteo cambiarme.",31.94,0,0.5437,0,-0.376
+E77700426,2023-01-01,Z26,Oeste,urbana_premium,3,5,En mi zona los datos van lentísimos. podría ser mejor. Lo mejor es que no es perfecto pero cumple.,41.27,0,0.4104,0,-0.147
+E77700680,2023-01-01,Z28,Sur,urbana_premium,5,0,"Este mes la señal va y viene. la velocidad es muy baja. Por favor, revisen la cobertura en mi zona.",36.68,0,0.476,1,-0.788
+E77700933,2023-01-01,Z29,Oeste,urbana_premium,3,3,En las últimas semanas se queda sin servicio. hay mucha latencia. En resumen no es perfecto pero cumple.,39.49,0,0.4359,0,-0.612
+E77700533,2023-01-01,Z30,Centro,suburbana,6,2,"Este mes normal, sin más. no es perfecto pero cumple. Lo peor es que tiene altibajos.",30.27,0,0.5676,0,-0.306
+E77700765,2023-01-01,Z30,Centro,suburbana,4,2,Últimamente la señal va y viene. se nota congestión. me marean con respuestas.,30.27,0,0.5676,1,-0.669
+E77700603,2023-02-01,Z01,Centro,rural,2,0,En general la cobertura es mala. los datos van lentísimos. Gracias por la atención.,19.61,0,0.7199,0,-1.0
+E77700213,2023-02-01,Z05,Este,urbana_premium,4,12,Desde hace meses podría ser mejor. tardaron muchísimo. Lo mejor es que depende del día.,42.94,0,0.3866,1,-0.109
+E77700377,2023-02-01,Z05,Este,urbana_premium,4,6,En mi zona no tengo cobertura dentro de casa. hay mucha latencia. Gracias por la atención.,42.94,0,0.3866,1,-0.488
+E77700605,2023-02-01,Z05,Este,urbana_premium,4,7,Desde hace meses no tengo cobertura dentro de casa. el 5G ni se nota. me atendieron bien pero no lo resolvieron. Gracias por la atención.,42.94,0,0.3866,1,-0.533
+E77700056,2023-02-01,Z06,Sur,rural,1,3,"Este mes se corta en llamadas. la velocidad es muy baja. me marean con respuestas. Por favor, revisen la cobertura en mi zona.",22.45,0,0.6793,0,-0.883
+E77700217,2023-02-01,Z11,Oeste,suburbana,4,2,"Últimamente se queda sin servicio. los datos van lentísimos. no entiendo los cargos. Si no mejora, me planteo cambiarme.",32.51,0,0.5356,1,-0.629
+E77700381,2023-02-01,Z11,Oeste,suburbana,3,0,"Desde hace meses la señal va y viene. se nota congestión. Por favor, revisen la cobertura en mi zona.",32.51,0,0.5356,0,-0.389
+E77700774,2023-02-01,Z15,Oeste,suburbana,3,1,Desde hace meses se corta en llamadas. hay mucha latencia. Espero que lo solucionen pronto.,32.57,0,0.5347,0,-1.0
+E77700490,2023-02-01,Z16,Este,urbana_premium,2,3,"En mi experiencia se corta en llamadas. la velocidad es muy baja. Si no mejora, me planteo cambiarme.",42.99,0,0.3859,0,-0.484
+E77700721,2023-02-01,Z16,Este,urbana_premium,2,4,En mi zona depende del día. el descuento no se aplicó. Gracias por la atención.,42.99,0,0.3859,0,-0.033
+E77700253,2023-02-01,Z20,Oeste,suburbana,5,1,En mi zona se corta en llamadas. hay mucha latencia. me marean con respuestas.,30.95,0,0.5579,1,-0.758
+E77700536,2023-02-01,Z21,Centro,rural,2,6,En general depende del día. la atención al cliente no ayuda. Por otro lado podría ser mejor.,19.7,0,0.7186,1,-0.055
+E77700596,2023-02-01,Z27,Norte,suburbana,1,0,"Últimamente no tengo cobertura dentro de casa. se nota congestión. Si no mejora, me planteo cambiarme.",31.12,0,0.5554,0,-0.915
+E77700841,2023-02-01,Z28,Sur,urbana_premium,3,3,"En las últimas semanas la cobertura es mala. el 5G ni se nota. tardaron muchísimo. Por favor, revisen la cobertura en mi zona.",37.57,0,0.4633,0,-0.532
+E77700988,2023-02-01,Z28,Sur,urbana_premium,5,3,"En mi experiencia no tengo cobertura dentro de casa. la velocidad es muy baja. no entiendo los cargos. Si no mejora, me planteo cambiarme.",37.57,0,0.4633,1,-0.975
+E77700012,2023-02-01,Z29,Oeste,urbana_premium,4,0,Este mes se queda sin servicio. el 5G ni se nota. Por otro lado podría ser mejor.,41.22,0,0.4111,1,-1.0
+E77700472,2023-02-01,Z29,Oeste,urbana_premium,3,4,En las últimas semanas se queda sin servicio. la velocidad es muy baja. No es lo que esperaba.,41.22,0,0.4111,0,-0.653
+E77700320,2023-03-01,Z01,Centro,rural,3,3,"En mi zona se queda sin servicio. la velocidad es muy baja. Si no mejora, me planteo cambiarme.",16.99,0,0.7573,0,-0.893
+E77700489,2023-03-01,Z02,Oeste,suburbana,2,0,En mi zona se queda sin servicio. los datos van lentísimos. No es lo que esperaba.,32.33,0,0.5381,0,-0.87
+E77701000,2023-03-01,Z06,Sur,rural,2,0,"En mi experiencia se queda sin servicio. el 5G ni se nota. Si no mejora, me planteo cambiarme.",17.81,0,0.7456,0,-0.911
+E77700057,2023-03-01,Z09,Norte,urbana_premium,4,0,En mi zona se corta en llamadas. la velocidad es muy baja. me atendieron bien pero no lo resolvieron. Gracias por la atención.,42.66,0,0.3906,0,-0.917
+E77700517,2023-03-01,Z09,Norte,urbana_premium,4,3,Este mes hay cortes constantes. el 5G ni se nota. No es lo que esperaba.,42.66,0,0.3906,1,-0.788
+E77700016,2023-03-01,Z12,Norte,rural,3,2,"Últimamente hay cortes constantes. hay mucha latencia. Si no mejora, me planteo cambiarme.",19.43,0,0.7224,0,-0.832
+E77700925,2023-03-01,Z13,Este,suburbana,5,1,En mi experiencia la señal va y viene. la velocidad es muy baja. me atendieron bien pero no lo resolvieron. No es lo que esperaba.,32.15,0,0.5407,1,-1.0
+E77700443,2023-03-01,Z15,Oeste,suburbana,3,1,En mi experiencia se queda sin servicio. no carga nada. Además no es perfecto pero cumple.,31.91,0,0.5441,0,-0.399
+E77700496,2023-03-01,Z15,Oeste,suburbana,3,0,"En mi experiencia no tengo cobertura dentro de casa. no carga nada. Si no mejora, me planteo cambiarme.",31.91,0,0.5441,0,-0.731
+E77700848,2023-03-01,Z15,Oeste,suburbana,5,2,En mi zona se corta en llamadas. hay mucha latencia. me marean con respuestas. No es lo que esperaba.,31.91,0,0.5441,1,-0.931
+E77700124,2023-03-01,Z16,Este,urbana_premium,3,5,Desde hace meses se nota congestión. me marean con respuestas. La verdad depende del día.,41.77,0,0.4033,0,0.129
+E77700569,2023-03-01,Z16,Este,urbana_premium,8,5,En general no es perfecto pero cumple. no es perfecto pero cumple.,41.77,0,0.4033,1,-0.347
+E77700601,2023-03-01,Z16,Este,urbana_premium,5,4,"En mi zona se queda sin servicio. hay mucha latencia. Si no mejora, me planteo cambiarme.",41.77,0,0.4033,1,-0.919
+E77700106,2023-03-01,Z17,Sur,suburbana,5,3,En mi zona hay cortes constantes. los datos van lentísimos. En resumen tiene altibajos.,34.47,0,0.5076,1,-0.365
+E77700545,2023-03-01,Z17,Sur,suburbana,2,2,Este mes no tengo cobertura dentro de casa. el 5G ni se nota. me marean con respuestas. Espero que lo solucionen pronto.,34.47,0,0.5076,0,-0.385
+E77700762,2023-03-01,Z17,Sur,suburbana,5,7,"Este mes se queda sin servicio. el 5G ni se nota. Si no mejora, me planteo cambiarme.",34.47,0,0.5076,1,-0.654
+E77700423,2023-03-01,Z18,Sur,urbana_premium,3,1,Este mes la cobertura es mala. se nota congestión. no me dieron solución. Gracias por la atención.,42.77,0,0.389,0,-0.657
+E77700686,2023-03-01,Z21,Centro,rural,2,1,En general se corta en llamadas. el 5G ni se nota. me cobraron de más. No es lo que esperaba.,19.54,0,0.7209,0,-0.982
+E77700356,2023-03-01,Z22,Este,suburbana,3,2,En las últimas semanas hay cortes constantes. me atendieron bien pero no lo resolvieron.,32.46,0,0.5363,0,-0.241
+E77700527,2023-03-01,Z22,Este,suburbana,3,0,"En mi experiencia se queda sin servicio. el 5G ni se nota. me cobraron de más. Por favor, revisen la cobertura en mi zona.",32.46,0,0.5363,0,-0.818
+E77700872,2023-03-01,Z26,Oeste,urbana_premium,1,4,Desde hace meses hay cortes constantes. no carga nada. Gracias por la atención.,39.89,0,0.4301,0,-0.408
+E77700667,2023-03-01,Z27,Norte,suburbana,2,3,"En mi experiencia la señal va y viene. no carga nada. Si no mejora, me planteo cambiarme.",33.76,0,0.5177,0,-0.496
+E77700952,2023-03-01,Z27,Norte,suburbana,2,2,"En mi zona no tengo cobertura dentro de casa. la velocidad es muy baja. la atención al cliente no ayuda. Por favor, revisen la cobertura en mi zona.",33.76,0,0.5177,0,-0.73
+E77700200,2023-03-01,Z28,Sur,urbana_premium,4,0,Desde hace meses se queda sin servicio. se nota congestión. No es lo que esperaba.,42.16,0,0.3977,1,-0.603
+E77700154,2023-03-01,Z30,Centro,suburbana,5,2,"En las últimas semanas la cobertura es mala. no carga nada. Por favor, revisen la cobertura en mi zona.",28.6,0,0.5914,1,-0.792
+E77700966,2023-03-01,Z30,Centro,suburbana,3,0,En mi experiencia la señal va y viene. se nota congestión. me atendieron bien pero no lo resolvieron.,28.6,0,0.5914,0,-0.732
+E77700248,2023-04-01,Z01,Centro,rural,2,4,"En las últimas semanas el 5G ni se nota. depende del día. Por favor, revisen la cobertura en mi zona.",20.81,0,0.7027,0,-0.344
+E77700312,2023-04-01,Z02,Oeste,suburbana,3,2,En mi zona tiene altibajos. no entiendo los cargos. Espero que lo solucionen pronto.,34.25,0,0.5107,0,-0.249
+E77700236,2023-04-01,Z05,Este,urbana_premium,3,6,Últimamente se corta en llamadas. podría ser mejor. Además no es perfecto pero cumple.,42.81,0,0.3884,0,-0.123
+E77700910,2023-04-01,Z05,Este,urbana_premium,4,3,En mi zona la señal va y viene. el 5G ni se nota. tardaron muchísimo. Espero que lo solucionen pronto.,42.81,0,0.3884,1,-0.499
+E77700278,2023-04-01,Z07,Centro,rural,3,0,En mi zona no tengo cobertura dentro de casa. la velocidad es muy baja. Espero que lo solucionen pronto.,20.84,0,0.7023,0,-1.0
+E77700203,2023-04-01,Z08,Sur,rural,2,1,Últimamente hay cortes constantes. los datos van lentísimos. la factura sube sin explicación. Gracias por la atención.,18.92,0,0.7297,0,-1.0
+E77700516,2023-04-01,Z09,Norte,urbana_premium,2,2,"En las últimas semanas funciona bastante bien. Además normal, sin más. Lo mejor es que tiene altibajos.",41.99,0,0.4001,1,0.153
+E77700673,2023-04-01,Z09,Norte,urbana_premium,2,0,Últimamente se corta en llamadas. no carga nada. me marean con respuestas. Gracias por la atención.,41.99,0,0.4001,0,-1.0
+E77700307,2023-04-01,Z11,Oeste,suburbana,3,2,En mi zona la señal va y viene. no carga nada. Gracias por la atención.,32.21,0,0.5399,0,-1.0
+E77700319,2023-04-01,Z15,Oeste,suburbana,3,3,"En mi experiencia la señal va y viene. la velocidad es muy baja. me marean con respuestas. Por favor, revisen la cobertura en mi zona.",31.85,0,0.545,0,-0.815
+E77700334,2023-04-01,Z15,Oeste,suburbana,6,0,"Desde hace meses hay cortes constantes. no carga nada. Si no mejora, me planteo cambiarme.",31.85,0,0.545,0,-0.835
+E77700554,2023-04-01,Z15,Oeste,suburbana,4,6,Este mes no carga nada. me marean con respuestas. Lo peor es que tiene altibajos.,31.85,0,0.545,0,-0.347
+E77700676,01/04/2023,Z15,Oeste,suburbana,3,3,En general se queda sin servicio. la velocidad es muy baja. Gracias por la atención.,31.85,0,0.545,0,-0.542
+E77700230,2023-04-01,Z17,Sur,suburbana,4,2,,33.91,0,0.5156,1,-0.741
+E77700029,2023-04-01,Z18,Sur,urbana_premium,5,0,Desde hace meses la señal va y viene. no carga nada. Además podría ser mejor.,39.15,0,0.4407,1,-0.543
+E77700571,2023-04-01,Z20,Oeste,suburbana,3,5,"En mi experiencia se queda sin servicio. los datos van lentísimos. la factura sube sin explicación. Si no mejora, me planteo cambiarme.",32.35,0,0.5379,0,-0.362
+E77700317,2023-04-01,Z23,Norte,rural,2,0,En general no tengo cobertura dentro de casa. el 5G ni se nota. la atención al cliente no ayuda. No es lo que esperaba.,20.48,0,0.7074,0,-0.747
+E77700074,2023-04-01,Z25,Oeste,rural,3,2,Desde hace meses no tengo cobertura dentro de casa. hay mucha latencia. me parece caro para lo que ofrecen. Gracias por la atención.,18.23,0,0.7396,0,-0.432
+E77700140,2023-04-01,Z26,Oeste,urbana_premium,3,5,Este mes se corta en llamadas. hay mucha latencia. Lo mejor es que no es perfecto pero cumple.,38.6,0,0.4486,0,-0.533
+E77700224,2023-04-01,Z27,Norte,suburbana,2,1,"En general no tengo cobertura dentro de casa. hay mucha latencia. tardaron muchísimo. Si no mejora, me planteo cambiarme.",34.02,0,0.514,0,-0.713
+E77700633,2023-04-01,Z27,Norte,suburbana,3,3,En mi zona no tengo cobertura dentro de casa. no me dieron solución.,34.02,0,0.514,0,-0.23
+E77700729,2023-04-01,Z27,Norte,suburbana,3,3,En general la cobertura es mala. los datos van lentísimos. Espero que lo solucionen pronto.,34.02,0,0.514,0,-0.515
+E77700032,2023-04-01,Z28,Sur,urbana_premium,1,3,Últimamente se corta en llamadas. no carga nada. Espero que lo solucionen pronto.,40.87,0,0.4161,0,-0.733
+E77700091,2023-04-01,Z28,Sur,urbana_premium,3,0,"En mi zona la cobertura es mala. no carga nada. Por favor, revisen la cobertura en mi zona.",40.87,0,0.4161,0,-0.539
+E77700004,2023-05-01,Z02,Oeste,suburbana,3,1,En las últimas semanas la señal va y viene. hay mucha latencia. me marean con respuestas.,31.12,0,0.5554,0,-0.469
+E77700725,2023-05-01,Z02,Oeste,suburbana,3,4,En las últimas semanas se queda sin servicio. los datos van lentísimos. me cobraron de más.,31.12,0,0.5554,0,-0.81
+E77700469,2023-05-01,Z04,Centro,suburbana,3,0,Desde hace meses se corta en llamadas. la velocidad es muy baja. me cobraron de más. No es lo que esperaba.,35.33,0,0.4953,0,-0.997
+E77700440,2023-05-01,Z05,Este,urbana_premium,2,4,Últimamente hay cortes constantes. la velocidad es muy baja. Gracias por la atención.,44.21,0,0.3684,0,-0.556
+E77700651,2023-05-01,Z05,Este,urbana_premium,4,2,"En mi zona la cobertura es mala. se nota congestión. no entiendo los cargos. Si no mejora, me planteo cambiarme.",44.21,0,0.3684,1,-0.813
+E77700172,2023-05-01,Z08,Sur,rural,2,0,En las últimas semanas se queda sin servicio. me cobraron de más.,18.77,0,0.7319,1,-0.058
+E77700221,2023-05-01,Z08,Sur,rural,1,0,Desde hace meses no tengo cobertura dentro de casa. hay mucha latencia. Gracias por la atención.,18.77,0,0.7319,0,-0.758
+E77700261,2023-05-01,Z09,Norte,urbana_premium,4,6,Este mes la cobertura es mala. la velocidad es muy baja. No es lo que esperaba.,39.37,0,0.4376,1,-0.416
+E77700393,2023-05-01,Z10,Este,suburbana,3,3,"En mi experiencia se corta en llamadas. los datos van lentísimos. Si no mejora, me planteo cambiarme.",30.23,0,0.5681,0,-0.424
+E77700609,2023-05-01,Z11,Oeste,suburbana,4,0,En mi experiencia se corta en llamadas. el 5G ni se nota. No es lo que esperaba.,34.81,0,0.5027,1,-0.871
+E77700462,2023-05-01,Z13,Este,suburbana,2,0,"En mi zona no tengo cobertura dentro de casa. se nota congestión. la factura sube sin explicación. Si no mejora, me planteo cambiarme.",33.66,0,0.5191,0,-0.392
+E77700747,2023-05-01,Z16,Este,urbana_premium,3,3,En mi zona los datos van lentísimos. podría ser mejor. Por otro lado depende del día.,42.28,0,0.396,0,-0.162
+E77700904,2023-05-01,Z16,Este,urbana_premium,2,6,Desde hace meses se nota congestión. me parece caro para lo que ofrecen.,42.28,0,0.396,1,-0.059
+E77700167,2023-05-01,Z17,Sur,suburbana,3,1,En general se corta en llamadas. hay mucha latencia. me atendieron bien pero no lo resolvieron. Gracias por la atención.,31.57,0,0.549,0,-0.745
+E77700286,2023-05-01,Z20,Oeste,suburbana,4,0,En mi experiencia la señal va y viene. hay mucha latencia. no entiendo los cargos.,33.1,0,0.5271,1,-1.0
+E77700310,2023-05-01,Z20,Oeste,suburbana,4,0,,33.1,0,0.5271,0,-0.726
+E77700940,2023-05-01,Z20,Oeste,suburbana,1,0,Este mes se nota congestión. podría ser mejor. Por otro lado tiene altibajos.,33.1,0,0.5271,1,0.093
+E77700803,01/05/2023,Z22,Este,suburbana,4,5,En las últimas semanas la cobertura es mala. hay mucha latencia. Sinceramente no es perfecto pero cumple.,34.84,0,0.5023,1,-0.475
+E77700961,2023-05-01,Z23,Norte,rural,3,2,Desde hace meses la cobertura es mala. los datos van lentísimos. No es lo que esperaba.,16.66,0,0.762,0,-1.0
+E77700386,2023-05-01,Z26,Oeste,urbana_premium,3,0,Últimamente se queda sin servicio. la velocidad es muy baja. tardaron muchísimo. No es lo que esperaba.,42.45,0,0.3936,0,-0.885
+E77700896,2023-05-01,Z28,Sur,urbana_premium,3,3,"Últimamente no tengo cobertura dentro de casa. el 5G ni se nota. Por favor, revisen la cobertura en mi zona.",42.06,0,0.3991,0,-0.822
+E77700028,2023-06-01,Z05,Este,urbana_premium,4,3,Desde hace meses se corta en llamadas. no carga nada. me atendieron bien pero no lo resolvieron.,43.08,0,0.3846,1,-0.984
+E77700435,2023-06-01,Z05,Este,urbana_premium,4,4,Últimamente la señal va y viene. los datos van lentísimos. el descuento no se aplicó.,43.08,0,0.3846,0,-0.486
+E77700801,2023-06-01,Z05,Este,urbana_premium,2,1,"En mi zona no tengo cobertura dentro de casa. no carga nada. Por favor, revisen la cobertura en mi zona.",43.08,0,0.3846,0,-0.545
+E77700563,2023-06-01,Z07,Centro,rural,5,0,Desde hace meses no tengo cobertura dentro de casa. se nota congestión. tardaron muchísimo. No es lo que esperaba.,21.24,0,0.6966,1,-0.864
+E77700929,2023-06-01,Z08,Sur,rural,2,0,Este mes se corta en llamadas. hay mucha latencia. tardaron muchísimo. Sinceramente podría ser mejor.,22.79,0,0.6744,0,-1.0
+E77700250,2023-06-01,Z10,Este,suburbana,3,2,"Últimamente la señal va y viene. no carga nada. la atención al cliente no ayuda. Si no mejora, me planteo cambiarme.",31.4,0,0.5514,0,-1.0
+E77700270,2023-06-01,Z10,Este,suburbana,2,1,"Desde hace meses normal, sin más. podría ser mejor. Espero que lo solucionen pronto.",31.4,0,0.5514,1,0.117
+E77700814,2023-06-01,Z10,Este,suburbana,3,5,"En mi zona se corta en llamadas. hay mucha latencia. Por favor, revisen la cobertura en mi zona.",31.4,0,0.5514,0,-0.674
+E77700634,2023-06-01,Z11,Oeste,suburbana,2,0,En general no tengo cobertura dentro de casa. me parece caro para lo que ofrecen.,33.14,0,0.5266,0,-0.134
+E77700195,2023-06-01,Z14,Norte,rural,3,2,Desde hace meses la cobertura es mala. la velocidad es muy baja.,17.89,0,0.7444,0,-0.487
+E77700152,2023-06-01,Z15,Oeste,suburbana,2,0,Últimamente se corta en llamadas. los datos van lentísimos. En resumen no es perfecto pero cumple.,30.69,0,0.5616,0,-0.929
+E77700449,2023-06-01,Z16,Este,urbana_premium,4,1,"En las últimas semanas la cobertura es mala. se nota congestión. Si no mejora, me planteo cambiarme.",42.06,0,0.3991,1,-0.881
+E77700027,2023-06-01,Z18,Sur,urbana_premium,2,0,"En las últimas semanas se queda sin servicio. me marean con respuestas. Si no mejora, me planteo cambiarme.",42.34,0,0.3951,0,-0.244
+E77700908,2023-06-01,Z18,Sur,urbana_premium,2,5,En general se corta en llamadas. la factura sube sin explicación. Por otro lado depende del día.,42.34,0,0.3951,0,-0.161
+E77700402,2023-06-01,Z19,Este,rural,3,2,Desde hace meses la cobertura es mala. hay mucha latencia. Gracias por la atención.,15.41,0,0.7799,0,-0.698
+E77700674,2023-06-01,Z21,Centro,rural,4,0,En las últimas semanas no tengo cobertura dentro de casa. no carga nada. No es lo que esperaba.,19.15,0,0.7264,1,-0.829
+E77700071,2023-06-01,Z26,Oeste,urbana_premium,4,9,En las últimas semanas funciona bastante bien. Lo peor es que no es perfecto pero cumple.,41.94,0,0.4009,0,0.216
+E77700850,2023-06-01,Z26,Oeste,urbana_premium,3,5,"En mi zona la señal va y viene. podría ser mejor. Por favor, revisen la cobertura en mi zona.",41.94,0,0.4009,0,-0.112
+E77700871,2023-06-01,Z26,Oeste,urbana_premium,5,3,"En mi zona hay mucha latencia. me marean con respuestas. Por favor, revisen la cobertura en mi zona.",41.94,0,0.4009,1,-0.236
+E77700990,2023-06-01,Z26,Oeste,urbana_premium,3,1,"En general no tengo cobertura dentro de casa. los datos van lentísimos. Por favor, revisen la cobertura en mi zona.",41.94,0,0.4009,0,-0.707
+E77700098,2023-06-01,Z28,Sur,urbana_premium,4,5,En las últimas semanas se corta en llamadas. el 5G ni se nota. No es lo que esperaba.,42.84,0,0.388,1,-1.0
+E77700948,2023-06-01,Z28,Sur,urbana_premium,3,4,"En general se queda sin servicio. no carga nada. Si no mejora, me planteo cambiarme.",42.84,0,0.388,0,-0.385
+E77700058,2023-06-01,Z29,Oeste,urbana_premium,3,5,Este mes la cobertura es mala. el 5G ni se nota. Espero que lo solucionen pronto.,42.41,0,0.3941,0,-0.506
+E77700502,2023-06-01,Z29,Oeste,urbana_premium,4,0,Desde hace meses la cobertura es mala. los datos van lentísimos. no me dieron solución. Espero que lo solucionen pronto.,42.41,0,0.3941,0,-0.693
+E77700113,2023-06-01,Z30,Centro,suburbana,4,10,"Este mes la señal va y viene. me marean con respuestas. Lo peor es que normal, sin más.",35.47,0,0.4933,0,-0.328
+E77700073,2023-07-01,Z01,Centro,rural,2,3,"En las últimas semanas tiene altibajos. me marean con respuestas. Si no mejora, me planteo cambiarme.",19.06,0,0.7277,1,0.078
+E77700351,2023-07-01,Z02,Oeste,suburbana,3,2,En general no tengo cobertura dentro de casa. se nota congestión. No es lo que esperaba.,29.74,0,0.5751,0,-0.868
+E77700608,2023-07-01,Z04,Centro,suburbana,3,0,Desde hace meses se queda sin servicio. se nota congestión. la atención al cliente no ayuda. Espero que lo solucionen pronto.,36.26,0,0.482,0,-0.664
+E77700395,2023-07-01,Z05,Este,urbana_premium,4,2,"Últimamente la señal va y viene. me parece caro para lo que ofrecen. Si no mejora, me planteo cambiarme.",44.31,0,0.367,0,-0.329
+E77700157,2023-07-01,Z08,Sur,rural,1,2,En mi experiencia la cobertura es mala. el 5G ni se nota. Gracias por la atención.,19.58,0,0.7203,0,-0.533
+E77700051,2023-07-01,Z09,Norte,urbana_premium,4,3,Desde hace meses se queda sin servicio. se nota congestión. No es lo que esperaba.,43.49,0,0.3787,1,-0.822
+E77700102,2023-07-01,Z11,Oeste,suburbana,3,0,"En general la velocidad es muy baja. normal, sin más. Lo peor es que tiene altibajos.",32.66,0,0.5334,0,0.047
+E77700708,2023-07-01,Z13,Este,suburbana,5,1,"Últimamente la señal va y viene. se nota congestión. me atendieron bien pero no lo resolvieron. Si no mejora, me planteo cambiarme.",32.31,0,0.5384,1,-1.0
+E77700304,2023-07-01,Z15,Oeste,suburbana,4,3,En mi experiencia se queda sin servicio. hay mucha latencia. me marean con respuestas. Gracias por la atención.,34.06,0,0.5134,1,-1.0
+E77700876,01/07/2023,Z15,Oeste,suburbana,2,0,Desde hace meses la señal va y viene. se nota congestión. no entiendo los cargos. No es lo que esperaba.,34.06,0,0.5134,0,-1.0
+E77700957,2023-07-01,Z15,Oeste,suburbana,3,5,"En mi experiencia se queda sin servicio. la velocidad es muy baja. Por favor, revisen la cobertura en mi zona.",34.06,0,0.5134,0,-0.863
+E77700202,2023-07-01,Z16,Este,urbana_premium,2,4,En mi zona hay cortes constantes. los datos van lentísimos. tardaron muchísimo.,43.28,0,0.3817,0,-0.537
+E77700222,2023-07-01,Z16,Este,urbana_premium,3,2,"Este mes se queda sin servicio. los datos van lentísimos. me marean con respuestas. Por favor, revisen la cobertura en mi zona.",43.28,0,0.3817,0,-1.0
+E77700241,2023-07-01,Z16,Este,urbana_premium,2,4,En general se queda sin servicio. el 5G ni se nota. Además no es perfecto pero cumple.,43.28,0,0.3817,0,-0.525
+E77700945,2023-07-01,Z16,Este,urbana_premium,2,1,"Este mes se corta en llamadas. los datos van lentísimos. el descuento no se aplicó. Si no mejora, me planteo cambiarme.",43.28,0,0.3817,0,-0.786
+E77700416,2023-07-01,Z17,Sur,suburbana,4,4,Este mes la velocidad es muy baja. me parece caro para lo que ofrecen.,33.8,0,0.5171,0,-0.259
+E77700467,2023-07-01,Z17,Sur,suburbana,3,0,En mi zona la cobertura es mala. se nota congestión. No es lo que esperaba.,33.8,0,0.5171,0,-0.762
+E77700833,2023-07-01,Z17,Sur,suburbana,4,4,Últimamente no tengo cobertura dentro de casa. hay mucha latencia. No es lo que esperaba.,33.8,0,0.5171,0,-0.527
+E77700379,2023-07-01,Z19,Este,rural,2,0,En mi zona se queda sin servicio. se nota congestión. el descuento no se aplicó. Gracias por la atención.,18.71,0,0.7327,0,-1.0
+E77700086,2023-07-01,Z20,Oeste,suburbana,3,1,"En general no tengo cobertura dentro de casa. los datos van lentísimos. Por favor, revisen la cobertura en mi zona.",34.56,0,0.5063,0,-0.396
+E77700333,2023-07-01,Z20,Oeste,suburbana,2,3,"Últimamente se corta en llamadas. se nota congestión. me cobraron de más. Por favor, revisen la cobertura en mi zona.",34.56,0,0.5063,0,-0.842
+E77700493,2023-07-01,Z20,Oeste,suburbana,8,5,En mi experiencia la cobertura es mala. la velocidad es muy baja. Gracias por la atención.,34.56,0,0.5063,1,-0.747
+E77700465,2023-07-01,Z21,Centro,rural,3,0,Últimamente la señal va y viene. los datos van lentísimos. Lo peor es que tiene altibajos.,21.85,0,0.6879,0,-0.982
+E77700728,2023-07-01,Z21,Centro,rural,1,2,"Este mes se corta en llamadas. los datos van lentísimos. Si no mejora, me planteo cambiarme.",21.85,0,0.6879,0,-0.56
+E77700385,2023-07-01,Z26,Oeste,urbana_premium,3,0,"En las últimas semanas la señal va y viene. se nota congestión. Por favor, revisen la cobertura en mi zona.",44.15,0,0.3693,0,-0.569
+E77700552,2023-07-01,Z26,Oeste,urbana_premium,5,0,En mi zona la señal va y viene. no carga nada. Además no es perfecto pero cumple.,44.15,0,0.3693,1,-0.424
+E77700761,2023-07-01,Z26,Oeste,urbana_premium,3,1,Este mes se corta en llamadas. hay mucha latencia. Espero que lo solucionen pronto.,44.15,0,0.3693,0,-0.512
+E77700084,2023-07-01,Z27,Norte,suburbana,4,3,En mi experiencia la cobertura es mala. el 5G ni se nota. Espero que lo solucionen pronto.,35.71,0,0.4899,0,-0.82
+E77700575,2023-07-01,Z27,Norte,suburbana,4,0,"Desde hace meses se queda sin servicio. los datos van lentísimos. Si no mejora, me planteo cambiarme.",35.71,0,0.4899,1,-0.943
+E77700586,2023-07-01,Z27,Norte,suburbana,3,4,En mi experiencia depende del día. tardaron muchísimo. Lo mejor es que depende del día.,35.71,0,0.4899,0,-0.186
+E77700591,2023-07-01,Z27,Norte,suburbana,3,0,En mi zona la cobertura es mala. los datos van lentísimos. No es lo que esperaba.,35.71,0,0.4899,0,-0.647
+E77700849,2023-07-01,Z27,Norte,suburbana,4,3,En mi experiencia la señal va y viene. la velocidad es muy baja. No es lo que esperaba.,35.71,0,0.4899,1,-0.426
+E77700503,2023-07-01,Z28,Sur,urbana_premium,3,4,"En mi experiencia no tengo cobertura dentro de casa. la velocidad es muy baja. Si no mejora, me planteo cambiarme.",42.83,0,0.3881,0,-0.536
+E77700726,2023-07-01,Z29,Oeste,urbana_premium,2,0,"En mi experiencia la señal va y viene. hay mucha latencia. me atendieron bien pero no lo resolvieron. Por favor, revisen la cobertura en mi zona.",42.8,0,0.3886,0,-1.0
+E77700828,2023-07-01,Z30,Centro,suburbana,3,0,Desde hace meses no tengo cobertura dentro de casa. hay mucha latencia. tardaron muchísimo.,32.48,0,0.536,0,-0.761
+E77700298,2023-08-01,Z01,Centro,rural,3,0,"Este mes se queda sin servicio. la velocidad es muy baja. Por favor, revisen la cobertura en mi zona.",20.08,0,0.7131,0,-0.716
+E77700702,2023-08-01,Z01,Centro,rural,3,0,En mi zona la señal va y viene. hay mucha latencia. me marean con respuestas. No es lo que esperaba.,20.08,0,0.7131,0,-0.807
+E77700384,2023-08-01,Z03,Sur,rural,4,1,"Este mes se corta en llamadas. el 5G ni se nota. Si no mejora, me planteo cambiarme.",18.59,0,0.7344,1,-1.0
+E77700769,2023-08-01,Z03,Sur,rural,1,1,En mi experiencia no tengo cobertura dentro de casa. me parece caro para lo que ofrecen.,18.59,0,0.7344,1,-0.134
+E77700293,2023-08-01,Z05,Este,urbana_premium,3,0,En mi experiencia no tengo cobertura dentro de casa. la velocidad es muy baja. No es lo que esperaba.,44.34,0,0.3666,0,-0.7
+E77700937,2023-08-01,Z07,Centro,rural,5,2,En mi experiencia se queda sin servicio. la velocidad es muy baja. Gracias por la atención.,21.12,0,0.6983,1,-0.981
+E77700506,2023-08-01,Z08,Sur,rural,10,0,Últimamente se corta en llamadas. se nota congestión. Espero que lo solucionen pronto.,19.79,0,0.7173,1,-0.833
+E77700164,2023-08-01,Z09,Norte,urbana_premium,3,0,En las últimas semanas hay cortes constantes. la velocidad es muy baja. me cobraron de más. Gracias por la atención.,40.18,0,0.426,0,-1.0
+E77700787,2023-08-01,Z09,Norte,urbana_premium,3,2,En mi experiencia se queda sin servicio. hay mucha latencia. Espero que lo solucionen pronto.,40.18,0,0.426,0,-0.69
+E77700858,2023-08-01,Z09,Norte,urbana_premium,3,1,"Últimamente la cobertura es mala. hay mucha latencia. Lo peor es que normal, sin más.",40.18,0,0.426,0,-0.688
+E77700394,2023-08-01,Z11,Oeste,suburbana,4,4,"En mi experiencia la cobertura es mala. la velocidad es muy baja. la factura sube sin explicación. Por favor, revisen la cobertura en mi zona.",36.2,0,0.4829,1,-0.865
+E77700141,2023-08-01,Z16,Este,urbana_premium,2,3,"En mi experiencia se corta en llamadas. los datos van lentísimos. Por favor, revisen la cobertura en mi zona.",42.26,0,0.3963,0,-0.411
+E77700538,2023-08-01,Z17,Sur,suburbana,2,1,En mi zona se queda sin servicio. el 5G ni se nota. no me dieron solución. Gracias por la atención.,32.03,0,0.5424,0,-0.626
+E77700077,2023-08-01,Z18,Sur,urbana_premium,5,0,En general hay cortes constantes. se nota congestión. Por otro lado podría ser mejor.,45.41,0,0.3513,1,-0.788
+E77700227,2023-08-01,Z18,Sur,urbana_premium,3,0,Este mes hay cortes constantes. se nota congestión. la factura sube sin explicación. Gracias por la atención.,45.41,0,0.3513,0,-0.73
+E77700866,2023-08-01,Z18,Sur,urbana_premium,4,2,"Este mes se queda sin servicio. se nota congestión. Por favor, revisen la cobertura en mi zona.",45.41,0,0.3513,1,-0.727
+E77700567,2023-08-01,Z20,Oeste,suburbana,4,0,En mi experiencia se queda sin servicio. se nota congestión. me parece caro para lo que ofrecen.,33.06,0,0.5277,0,-0.49
+E77700820,2023-08-01,Z25,Oeste,rural,2,2,"En general hay cortes constantes. el 5G ni se nota. Sinceramente normal, sin más.",20.13,0,0.7124,0,-0.528
+E77700375,2023-08-01,Z26,Oeste,urbana_premium,5,0,En las últimas semanas se corta en llamadas. la velocidad es muy baja. no me dieron solución. Gracias por la atención.,42.45,0,0.3936,1,-0.632
+E77700895,2023-08-01,Z26,Oeste,urbana_premium,5,0,En general la señal va y viene. la velocidad es muy baja. el descuento no se aplicó. Gracias por la atención.,42.45,0,0.3936,1,-0.569
+E77700119,2023-08-01,Z28,Sur,urbana_premium,2,3,En general no tengo cobertura dentro de casa. se nota congestión. no entiendo los cargos. Gracias por la atención.,42.01,0,0.3999,0,-0.467
+E77700964,2023-08-01,Z28,Sur,urbana_premium,2,5,En mi experiencia la señal va y viene. no carga nada. el descuento no se aplicó. Gracias por la atención.,42.01,0,0.3999,0,-0.363
+E77700986,2023-08-01,Z28,Sur,urbana_premium,3,3,Últimamente se queda sin servicio. la velocidad es muy baja. Espero que lo solucionen pronto.,42.01,0,0.3999,0,-0.692
+E77700845,2023-08-01,Z29,Oeste,urbana_premium,4,4,"Últimamente se corta en llamadas. no carga nada. me atendieron bien pero no lo resolvieron. Por favor, revisen la cobertura en mi zona.",45.25,0,0.3536,0,-0.457
+E77700275,2023-08-01,Z30,Centro,suburbana,1,6,"Últimamente hay mucha latencia. me marean con respuestas. Si no mejora, me planteo cambiarme.",32.82,0,0.5311,0,-0.314
+E77700228,2023-09-01,Z01,Centro,rural,2,0,"Desde hace meses la cobertura es mala. no carga nada. la factura sube sin explicación. Si no mejora, me planteo cambiarme.",17.84,0,0.7451,0,-1.0
+E77700022,2023-09-01,Z02,Oeste,suburbana,4,0,En las últimas semanas no tengo cobertura dentro de casa. los datos van lentísimos.,33.12,0,0.5269,1,-0.986
+E77700107,2023-09-01,Z04,Centro,suburbana,4,0,Desde hace meses se corta en llamadas. la velocidad es muy baja. Espero que lo solucionen pronto.,31.56,0,0.5491,1,-0.702
+E77700916,2023-09-01,Z04,Centro,suburbana,2,0,En las últimas semanas se queda sin servicio. los datos van lentísimos. Espero que lo solucionen pronto.,31.56,0,0.5491,0,-0.781
+E77700269,2023-09-01,Z05,Este,urbana_premium,5,6,"Desde hace meses tiene altibajos. no es perfecto pero cumple. Lo mejor es que normal, sin más.",42.62,0,0.3911,1,-0.032
+E77700287,2023-09-01,Z05,Este,urbana_premium,3,5,Desde hace meses no tengo cobertura dentro de casa. tardaron muchísimo. Espero que lo solucionen pronto.,42.62,0,0.3911,0,-0.169
+E77700297,2023-09-01,Z05,Este,urbana_premium,4,3,Últimamente no tengo cobertura dentro de casa. no carga nada. no entiendo los cargos.,42.62,0,0.3911,0,-0.514
+E77700953,2023-09-01,Z05,Este,urbana_premium,4,2,Últimamente se queda sin servicio. se nota congestión. Lo mejor es que podría ser mejor.,42.62,0,0.3911,1,-0.415
+E77700488,2023-09-01,Z06,Sur,rural,2,2,"En mi experiencia la cobertura es mala. el 5G ni se nota. Por favor, revisen la cobertura en mi zona.",19.91,0,0.7156,0,-1.0
+E77700201,2023-09-01,Z08,Sur,rural,2,1,"En las últimas semanas no tengo cobertura dentro de casa. la velocidad es muy baja. tardaron muchísimo. Por favor, revisen la cobertura en mi zona.",18.91,0,0.7299,0,-0.688
+E77700646,2023-09-01,Z09,Norte,urbana_premium,2,2,"En las últimas semanas podría ser mejor. no me dieron solución. Sinceramente normal, sin más.",42.42,0,0.394,0,-0.044
+E77700123,2023-09-01,Z11,Oeste,suburbana,3,0,Este mes la cobertura es mala. no carga nada. Gracias por la atención.,33.85,0,0.5164,0,-0.669
+E77700500,2023-09-01,Z11,Oeste,suburbana,3,4,Este mes la señal va y viene. los datos van lentísimos. me cobraron de más.,33.85,0,0.5164,0,-0.728
+E77700578,2023-09-01,Z11,Oeste,suburbana,3,1,Este mes podría ser mejor. la factura sube sin explicación. Espero que lo solucionen pronto.,33.85,0,0.5164,0,-0.167
+E77700854,2023-09-01,Z11,Oeste,suburbana,3,0,En mi experiencia hay cortes constantes. la velocidad es muy baja. Gracias por la atención.,33.85,0,0.5164,0,-0.851
+E77700544,2023-09-01,Z15,Oeste,suburbana,4,7,En general no es perfecto pero cumple. me parece caro para lo que ofrecen.,35.55,0,0.4921,0,-0.307
+E77700900,2023-09-01,Z16,Este,urbana_premium,3,1,"En general se corta en llamadas. el 5G ni se nota. me atendieron bien pero no lo resolvieron. Si no mejora, me planteo cambiarme.",42.0,0,0.4,0,-0.704
+E77700410,2023-09-01,Z19,Este,rural,2,0,En mi experiencia no he tenido problemas. tiene altibajos. Lo peor es que no es perfecto pero cumple.,20.9,0,0.7014,1,0.352
+E77700344,2023-09-01,Z20,Oeste,suburbana,4,0,En las últimas semanas la señal va y viene. se nota congestión. no entiendo los cargos. No es lo que esperaba.,34.17,0,0.5119,1,-0.629
+E77700804,2023-09-01,Z20,Oeste,suburbana,3,3,Este mes la cobertura es mala. el 5G ni se nota. no entiendo los cargos. No es lo que esperaba.,34.17,0,0.5119,0,-0.897
+E77700613,2023-09-01,Z21,Centro,rural,2,1,En mi experiencia la cobertura es mala. se nota congestión. Gracias por la atención.,15.32,0,0.7811,0,-1.0
+E77700047,2023-09-01,Z22,Este,suburbana,3,1,Este mes se corta en llamadas. me cobraron de más. Lo mejor es que depende del día.,33.67,0,0.519,0,-0.162
+E77700280,2023-09-01,Z22,Este,suburbana,3,0,"Este mes no tengo cobertura dentro de casa. la velocidad es muy baja. Si no mejora, me planteo cambiarme.",33.67,0,0.519,0,-1.0
+E77700112,2023-09-01,Z24,Centro,rural,4,2,"En mi experiencia no carga nada. me parece caro para lo que ofrecen. Por favor, revisen la cobertura en mi zona.",19.41,0,0.7227,1,-0.336
+E77700515,2023-09-01,Z24,Centro,rural,1,0,"Últimamente la señal va y viene. los datos van lentísimos. Si no mejora, me planteo cambiarme.",19.41,0,0.7227,0,-1.0
+E77700717,2023-09-01,Z24,Centro,rural,2,0,"En mi zona se corta en llamadas. hay mucha latencia. Por favor, revisen la cobertura en mi zona.",19.41,0,0.7227,0,-0.928
+E77700735,2023-09-01,Z26,Oeste,urbana_premium,5,0,En mi experiencia se queda sin servicio. el 5G ni se nota. Gracias por la atención.,41.54,0,0.4066,1,-0.773
+E77700670,2023-09-01,Z28,Sur,urbana_premium,3,1,En mi zona no tengo cobertura dentro de casa. la factura sube sin explicación.,43.68,0,0.376,0,0.025
+E77700733,2023-09-01,Z28,Sur,urbana_premium,3,3,En general no tengo cobertura dentro de casa. se nota congestión. No es lo que esperaba.,43.68,0,0.376,0,-0.904
+E77700285,2023-09-01,Z29,Oeste,urbana_premium,4,3,En mi experiencia la cobertura es mala. se nota congestión. me cobraron de más. No es lo que esperaba.,42.59,0,0.3916,1,-0.799
+E77700387,2023-09-01,Z29,Oeste,urbana_premium,4,5,En mi zona la velocidad es muy baja. el descuento no se aplicó.,42.59,0,0.3916,0,-0.249
+E77700918,2023-09-01,Z29,Oeste,urbana_premium,3,0,Últimamente la señal va y viene. los datos van lentísimos. me atendieron bien pero no lo resolvieron. Espero que lo solucionen pronto.,42.59,0,0.3916,0,-0.973
+E77700669,2023-09-01,Z30,Centro,suburbana,4,2,Este mes se queda sin servicio. se nota congestión. No es lo que esperaba.,34.29,0,0.5101,0,-0.727
+E77700143,2023-10-01,Z02,Oeste,suburbana,2,0,"En las últimas semanas no tengo cobertura dentro de casa. hay mucha latencia. no entiendo los cargos. Si no mejora, me planteo cambiarme.",33.31,0,0.5241,0,-0.798
+E77700524,2023-10-01,Z04,Centro,suburbana,3,4,"Desde hace meses depende del día. me parece caro para lo que ofrecen. Si no mejora, me planteo cambiarme.",33.38,0,0.5231,0,-0.227
+E77700354,2023-10-01,Z05,Este,urbana_premium,2,0,En general la velocidad es muy baja. me marean con respuestas. Lo peor es que podría ser mejor.,45.25,0,0.3536,0,-0.323
+E77700510,2023-10-01,Z05,Este,urbana_premium,3,2,En las últimas semanas el 5G ni se nota. el descuento no se aplicó.,45.25,0,0.3536,0,-0.16
+E77700939,2023-10-01,Z05,Este,urbana_premium,4,3,"Últimamente podría ser mejor. me parece caro para lo que ofrecen. Lo mejor es que normal, sin más.",45.25,0,0.3536,0,0.067
+E77700817,2023-10-01,Z08,Sur,rural,3,0,Últimamente se queda sin servicio. se nota congestión. el descuento no se aplicó. No es lo que esperaba.,19.04,0,0.728,0,-1.0
+E77700210,2023-10-01,Z09,Norte,urbana_premium,2,0,En mi zona se corta en llamadas. no carga nada. Gracias por la atención.,42.88,0,0.3874,0,-0.629
+E77700378,2023-10-01,Z09,Norte,urbana_premium,5,5,Últimamente la cobertura es mala. se nota congestión. Gracias por la atención.,42.88,0,0.3874,1,-0.553
+E77700475,2023-10-01,Z09,Norte,urbana_premium,3,3,En general la cobertura es mala. la factura sube sin explicación. En resumen no es perfecto pero cumple.,42.88,0,0.3874,0,-0.301
+E77700339,2023-10-01,Z11,Oeste,suburbana,5,2,Desde hace meses la señal va y viene. la velocidad es muy baja. la factura sube sin explicación. Gracias por la atención.,34.44,0,0.508,1,-0.657
+E77700623,2023-10-01,Z11,Oeste,suburbana,5,2,En las últimas semanas se queda sin servicio. el 5G ni se nota. Espero que lo solucionen pronto.,34.44,0,0.508,1,-0.425
+E77700611,2023-10-01,Z12,Norte,rural,2,0,En las últimas semanas no tengo cobertura dentro de casa. hay mucha latencia. Gracias por la atención.,20.04,0,0.7137,0,-0.75
+E77700962,2023-10-01,Z12,Norte,rural,4,0,"En general se corta en llamadas. hay mucha latencia. Por favor, revisen la cobertura en mi zona.",20.04,0,0.7137,0,-1.0
+E77700560,2023-10-01,Z13,Este,suburbana,3,6,"En mi experiencia se queda sin servicio. la velocidad es muy baja. Por favor, revisen la cobertura en mi zona.",33.59,0,0.5201,0,-0.419
+E77700807,2023-10-01,Z14,Norte,rural,2,1,En las últimas semanas se corta en llamadas. el 5G ni se nota. Gracias por la atención.,18.44,0,0.7366,0,-0.637
+E77700599,2023-10-01,Z15,Oeste,suburbana,3,0,"En general tiene altibajos. el descuento no se aplicó. Sinceramente normal, sin más.",32.95,0,0.5293,0,-0.147
+E77700759,2023-10-01,Z16,Este,urbana_premium,4,1,Desde hace meses la cobertura es mala. no carga nada. me cobraron de más. No es lo que esperaba.,41.62,0,0.4054,0,-0.598
+E77700898,2023-10-01,Z16,Este,urbana_premium,3,4,Este mes la cobertura es mala. los datos van lentísimos. Gracias por la atención.,41.62,0,0.4054,0,-0.43
+E77700078,2023-10-01,Z17,Sur,suburbana,1,6,"En mi experiencia la señal va y viene. normal, sin más. Lo peor es que podría ser mejor.",38.07,0,0.4561,1,0.038
+E77700276,2023-10-01,Z17,Sur,suburbana,4,1,"Últimamente la señal va y viene. no carga nada. Por favor, revisen la cobertura en mi zona.",38.07,0,0.4561,1,-0.754
+E77700076,2023-10-01,Z18,Sur,urbana_premium,4,4,Este mes hay cortes constantes. depende del día. Además no es perfecto pero cumple.,42.03,0,0.3996,0,-0.135
+E77700590,2023-10-01,Z22,Este,suburbana,2,0,En mi zona hay cortes constantes. la velocidad es muy baja. me atendieron bien pero no lo resolvieron. No es lo que esperaba.,34.27,0,0.5104,0,-0.489
+E77700816,2023-10-01,Z22,Este,suburbana,2,3,En las últimas semanas no tengo cobertura dentro de casa. los datos van lentísimos. me parece caro para lo que ofrecen. No es lo que esperaba.,34.27,0,0.5104,0,-0.806
+E77700745,2023-10-01,Z23,Norte,rural,3,0,Desde hace meses se queda sin servicio. hay mucha latencia. Espero que lo solucionen pronto.,20.78,0,0.7031,0,-0.642
+E77700414,2023-10-01,Z26,Oeste,urbana_premium,2,2,Desde hace meses no tengo cobertura dentro de casa. se nota congestión. tardaron muchísimo. Gracias por la atención.,44.06,0,0.3706,0,-0.693
+E77700685,2023-10-01,Z26,Oeste,urbana_premium,2,5,Últimamente hay cortes constantes. hay mucha latencia. no me dieron solución. No es lo que esperaba.,44.06,0,0.3706,0,-0.813
+E77700832,2023-10-01,Z26,Oeste,urbana_premium,4,4,"En mi zona la señal va y viene. los datos van lentísimos. Si no mejora, me planteo cambiarme.",44.06,0,0.3706,1,-0.664
+E77700936,2023-10-01,Z26,Oeste,urbana_premium,3,3,"En mi zona no he tenido problemas. Lo peor es que normal, sin más.",44.06,0,0.3706,0,0.171
+E77700977,2023-10-01,Z26,Oeste,urbana_premium,4,1,"En mi experiencia la señal va y viene. la velocidad es muy baja. Por favor, revisen la cobertura en mi zona.",44.06,0,0.3706,1,-0.694
+E77700476,2023-10-01,Z27,Norte,suburbana,3,6,"Últimamente se corta en llamadas. normal, sin más. La verdad no es perfecto pero cumple.",35.11,0,0.4984,0,-0.236
+E77700036,2023-10-01,Z28,Sur,urbana_premium,5,1,En las últimas semanas no tengo cobertura dentro de casa. la velocidad es muy baja. Espero que lo solucionen pronto.,44.17,0,0.369,1,-0.711
+E77700060,2023-10-01,Z28,Sur,urbana_premium,3,2,En mi zona la señal va y viene. los datos van lentísimos. me parece caro para lo que ofrecen.,44.17,0,0.369,0,-0.736
+E77700359,2023-10-01,Z28,Sur,urbana_premium,2,6,Desde hace meses se queda sin servicio. tardaron muchísimo. Además depende del día.,44.17,0,0.369,1,0.056
+E77700180,2023-10-01,Z29,Oeste,urbana_premium,5,4,"Este mes no es perfecto pero cumple. tardaron muchísimo. Lo mejor es que normal, sin más.",45.53,0,0.3496,1,-0.149
+E77700382,2023-10-01,Z29,Oeste,urbana_premium,3,2,"En general no tengo cobertura dentro de casa. hay mucha latencia. me parece caro para lo que ofrecen. Por favor, revisen la cobertura en mi zona.",45.53,0,0.3496,0,-0.83
+E77700477,2023-10-01,Z29,Oeste,urbana_premium,3,4,En mi zona no tengo cobertura dentro de casa. la velocidad es muy baja. no me dieron solución. Gracias por la atención.,45.53,0,0.3496,0,-0.917
+E77700448,2023-11-01,Z02,Oeste,suburbana,2,1,Este mes se queda sin servicio. la velocidad es muy baja. Gracias por la atención.,34.8,0,0.5029,0,-1.0
+E77700604,2023-11-01,Z02,Oeste,suburbana,5,3,Este mes hay cortes constantes. el 5G ni se nota. No es lo que esperaba.,34.8,0,0.5029,1,-0.429
+E77700766,2023-11-01,Z02,Oeste,suburbana,3,0,En mi experiencia hay cortes constantes. hay mucha latencia. la atención al cliente no ayuda. No es lo que esperaba.,34.8,0,0.5029,0,-0.578
+E77700754,2023-11-01,Z04,Centro,suburbana,3,3,"Desde hace meses no carga nada. depende del día. En resumen normal, sin más.",34.69,0,0.5044,0,0.089
+E77700231,2023-11-01,Z05,Este,urbana_premium,1,1,En mi experiencia no es perfecto pero cumple. me marean con respuestas.,45.65,0,0.3479,1,-0.076
+E77700790,2023-11-01,Z05,Este,urbana_premium,10,2,En mi zona se corta en llamadas. se nota congestión. No es lo que esperaba.,45.65,0,0.3479,1,-0.851
+E77700906,2023-11-01,Z05,Este,urbana_premium,8,3,En general la cobertura es mala. hay mucha latencia. Espero que lo solucionen pronto.,45.65,0,0.3479,1,-0.504
+E77700642,2023-11-01,Z06,Sur,rural,2,0,"En mi zona hay cortes constantes. los datos van lentísimos. Por favor, revisen la cobertura en mi zona.",20.2,0,0.7114,0,-0.997
+E77700037,2023-11-01,Z09,Norte,urbana_premium,4,6,En general se corta en llamadas. me atendieron bien pero no lo resolvieron. Espero que lo solucionen pronto.,46.11,0,0.3413,0,0.008
+E77700306,2023-11-01,Z09,Norte,urbana_premium,3,3,"En general no tengo cobertura dentro de casa. hay mucha latencia. Si no mejora, me planteo cambiarme.",46.11,0,0.3413,0,-0.888
+E77700912,2023-11-01,Z09,Norte,urbana_premium,1,6,En mi zona en general estoy satisfecho. Sinceramente depende del día. Lo peor es que tiene altibajos.,46.11,0,0.3413,1,0.219
+E77700973,2023-11-01,Z09,Norte,urbana_premium,4,3,Últimamente podría ser mejor. no es perfecto pero cumple. La verdad tiene altibajos.,46.11,0,0.3413,1,-0.339
+E77700249,2023-11-01,Z11,Oeste,suburbana,3,0,En mi zona se corta en llamadas. hay mucha latencia. la factura sube sin explicación. Espero que lo solucionen pronto.,36.73,0,0.4753,0,-0.625
+E77700768,01/11/2023,Z11,Oeste,suburbana,2,4,En las últimas semanas no tengo cobertura dentro de casa. se nota congestión. tardaron muchísimo. No es lo que esperaba.,36.73,0,0.4753,0,-0.686
+E77700537,2023-11-01,Z13,Este,suburbana,3,1,En mi zona la cobertura es mala. el 5G ni se nota. me marean con respuestas. Espero que lo solucionen pronto.,35.05,0,0.4993,0,-0.925
+E77700173,2023-11-01,Z16,Este,urbana_premium,3,2,"En las últimas semanas hay mucha latencia. no me dieron solución. Lo mejor es que normal, sin más.",46.33,0,0.3381,0,-0.274
+E77700658,2023-11-01,Z16,Este,urbana_premium,4,3,Desde hace meses no tengo cobertura dentro de casa. hay mucha latencia. No es lo que esperaba.,46.33,0,0.3381,0,-0.616
+E77700983,2023-11-01,Z16,Este,urbana_premium,3,0,En las últimas semanas el 5G ni se nota. no me dieron solución. Gracias por la atención.,46.33,0,0.3381,0,-0.309
+E77700308,2023-11-01,Z17,Sur,suburbana,3,0,En mi experiencia se corta en llamadas. la velocidad es muy baja. me parece caro para lo que ofrecen. No es lo que esperaba.,36.75,0,0.475,0,-0.889
+E77700884,2023-11-01,Z17,Sur,suburbana,1,3,En mi experiencia no carga nada. podría ser mejor. Por otro lado tiene altibajos.,36.75,0,0.475,1,-0.087
+E77700368,2023-11-01,Z18,Sur,urbana_premium,3,2,"Últimamente no tengo cobertura dentro de casa. hay mucha latencia. me parece caro para lo que ofrecen. Si no mejora, me planteo cambiarme.",45.07,0,0.3561,0,-0.359
+E77700565,2023-11-01,Z18,Sur,urbana_premium,5,7,En las últimas semanas la velocidad es muy baja. la factura sube sin explicación. Espero que lo solucionen pronto.,45.07,0,0.3561,1,-0.277
+E77700917,2023-11-01,Z19,Este,rural,2,3,"Desde hace meses se queda sin servicio. el 5G ni se nota. Por favor, revisen la cobertura en mi zona.",22.28,0,0.6817,0,-0.792
+E77700415,2023-11-01,Z20,Oeste,suburbana,2,2,En mi zona la señal va y viene. hay mucha latencia. tardaron muchísimo.,33.74,0,0.518,0,-1.0
+E77700868,2023-11-01,Z20,Oeste,suburbana,3,4,Desde hace meses no tengo cobertura dentro de casa. el 5G ni se nota. la factura sube sin explicación. Gracias por la atención.,33.74,0,0.518,0,-0.419
+E77700464,2023-11-01,Z21,Centro,rural,3,0,"Desde hace meses hay cortes constantes. el 5G ni se nota. me atendieron bien pero no lo resolvieron. Si no mejora, me planteo cambiarme.",19.8,0,0.7171,0,-0.391
+E77700540,2023-11-01,Z26,Oeste,urbana_premium,3,2,En general no he tenido problemas. La verdad no es perfecto pero cumple.,46.09,0,0.3416,0,0.228
+E77700471,2023-11-01,Z27,Norte,suburbana,3,3,En general hay cortes constantes. no carga nada. me atendieron bien pero no lo resolvieron. Gracias por la atención.,37.42,0,0.4654,0,-0.444
+E77700265,2023-11-01,Z30,Centro,suburbana,5,0,Desde hace meses se corta en llamadas. los datos van lentísimos. No es lo que esperaba.,32.07,0,0.5419,1,-0.788
+E77700573,2023-11-01,Z30,Centro,suburbana,2,4,En mi experiencia no tengo cobertura dentro de casa. hay mucha latencia. Espero que lo solucionen pronto.,32.07,0,0.5419,0,-0.771
+E77700392,2023-12-01,Z02,Oeste,suburbana,3,2,Desde hace meses la señal va y viene. se nota congestión. tardaron muchísimo. Espero que lo solucionen pronto.,35.6,0,0.4914,0,-0.54
+E77700412,2023-12-01,Z02,Oeste,suburbana,2,4,"En general se corta en llamadas. no carga nada. Por favor, revisen la cobertura en mi zona.",35.6,0,0.4914,0,-0.93
+E77700741,2023-12-01,Z02,Oeste,suburbana,5,0,En mi experiencia se corta en llamadas. hay mucha latencia. Lo mejor es que tiene altibajos.,35.6,0,0.4914,1,-1.0
+E77700742,2023-12-01,Z02,Oeste,suburbana,4,3,"Desde hace meses los datos van lentísimos. me marean con respuestas. Si no mejora, me planteo cambiarme.",35.6,0,0.4914,0,-0.007
+E77700639,2023-12-01,Z04,Centro,suburbana,1,2,Últimamente hay cortes constantes. no entiendo los cargos. Sinceramente depende del día.,35.45,0,0.4936,1,0.02
+E77700149,2023-12-01,Z05,Este,urbana_premium,2,2,"Desde hace meses no tengo cobertura dentro de casa. no carga nada. Si no mejora, me planteo cambiarme.",46.94,0,0.3294,0,-0.57
+E77700644,2023-12-01,Z05,Este,urbana_premium,3,4,Este mes no tengo cobertura dentro de casa. hay mucha latencia. la factura sube sin explicación. No es lo que esperaba.,46.94,0,0.3294,0,-0.554
+E77700509,2023-12-01,Z09,Norte,urbana_premium,4,4,En las últimas semanas hay cortes constantes. los datos van lentísimos. Gracias por la atención.,47.13,0,0.3267,0,-0.453
+E77700714,2023-12-01,Z09,Norte,urbana_premium,3,0,"En mi experiencia no tengo cobertura dentro de casa. hay mucha latencia. Por favor, revisen la cobertura en mi zona.",47.13,0,0.3267,0,-0.728
+E77700162,2023-12-01,Z10,Este,suburbana,4,5,Este mes se queda sin servicio. hay mucha latencia. Gracias por la atención.,36.16,0,0.4834,1,-0.575
+E77700049,2023-12-01,Z11,Oeste,suburbana,4,5,En general tiene altibajos. no es perfecto pero cumple. Sinceramente no es perfecto pero cumple.,39.53,0,0.4353,0,-0.08
+E77700789,2023-12-01,Z11,Oeste,suburbana,4,0,Últimamente hay cortes constantes. la velocidad es muy baja. En resumen podría ser mejor.,39.53,0,0.4353,1,-0.693
+E77700147,2023-12-01,Z13,Este,suburbana,4,3,Este mes no tengo cobertura dentro de casa. los datos van lentísimos. el descuento no se aplicó. Gracias por la atención.,34.79,0,0.503,1,-0.516
+E77700417,2023-12-01,Z13,Este,suburbana,2,0,"Este mes normal, sin más. la atención al cliente no ayuda. Sinceramente no es perfecto pero cumple.",34.79,0,0.503,0,-0.141
+E77700451,2023-12-01,Z13,Este,suburbana,6,0,En las últimas semanas se corta en llamadas. se nota congestión. la factura sube sin explicación. No es lo que esperaba.,34.79,0,0.503,0,-1.0
+E77700660,2023-12-01,Z13,Este,suburbana,3,5,Desde hace meses podría ser mejor. me marean con respuestas. Sinceramente podría ser mejor.,34.79,0,0.503,0,-0.06
+E77700274,2023-12-01,Z14,Norte,rural,5,0,Desde hace meses se queda sin servicio. hay mucha latencia. Espero que lo solucionen pronto.,18.71,0,0.7327,1,-1.0
+E77700483,2023-12-01,Z14,Norte,rural,3,1,"Desde hace meses la señal va y viene. los datos van lentísimos. Si no mejora, me planteo cambiarme.",18.71,0,0.7327,0,-0.707
+E77700791,2023-12-01,Z15,Oeste,suburbana,4,6,"Desde hace meses la cobertura es mala. tiene altibajos. Por favor, revisen la cobertura en mi zona.",33.84,0,0.5166,1,-0.207
+E77700923,2023-12-01,Z15,Oeste,suburbana,2,0,En las últimas semanas hay cortes constantes. la velocidad es muy baja. me parece caro para lo que ofrecen. Espero que lo solucionen pronto.,33.84,0,0.5166,0,-0.806
+E77700441,2023-12-01,Z16,Este,urbana_premium,4,0,"Desde hace meses la cobertura es mala. hay mucha latencia. En resumen normal, sin más.",46.02,0,0.3426,1,-0.76
+E77700038,2023-12-01,Z17,Sur,suburbana,3,1,Desde hace meses no tengo cobertura dentro de casa. no carga nada. no me dieron solución. Espero que lo solucionen pronto.,34.96,0,0.5006,0,-1.0
+E77700743,2023-12-01,Z17,Sur,suburbana,2,0,Últimamente se queda sin servicio. hay mucha latencia. Espero que lo solucionen pronto.,34.96,0,0.5006,0,-0.41
+E77700863,2023-12-01,Z18,Sur,urbana_premium,4,4,"Este mes la cobertura es mala. me cobraron de más. Lo mejor es que normal, sin más.",45.47,0,0.3504,0,-0.225
+E77700017,2023-12-01,Z26,Oeste,urbana_premium,2,4,Últimamente los datos van lentísimos. me atendieron bien pero no lo resolvieron. Espero que lo solucionen pronto.,46.85,0,0.3307,1,-0.036
+E77700108,2023-12-01,Z26,Oeste,urbana_premium,3,1,Últimamente se queda sin servicio. hay mucha latencia. No es lo que esperaba.,46.85,0,0.3307,0,-1.0
+E77700897,2023-12-01,Z26,Oeste,urbana_premium,3,0,En mi experiencia no tengo cobertura dentro de casa. el 5G ni se nota. Gracias por la atención.,46.85,0,0.3307,0,-0.673
+E77700341,2023-12-01,Z28,Sur,urbana_premium,5,2,En mi experiencia se queda sin servicio. depende del día. En resumen no es perfecto pero cumple.,46.01,0,0.3427,1,-0.101
+E77700155,2023-12-01,Z29,Oeste,urbana_premium,3,4,"En mi zona la velocidad es muy baja. normal, sin más. Además podría ser mejor.",46.11,0,0.3413,0,-0.316
+E77700777,2023-12-01,Z29,Oeste,urbana_premium,3,12,En las últimas semanas hay cortes constantes. los datos van lentísimos. Espero que lo solucionen pronto.,46.11,0,0.3413,0,-0.713
+E77700993,2023-12-01,Z29,Oeste,urbana_premium,3,0,En las últimas semanas la cobertura es mala. se nota congestión. la factura sube sin explicación. Espero que lo solucionen pronto.,46.11,0,0.3413,0,-0.617
+E77700039,2024-01-01,Z01,Centro,rural,4,1,En general hay cortes constantes. hay mucha latencia. me marean con respuestas. Gracias por la atención.,23.59,0,0.663,1,-0.865
+E77700589,2024-01-01,Z02,Oeste,suburbana,3,4,Últimamente la señal va y viene. se nota congestión. me marean con respuestas. No es lo que esperaba.,35.88,0,0.4874,0,-0.528
+E77700620,2024-01-01,Z02,Oeste,suburbana,5,0,En las últimas semanas se queda sin servicio. el 5G ni se nota. Gracias por la atención.,35.88,0,0.4874,1,-0.982
+E77700887,2024-01-01,Z04,Centro,suburbana,2,0,Desde hace meses hay cortes constantes. se nota congestión. No es lo que esperaba.,35.81,0,0.4884,0,-0.904
+E77700922,2024-01-01,Z05,Este,urbana_premium,4,5,"En general hay mucha latencia. tardaron muchísimo. Si no mejora, me planteo cambiarme.",47.64,0,0.3194,1,-0.251
+E77700452,2024-01-01,Z08,Sur,rural,3,1,Desde hace meses no tengo cobertura dentro de casa. hay mucha latencia. No es lo que esperaba.,20.88,0,0.7017,0,-1.0
+E77700425,2024-01-01,Z09,Norte,urbana_premium,4,6,Desde hace meses la cobertura es buena. Lo peor es que tiene altibajos.,48.01,0,0.3141,0,0.234
+E77700911,2024-01-01,Z09,Norte,urbana_premium,2,0,Desde hace meses se corta en llamadas. me cobraron de más. Por otro lado tiene altibajos.,48.01,0,0.3141,1,0.058
+E77700262,2024-01-01,Z11,Oeste,suburbana,3,1,Últimamente la señal va y viene. se nota congestión. me atendieron bien pero no lo resolvieron. No es lo que esperaba.,34.68,0,0.5046,0,-1.0
+E77700886,2024-01-01,Z12,Norte,rural,4,3,En mi experiencia hay cortes constantes. la velocidad es muy baja. me marean con respuestas. No es lo que esperaba.,24.08,0,0.656,1,-0.826
+E77700142,2024-01-01,Z13,Este,suburbana,3,4,Este mes se corta en llamadas. hay mucha latencia. Espero que lo solucionen pronto.,36.81,0,0.4741,0,-0.361
+E77700732,2024-01-01,Z15,Oeste,suburbana,4,1,En general la cobertura es mala. se nota congestión. me atendieron bien pero no lo resolvieron. Espero que lo solucionen pronto.,34.9,0,0.5014,1,-0.673
+E77700184,2024-01-01,Z16,Este,urbana_premium,4,3,En mi zona hay cortes constantes. depende del día. Además depende del día.,48.28,0,0.3103,0,-0.21
+E77700730,2024-01-01,Z16,Este,urbana_premium,3,5,Últimamente la cobertura es mala. me atendieron bien pero no lo resolvieron.,48.28,0,0.3103,0,-0.207
+E77700885,2024-01-01,Z16,Este,urbana_premium,3,1,En mi experiencia se queda sin servicio. el 5G ni se nota. Gracias por la atención.,48.28,0,0.3103,0,-0.581
+E77700893,2024-01-01,Z16,Este,urbana_premium,5,3,"Últimamente se corta en llamadas. no carga nada. me atendieron bien pero no lo resolvieron. Si no mejora, me planteo cambiarme.",48.28,0,0.3103,1,-0.909
+E77700972,2024-01-01,Z16,Este,urbana_premium,4,3,En mi zona no es perfecto pero cumple. no me dieron solución.,48.28,0,0.3103,0,-0.236
+E77700555,2024-01-01,Z17,Sur,suburbana,4,0,En general la señal va y viene. hay mucha latencia. No es lo que esperaba.,35.15,0,0.4979,0,-0.461
+E77700840,2024-01-01,Z17,Sur,suburbana,3,0,En mi zona se corta en llamadas. los datos van lentísimos. No es lo que esperaba.,35.15,0,0.4979,0,-1.0
+E77700053,2024-01-01,Z18,Sur,urbana_premium,3,6,En general se corta en llamadas. el 5G ni se nota. En resumen tiene altibajos.,44.39,0,0.3659,0,-1.0
+E77700474,2024-01-01,Z18,Sur,urbana_premium,3,18,"En mi experiencia la cobertura es mala. la factura sube sin explicación. Si no mejora, me planteo cambiarme.",44.39,0,0.3659,0,-0.13
+E77700731,2024-01-01,Z20,Oeste,suburbana,2,0,En las últimas semanas hay cortes constantes. se nota congestión. No es lo que esperaba.,36.33,0,0.481,0,-1.0
+E77700179,2024-01-01,Z21,Centro,rural,5,1,"En mi experiencia la cobertura es mala. se nota congestión. Si no mejora, me planteo cambiarme.",22.19,0,0.683,1,-1.0
+E77700207,2024-01-01,Z22,Este,suburbana,4,0,"Este mes no tengo cobertura dentro de casa. se nota congestión. Si no mejora, me planteo cambiarme.",35.57,0,0.4919,1,-0.532
+E77700706,2024-01-01,Z22,Este,suburbana,2,0,Este mes hay cortes constantes. la velocidad es muy baja. Espero que lo solucionen pronto.,35.57,0,0.4919,0,-1.0
+E77700511,2024-01-01,Z23,Norte,rural,1,2,Este mes la velocidad es muy baja. la factura sube sin explicación.,22.98,0,0.6717,1,0.069
+E77700671,2024-01-01,Z26,Oeste,urbana_premium,2,0,En mi zona se queda sin servicio. no carga nada. la factura sube sin explicación. Espero que lo solucionen pronto.,46.52,0,0.3354,0,-0.749
+E77700873,2024-01-01,Z26,Oeste,urbana_premium,4,2,,46.52,0,0.3354,1,-1.0
+E77700099,2024-01-01,Z28,Sur,urbana_premium,3,0,En las últimas semanas no tengo cobertura dentro de casa. no carga nada. no entiendo los cargos.,45.51,0,0.3499,0,-0.757
+E77700266,2024-01-01,Z28,Sur,urbana_premium,2,3,"Este mes se corta en llamadas. no carga nada. Por favor, revisen la cobertura en mi zona.",45.51,0,0.3499,0,-0.565
+E77700813,2024-01-01,Z28,Sur,urbana_premium,3,8,En general no carga nada. tardaron muchísimo. Lo mejor es que no es perfecto pero cumple.,45.51,0,0.3499,0,0.085
+E77700546,2024-01-01,Z29,Oeste,urbana_premium,3,7,En mi zona la señal va y viene. depende del día. Lo peor es que depende del día.,45.67,0,0.3476,0,-0.187
+E77700263,2024-01-01,Z30,Centro,suburbana,3,4,Desde hace meses los datos van lentísimos. la factura sube sin explicación.,35.54,0,0.4923,0,-0.303
+E77700045,2024-02-01,Z05,Este,urbana_premium,3,4,En las últimas semanas no es perfecto pero cumple. tardaron muchísimo. La verdad no es perfecto pero cumple.,45.93,0,0.3439,0,0.001
+E77700259,2024-02-01,Z05,Este,urbana_premium,2,4,Desde hace meses no es perfecto pero cumple. me cobraron de más.,45.93,0,0.3439,0,-0.314
+E77700408,2024-02-01,Z05,Este,urbana_premium,3,0,En mi experiencia se queda sin servicio. no carga nada. el descuento no se aplicó. Espero que lo solucionen pronto.,45.93,0,0.3439,0,-0.952
+E77700468,2024-02-01,Z05,Este,urbana_premium,4,2,Últimamente funciona bastante bien. podría ser mejor. Lo peor es que podría ser mejor.,45.93,0,0.3439,0,0.19
+E77700783,2024-02-01,Z05,Este,urbana_premium,5,2,Desde hace meses la señal va y viene. me parece caro para lo que ofrecen.,45.93,0,0.3439,1,-0.296
+E77700600,2024-02-01,Z08,Sur,rural,1,2,Este mes no carga nada. el descuento no se aplicó. Por otro lado no es perfecto pero cumple.,22.06,0,0.6849,1,0.1
+E77700996,2024-02-01,Z08,Sur,rural,2,0,En las últimas semanas hay cortes constantes. se nota congestión. me marean con respuestas.,22.06,0,0.6849,0,-0.916
+E77700389,2024-02-01,Z09,Norte,urbana_premium,3,0,"Desde hace meses la cobertura es mala. se nota congestión. Sinceramente normal, sin más.",48.02,0,0.314,0,-1.0
+E77700805,2024-02-01,Z10,Este,suburbana,2,4,Este mes no tengo cobertura dentro de casa. se nota congestión. me cobraron de más.,37.2,0,0.4686,0,-1.0
+E77700784,2024-02-01,Z11,Oeste,suburbana,5,3,En general no tengo cobertura dentro de casa. los datos van lentísimos. la factura sube sin explicación. Gracias por la atención.,37.27,0,0.4676,1,-0.682
+E77700371,2024-02-01,Z13,Este,suburbana,1,1,"Desde hace meses tiene altibajos. no me dieron solución. Por favor, revisen la cobertura en mi zona.",34.85,0,0.5021,1,0.003
+E77700823,2024-02-01,Z13,Este,suburbana,4,3,Desde hace meses la señal va y viene. la velocidad es muy baja. Gracias por la atención.,34.85,0,0.5021,0,-0.4
+E77700302,2024-02-01,Z14,Norte,rural,5,0,En mi zona la cobertura es mala. se nota congestión. tardaron muchísimo. Espero que lo solucionen pronto.,21.55,0,0.6921,1,-0.784
+E77700419,2024-02-01,Z14,Norte,rural,3,5,Este mes la cobertura es mala. me marean con respuestas. Además tiene altibajos.,21.55,0,0.6921,0,-0.092
+E77700690,2024-02-01,Z15,Oeste,suburbana,2,2,Últimamente la señal va y viene. se nota congestión. Gracias por la atención.,37.57,0,0.4633,0,-0.8
+E77700750,2024-02-01,Z16,Este,urbana_premium,3,6,Últimamente se queda sin servicio. hay mucha latencia. no me dieron solución. Gracias por la atención.,46.03,0,0.3424,0,-0.643
+E77700992,2024-02-01,Z17,Sur,suburbana,3,0,Este mes no tengo cobertura dentro de casa. no carga nada. no entiendo los cargos.,35.86,0,0.4877,0,-0.638
+E77700663,2024-02-01,Z18,Sur,urbana_premium,3,2,"En general no tengo cobertura dentro de casa. la velocidad es muy baja. Por favor, revisen la cobertura en mi zona.",48.66,0,0.3049,0,-0.442
+E77700181,2024-02-01,Z21,Centro,rural,3,0,En mi experiencia se corta en llamadas. se nota congestión. me cobraron de más. Gracias por la atención.,20.93,0,0.701,0,-0.992
+E77700212,2024-02-01,Z24,Centro,rural,2,1,"Desde hace meses la cobertura es mala. se nota congestión. me parece caro para lo que ofrecen. Si no mejora, me planteo cambiarme.",20.11,0,0.7127,0,-1.0
+E77700397,2024-02-01,Z26,Oeste,urbana_premium,4,4,"En mi experiencia normal, sin más. no me dieron solución. Lo peor es que normal, sin más.",49.21,0,0.297,0,-0.312
+E77700628,2024-02-01,Z26,Oeste,urbana_premium,3,0,En mi experiencia hay cortes constantes. el 5G ni se nota. No es lo que esperaba.,49.21,0,0.297,0,-1.0
+E77700751,2024-02-01,Z26,Oeste,urbana_premium,3,4,"En general se queda sin servicio. hay mucha latencia. Por favor, revisen la cobertura en mi zona.",49.21,0,0.297,0,-0.521
+E77700794,2024-02-01,Z26,Oeste,urbana_premium,3,2,Últimamente se queda sin servicio. los datos van lentísimos. Espero que lo solucionen pronto.,49.21,0,0.297,0,-0.351
+E77700543,2024-02-01,Z27,Norte,suburbana,3,0,"En mi experiencia se corta en llamadas. se nota congestión. tardaron muchísimo. Si no mejora, me planteo cambiarme.",38.15,0,0.455,0,-0.907
+E77700337,2024-02-01,Z28,Sur,urbana_premium,1,5,En las últimas semanas no tengo cobertura dentro de casa. hay mucha latencia. Espero que lo solucionen pronto.,46.7,0,0.3329,0,-0.611
+E77700994,01/02/2024,Z28,Sur,urbana_premium,4,0,En general los datos van lentísimos. depende del día. En resumen podría ser mejor.,46.7,0,0.3329,0,-0.314
+E77700093,2024-02-01,Z29,Oeste,urbana_premium,3,1,Este mes se corta en llamadas. no carga nada. la factura sube sin explicación. Espero que lo solucionen pronto.,46.82,0,0.3311,0,-0.801
+E77700292,2024-02-01,Z29,Oeste,urbana_premium,4,0,Últimamente la cobertura es mala. los datos van lentísimos. No es lo que esperaba.,46.82,0,0.3311,0,-0.357
+E77700944,2024-03-01,Z01,Centro,rural,4,4,"Desde hace meses no tengo cobertura dentro de casa. la velocidad es muy baja. Por favor, revisen la cobertura en mi zona.",22.23,0,0.6824,1,-0.595
+E77700067,2024-03-01,Z04,Centro,suburbana,4,6,"En las últimas semanas no tengo cobertura dentro de casa. la velocidad es muy baja. Si no mejora, me planteo cambiarme.",37.0,0,0.4714,0,-0.409
+E77700303,2024-03-01,Z04,Centro,suburbana,4,3,"Este mes hay cortes constantes. el 5G ni se nota. me parece caro para lo que ofrecen. Si no mejora, me planteo cambiarme.",37.0,0,0.4714,1,-1.0
+E77700418,2024-03-01,Z04,Centro,suburbana,3,1,En general no tengo cobertura dentro de casa. los datos van lentísimos. me cobraron de más. Gracias por la atención.,37.0,0,0.4714,0,-0.803
+E77700153,2024-03-01,Z05,Este,urbana_premium,1,1,En general en general estoy satisfecho. Lo mejor es que tiene altibajos.,47.66,0,0.3191,1,0.163
+E77700214,2024-03-01,Z05,Este,urbana_premium,3,5,En mi zona tiene altibajos. me atendieron bien pero no lo resolvieron.,47.66,0,0.3191,0,-0.058
+E77700692,2024-03-01,Z05,Este,urbana_premium,2,1,En las últimas semanas no tengo cobertura dentro de casa. hay mucha latencia. No es lo que esperaba.,47.66,0,0.3191,0,-0.572
+E77700163,2024-03-01,Z09,Norte,urbana_premium,3,0,Este mes la cobertura es mala. se nota congestión. En resumen depende del día.,49.94,0,0.2866,0,-0.933
+E77700182,2024-03-01,Z09,Norte,urbana_premium,4,2,,49.94,0,0.2866,0,-0.48
+E77700656,2024-03-01,Z09,Norte,urbana_premium,3,1,En general se corta en llamadas. la velocidad es muy baja. me marean con respuestas. No es lo que esperaba.,49.94,0,0.2866,0,-0.522
+E77700770,2024-03-01,Z17,Sur,suburbana,3,3,Desde hace meses hay cortes constantes. no carga nada. no me dieron solución. Espero que lo solucionen pronto.,37.3,0,0.4671,0,-1.0
+E77700679,2024-03-01,Z18,Sur,urbana_premium,3,0,Este mes la cobertura es mala. los datos van lentísimos. no entiendo los cargos. Espero que lo solucionen pronto.,50.06,0,0.2849,0,-0.631
+E77700951,2024-03-01,Z18,Sur,urbana_premium,4,7,Desde hace meses el 5G ni se nota. podría ser mejor. Lo peor es que podría ser mejor.,50.06,0,0.2849,0,0.092
+E77700243,2024-03-01,Z20,Oeste,suburbana,3,0,Este mes se queda sin servicio. la velocidad es muy baja. no me dieron solución. Gracias por la atención.,36.44,0,0.4794,0,-0.996
+E77700688,2024-03-01,Z20,Oeste,suburbana,2,1,"En general la señal va y viene. se nota congestión. Por favor, revisen la cobertura en mi zona.",36.44,0,0.4794,0,-0.943
+E77700246,2024-03-01,Z21,Centro,rural,4,2,En general se queda sin servicio. la velocidad es muy baja. Por otro lado tiene altibajos.,21.68,0,0.6903,1,-0.921
+E77700175,2024-03-01,Z22,Este,suburbana,3,4,"Este mes hay cortes constantes. hay mucha latencia. Por favor, revisen la cobertura en mi zona.",35.81,0,0.4884,0,-0.781
+E77700798,2024-03-01,Z22,Este,suburbana,3,2,"En mi experiencia la señal va y viene. la velocidad es muy baja. tardaron muchísimo. Por favor, revisen la cobertura en mi zona.",35.81,0,0.4884,0,-1.0
+E77700799,2024-03-01,Z22,Este,suburbana,2,2,En general la cobertura es mala. la velocidad es muy baja. no entiendo los cargos. Espero que lo solucionen pronto.,35.81,0,0.4884,0,-0.415
+E77700534,2024-03-01,Z23,Norte,rural,2,3,"Este mes la velocidad es muy baja. depende del día. Sinceramente normal, sin más.",18.36,0,0.7377,0,-0.332
+E77700332,2024-03-01,Z26,Oeste,urbana_premium,4,4,"En mi experiencia podría ser mejor. tardaron muchísimo. Por favor, revisen la cobertura en mi zona.",49.04,0,0.2994,0,0.149
+E77700357,2024-03-01,Z26,Oeste,urbana_premium,4,1,Este mes la señal va y viene. el 5G ni se nota. tardaron muchísimo.,49.04,0,0.2994,1,-0.447
+E77700335,2024-03-01,Z27,Norte,suburbana,2,2,En mi zona se queda sin servicio. no carga nada. Por otro lado depende del día.,37.12,0,0.4697,0,-0.666
+E77700829,2024-04-01,Z03,Sur,rural,3,0,"En general se corta en llamadas. no carga nada. el descuento no se aplicó. Por favor, revisen la cobertura en mi zona.",19.51,0,0.7213,0,-1.0
+E77700118,2024-04-01,Z04,Centro,suburbana,3,2,"En mi zona se corta en llamadas. el 5G ni se nota. Si no mejora, me planteo cambiarme.",36.63,0,0.4767,0,-1.0
+E77700002,2024-04-01,Z05,Este,urbana_premium,5,1,Últimamente hay cortes constantes. no carga nada. no me dieron solución. Espero que lo solucionen pronto.,49.66,0,0.2906,1,-0.353
+E77700598,2024-04-01,Z05,Este,urbana_premium,4,5,En las últimas semanas depende del día. tiene altibajos. En resumen depende del día.,49.66,0,0.2906,0,-0.234
+E77700697,2024-04-01,Z05,Este,urbana_premium,3,6,"En mi zona normal, sin más. tiene altibajos. Además depende del día.",49.66,0,0.2906,0,-0.102
+E77700819,2024-04-01,Z05,Este,urbana_premium,4,0,"En general los datos van lentísimos. normal, sin más. Lo mejor es que tiene altibajos.",49.66,0,0.2906,0,-0.329
+E77700158,01/04/2024,Z06,Sur,rural,3,3,"Últimamente la cobertura es mala. se nota congestión. Por favor, revisen la cobertura en mi zona.",22.34,0,0.6809,0,-0.971
+E77700257,2024-04-01,Z07,Centro,rural,2,3,"Desde hace meses podría ser mejor. normal, sin más. Lo mejor es que normal, sin más.",19.89,0,0.7159,1,0.056
+E77700229,2024-04-01,Z08,Sur,rural,5,0,En mi zona hay cortes constantes. el 5G ni se nota. me atendieron bien pero no lo resolvieron.,23.04,0,0.6709,1,-0.897
+E77700145,2024-04-01,Z09,Norte,urbana_premium,4,6,En mi zona funciona bastante bien. Por otro lado podría ser mejor.,48.4,0,0.3086,0,0.241
+E77700788,2024-04-01,Z10,Este,suburbana,3,7,"En mi zona podría ser mejor. me atendieron bien pero no lo resolvieron. Por favor, revisen la cobertura en mi zona.",34.87,0,0.5019,0,-0.182
+E77700403,2024-04-01,Z11,Oeste,suburbana,3,2,En general se corta en llamadas. hay mucha latencia. no me dieron solución. No es lo que esperaba.,38.81,0,0.4456,0,-0.575
+E77700711,01/04/2024,Z11,Oeste,suburbana,2,0,"Desde hace meses la señal va y viene. el 5G ni se nota. Si no mejora, me planteo cambiarme.",38.81,0,0.4456,0,-1.0
+E77700719,2024-04-01,Z15,Oeste,suburbana,5,0,En general se corta en llamadas. los datos van lentísimos. Lo peor es que no es perfecto pero cumple.,35.8,0,0.4886,1,-0.4
+E77700995,2024-04-01,Z15,Oeste,suburbana,4,2,Últimamente tiene altibajos. me cobraron de más. La verdad tiene altibajos. Por otro lado tiene altibajos.,35.8,0,0.4886,1,-0.294
+E77700075,2024-04-01,Z16,Este,urbana_premium,4,2,"Desde hace meses no tengo cobertura dentro de casa. hay mucha latencia. Por favor, revisen la cobertura en mi zona.",46.99,0,0.3287,0,-0.7
+E77700338,2024-04-01,Z16,Este,urbana_premium,3,5,En mi zona se corta en llamadas. no me dieron solución. La verdad depende del día.,46.99,0,0.3287,0,-0.174
+E77700479,2024-04-01,Z16,Este,urbana_premium,4,0,"En general la señal va y viene. no carga nada. la factura sube sin explicación. Si no mejora, me planteo cambiarme.",46.99,0,0.3287,1,-0.961
+E77700255,2024-04-01,Z17,Sur,suburbana,5,0,En general la cobertura es mala. el 5G ni se nota. Lo peor es que podría ser mejor.,37.03,0,0.471,1,-0.96
+E77700105,2024-04-01,Z18,Sur,urbana_premium,4,1,Este mes hay cortes constantes. la velocidad es muy baja. me marean con respuestas. Gracias por la atención.,48.55,0,0.3064,1,-0.734
+E77700399,2024-04-01,Z18,Sur,urbana_premium,4,3,Este mes no es perfecto pero cumple. depende del día. Lo peor es que depende del día.,48.55,0,0.3064,1,-0.227
+E77700838,2024-04-01,Z18,Sur,urbana_premium,2,1,"En mi experiencia hay cortes constantes. los datos van lentísimos. no entiendo los cargos. Por favor, revisen la cobertura en mi zona.",48.55,0,0.3064,0,-0.394
+E77700890,2024-04-01,Z18,Sur,urbana_premium,4,8,Últimamente no tengo cobertura dentro de casa. el descuento no se aplicó.,48.55,0,0.3064,1,-0.287
+E77700330,2024-04-01,Z20,Oeste,suburbana,3,0,En mi zona se queda sin servicio. no carga nada. me atendieron bien pero no lo resolvieron. No es lo que esperaba.,37.56,0,0.4634,0,-1.0
+E77700421,2024-04-01,Z25,Oeste,rural,3,2,En las últimas semanas la señal va y viene. la velocidad es muy baja.,22.69,0,0.6759,0,-0.423
+E77700481,2024-04-01,Z26,Oeste,urbana_premium,3,2,"En general podría ser mejor. normal, sin más. En resumen depende del día.",50.87,0,0.2733,0,-0.066
+E77700684,2024-04-01,Z26,Oeste,urbana_premium,4,5,"Últimamente no carga nada. no entiendo los cargos. Por otro lado normal, sin más.",50.87,0,0.2733,0,-0.318
+E77700587,2024-04-01,Z29,Oeste,urbana_premium,3,1,En mi zona la señal va y viene. no carga nada. me cobraron de más.,51.02,0,0.2711,0,-0.371
+E77700659,2024-04-01,Z29,Oeste,urbana_premium,3,5,En mi experiencia se nota congestión. me cobraron de más. Espero que lo solucionen pronto.,51.02,0,0.2711,0,0.021
+E77700194,2024-04-01,Z30,Centro,suburbana,4,2,En las últimas semanas se corta en llamadas. no carga nada. Además podría ser mejor.,37.17,0,0.469,0,-0.745
+E77700963,2024-04-01,Z30,Centro,suburbana,3,2,"En mi experiencia se queda sin servicio. no carga nada. tardaron muchísimo. Si no mejora, me planteo cambiarme.",37.17,0,0.469,0,-0.906
+E77700115,2024-05-01,Z01,Centro,rural,1,0,"En mi zona no es perfecto pero cumple. no es perfecto pero cumple. Si no mejora, me planteo cambiarme.",22.31,0,0.6813,1,-0.017
+E77700030,2024-05-01,Z04,Centro,suburbana,4,5,"Este mes hay cortes constantes. se nota congestión. Si no mejora, me planteo cambiarme.",40.78,0,0.4174,0,-0.643
+E77700191,2024-05-01,Z05,Este,urbana_premium,5,4,En mi experiencia se corta en llamadas. hay mucha latencia. me parece caro para lo que ofrecen. No es lo que esperaba.,51.49,0,0.2644,1,-0.512
+E77700668,2024-05-01,Z05,Este,urbana_premium,3,5,"Desde hace meses la velocidad es muy baja. normal, sin más. Por otro lado no es perfecto pero cumple.",51.49,0,0.2644,0,0.078
+E77700110,2024-05-01,Z08,Sur,rural,4,0,Últimamente no tengo cobertura dentro de casa. la velocidad es muy baja. Espero que lo solucionen pronto.,20.12,0,0.7126,1,-0.883
+E77700014,2024-05-01,Z09,Norte,urbana_premium,2,2,En mi experiencia hay cortes constantes. me marean con respuestas. Sinceramente no es perfecto pero cumple.,47.26,0,0.3249,0,-0.311
+E77700193,2024-05-01,Z09,Norte,urbana_premium,1,2,Desde hace meses todo correcto. Lo peor es que tiene altibajos. Sinceramente no es perfecto pero cumple.,47.26,0,0.3249,1,0.317
+E77700256,2024-05-01,Z09,Norte,urbana_premium,3,1,En las últimas semanas se queda sin servicio. me parece caro para lo que ofrecen. No es lo que esperaba.,47.26,0,0.3249,0,-0.331
+E77700316,2024-05-01,Z09,Norte,urbana_premium,3,5,"Desde hace meses se queda sin servicio. los datos van lentísimos. Por favor, revisen la cobertura en mi zona.",47.26,0,0.3249,0,-0.459
+E77700374,2024-05-01,Z09,Norte,urbana_premium,2,3,Desde hace meses no carga nada. tiene altibajos. No es lo que esperaba.,47.26,0,0.3249,0,-0.27
+E77700710,2024-05-01,Z09,Norte,urbana_premium,6,5,En las últimas semanas la señal va y viene. no me dieron solución.,47.26,0,0.3249,0,-0.341
+E77700159,2024-05-01,Z15,Oeste,suburbana,4,2,"En las últimas semanas se queda sin servicio. se nota congestión. tardaron muchísimo. Por favor, revisen la cobertura en mi zona.",36.7,0,0.4757,1,-0.611
+E77700614,2024-05-01,Z17,Sur,suburbana,3,4,Este mes la cobertura es mala. no carga nada. me cobraron de más. No es lo que esperaba.,36.81,0,0.4741,0,-0.704
+E77700811,2024-05-01,Z17,Sur,suburbana,1,2,En mi zona hay cortes constantes. hay mucha latencia. Gracias por la atención.,36.81,0,0.4741,0,-0.638
+E77700971,2024-05-01,Z18,Sur,urbana_premium,4,1,En las últimas semanas podría ser mejor. la atención al cliente no ayuda.,52.97,0,0.2433,0,-0.072
+E77700984,2024-05-01,Z18,Sur,urbana_premium,3,2,En general se queda sin servicio. no carga nada. Gracias por la atención.,52.97,0,0.2433,0,-0.451
+E77700442,2024-05-01,Z20,Oeste,suburbana,4,0,En mi experiencia la señal va y viene. los datos van lentísimos. Gracias por la atención.,35.88,0,0.4874,0,-0.839
+E77700709,2024-05-01,Z26,Oeste,urbana_premium,3,2,Últimamente no tengo cobertura dentro de casa. no es perfecto pero cumple.,50.07,0,0.2847,0,-0.236
+E77700318,2024-05-01,Z28,Sur,urbana_premium,4,4,En las últimas semanas el 5G ni se nota. me atendieron bien pero no lo resolvieron.,46.71,0,0.3327,0,-0.195
+E77700723,2024-05-01,Z28,Sur,urbana_premium,3,2,En general no tengo cobertura dentro de casa. se nota congestión. tardaron muchísimo. No es lo que esperaba.,46.71,0,0.3327,0,-1.0
+E77700101,2024-05-01,Z29,Oeste,urbana_premium,4,6,En las últimas semanas no es perfecto pero cumple. me atendieron bien pero no lo resolvieron.,49.75,0,0.2893,0,-0.068
+E77700486,2024-05-01,Z29,Oeste,urbana_premium,3,1,En mi zona la señal va y viene. los datos van lentísimos. me parece caro para lo que ofrecen. Gracias por la atención.,49.75,0,0.2893,0,-0.647
+E77700861,2024-05-01,Z29,Oeste,urbana_premium,2,3,En general se queda sin servicio. hay mucha latencia. me atendieron bien pero no lo resolvieron.,49.75,0,0.2893,0,-0.955
+E77700570,2024-05-01,Z30,Centro,suburbana,3,1,,37.92,0,0.4583,0,-0.633
+E77700781,2024-05-01,Z30,Centro,suburbana,5,1,Últimamente se corta en llamadas. la velocidad es muy baja. Gracias por la atención.,37.92,0,0.4583,1,-0.68
+E77700148,2024-06-01,Z05,Este,urbana_premium,5,3,Desde hace meses no tengo cobertura dentro de casa. el 5G ni se nota. No es lo que esperaba.,50.21,0,0.2827,1,-0.451
+E77700398,2024-06-01,Z05,Este,urbana_premium,4,0,Desde hace meses los datos van lentísimos. el descuento no se aplicó. Gracias por la atención.,50.21,0,0.2827,0,-0.251
+E77700870,2024-06-01,Z05,Este,urbana_premium,5,1,En general la cobertura es mala. hay mucha latencia. Espero que lo solucionen pronto.,50.21,0,0.2827,1,-0.72
+E77700934,2024-06-01,Z05,Este,urbana_premium,3,0,"En mi zona hay cortes constantes. la velocidad es muy baja. Si no mejora, me planteo cambiarme.",50.21,0,0.2827,0,-0.485
+E77700288,2024-06-01,Z09,Norte,urbana_premium,2,0,"Últimamente se corta en llamadas. no es perfecto pero cumple. Si no mejora, me planteo cambiarme.",42.22,1,0.3969,1,0.028
+E77700043,2024-06-01,Z10,Este,suburbana,3,4,Desde hace meses la cobertura es mala. la velocidad es muy baja. Gracias por la atención.,37.68,0,0.4617,0,-0.513
+E77700135,2024-06-01,Z11,Oeste,suburbana,5,1,"En mi experiencia la señal va y viene. no carga nada. me atendieron bien pero no lo resolvieron. Por favor, revisen la cobertura en mi zona.",37.02,0,0.4711,1,-0.584
+E77700901,2024-06-01,Z12,Norte,rural,2,0,Últimamente se corta en llamadas. el 5G ni se nota. No es lo que esperaba.,17.62,1,0.7483,0,-1.0
+E77700121,2024-06-01,Z16,Este,urbana_premium,2,1,En mi experiencia la cobertura es mala. los datos van lentísimos. la factura sube sin explicación. Gracias por la atención.,49.87,0,0.2876,0,-0.521
+E77700134,2024-06-01,Z16,Este,urbana_premium,5,5,"En mi experiencia hay mucha latencia. tiene altibajos. Si no mejora, me planteo cambiarme.",49.87,0,0.2876,1,-0.165
+E77700358,2024-06-01,Z16,Este,urbana_premium,5,9,Este mes se nota congestión. me atendieron bien pero no lo resolvieron.,49.87,0,0.2876,1,-0.272
+E77700564,2024-06-01,Z16,Este,urbana_premium,3,4,"Últimamente se queda sin servicio. el 5G ni se nota. Por favor, revisen la cobertura en mi zona.",49.87,0,0.2876,0,-0.494
+E77700715,2024-06-01,Z16,Este,urbana_premium,2,2,"En las últimas semanas se queda sin servicio. no carga nada. me parece caro para lo que ofrecen. Por favor, revisen la cobertura en mi zona.",49.87,0,0.2876,0,-0.64
+E77700744,2024-06-01,Z16,Este,urbana_premium,5,0,Este mes la cobertura es mala. se nota congestión. Espero que lo solucionen pronto.,49.87,0,0.2876,1,-0.625
+E77700300,2024-06-01,Z17,Sur,suburbana,3,7,"Este mes no es perfecto pero cumple. normal, sin más. La verdad depende del día.",38.01,0,0.457,0,-0.278
+E77700100,2024-06-01,Z18,Sur,urbana_premium,2,3,En mi experiencia los datos van lentísimos. la atención al cliente no ayuda.,51.43,0,0.2653,1,-0.077
+E77700327,2024-06-01,Z22,Este,suburbana,3,5,Este mes se nota congestión. no entiendo los cargos. Además depende del día.,36.01,0,0.4856,0,-0.146
+E77700366,2024-06-01,Z22,Este,suburbana,4,1,"En general no tengo cobertura dentro de casa. depende del día. Por favor, revisen la cobertura en mi zona.",36.01,0,0.4856,1,-0.347
+E77700595,2024-06-01,Z22,Este,suburbana,3,1,"En las últimas semanas hay cortes constantes. el 5G ni se nota. no entiendo los cargos. Por favor, revisen la cobertura en mi zona.",36.01,0,0.4856,0,-0.91
+E77700938,2024-06-01,Z23,Norte,rural,2,1,En mi experiencia la velocidad es muy baja. la factura sube sin explicación.,17.49,1,0.7501,1,-0.088
+E77700208,2024-06-01,Z25,Oeste,rural,3,1,Últimamente se corta en llamadas. los datos van lentísimos. me parece caro para lo que ofrecen. Gracias por la atención.,22.84,0,0.6737,0,-0.673
+E77700013,2024-06-01,Z26,Oeste,urbana_premium,4,5,,47.17,0,0.3261,0,-0.188
+E77700757,2024-06-01,Z26,Oeste,urbana_premium,5,4,En general hay cortes constantes. me cobraron de más. Lo mejor es que no es perfecto pero cumple.,47.17,0,0.3261,1,-0.298
+E77700970,2024-06-01,Z26,Oeste,urbana_premium,2,0,"En mi zona hay cortes constantes. no entiendo los cargos. Si no mejora, me planteo cambiarme.",47.17,0,0.3261,0,-0.135
+E77700220,2024-06-01,Z28,Sur,urbana_premium,2,9,Últimamente se queda sin servicio. me parece caro para lo que ofrecen.,50.01,0,0.2856,0,-0.308
+E77700931,2024-06-01,Z28,Sur,urbana_premium,4,6,"En mi zona tiene altibajos. no es perfecto pero cumple. Además normal, sin más.",50.01,0,0.2856,1,-0.326
+E77700050,2024-07-01,Z02,Oeste,suburbana,3,6,En las últimas semanas se queda sin servicio. se nota congestión. no me dieron solución. Espero que lo solucionen pronto.,37.61,0,0.4627,0,-0.355
+E77700215,2024-07-01,Z02,Oeste,suburbana,3,0,Últimamente hay cortes constantes. los datos van lentísimos. Sinceramente no es perfecto pero cumple.,37.61,0,0.4627,0,-1.0
+E77700409,2024-07-01,Z02,Oeste,suburbana,2,3,Desde hace meses no tengo cobertura dentro de casa. el 5G ni se nota. Gracias por la atención.,37.61,0,0.4627,0,-0.46
+E77700855,2024-07-01,Z03,Sur,rural,4,1,En las últimas semanas se corta en llamadas. no carga nada. el descuento no se aplicó. Gracias por la atención.,19.4,0,0.7229,1,-0.98
+E77700513,2024-07-01,Z05,Este,urbana_premium,4,6,,51.13,0,0.2696,0,0.041
+E77700460,2024-07-01,Z09,Norte,urbana_premium,3,0,Últimamente se corta en llamadas. los datos van lentísimos. Además tiene altibajos.,44.45,0,0.365,0,-0.814
+E77700806,2024-07-01,Z09,Norte,urbana_premium,4,3,"En general se queda sin servicio. se nota congestión. la atención al cliente no ayuda. Por favor, revisen la cobertura en mi zona.",44.45,0,0.365,0,-0.385
+E77700831,2024-07-01,Z09,Norte,urbana_premium,3,0,En las últimas semanas no tengo cobertura dentro de casa. la velocidad es muy baja. me marean con respuestas. Espero que lo solucionen pronto.,44.45,0,0.365,0,-0.714
+E77700315,2024-07-01,Z10,Este,suburbana,3,4,En las últimas semanas se queda sin servicio. se nota congestión. Gracias por la atención.,39.18,0,0.4403,0,-0.625
+E77700902,2024-07-01,Z13,Este,suburbana,6,2,En mi zona podría ser mejor. tardaron muchísimo. Lo peor es que podría ser mejor.,39.47,0,0.4361,0,-0.148
+E77700347,2024-07-01,Z15,Oeste,suburbana,5,0,"Este mes se queda sin servicio. los datos van lentísimos. no me dieron solución. Si no mejora, me planteo cambiarme.",39.31,0,0.4384,1,-0.812
+E77700040,2024-07-01,Z16,Este,urbana_premium,4,8,En general funciona bastante bien. tiene altibajos. Por otro lado tiene altibajos.,51.16,0,0.2691,0,0.179
+E77700216,2024-07-01,Z17,Sur,suburbana,3,0,Este mes se corta en llamadas. la velocidad es muy baja. Espero que lo solucionen pronto.,36.67,0,0.4761,0,-0.643
+E77700219,2024-07-01,Z17,Sur,suburbana,3,5,"En mi experiencia no tengo cobertura dentro de casa. la velocidad es muy baja. Si no mejora, me planteo cambiarme.",36.67,0,0.4761,0,-1.0
+E77700593,2024-07-01,Z18,Sur,urbana_premium,4,6,Últimamente no he tenido problemas. En resumen depende del día. Por otro lado depende del día.,49.88,0,0.2874,0,0.385
+E77700909,2024-07-01,Z18,Sur,urbana_premium,4,2,En general se corta en llamadas. se nota congestión. Gracias por la atención.,49.88,0,0.2874,0,-0.54
+E77700878,2024-07-01,Z21,Centro,rural,3,0,"En mi zona hay cortes constantes. los datos van lentísimos. Por favor, revisen la cobertura en mi zona.",22.01,0,0.6856,0,-0.751
+E77700550,2024-07-01,Z22,Este,suburbana,4,1,En mi zona la cobertura es mala. hay mucha latencia. La verdad tiene altibajos.,38.87,0,0.4447,0,-0.665
+E77700405,2024-07-01,Z24,Centro,rural,5,0,En las últimas semanas hay cortes constantes. no carga nada. me atendieron bien pero no lo resolvieron.,23.15,0,0.6693,1,-1.0
+E77700776,2024-07-01,Z24,Centro,rural,3,2,Este mes la señal va y viene. la velocidad es muy baja. No es lo que esperaba.,23.15,0,0.6693,0,-0.953
+E77700314,2024-07-01,Z26,Oeste,urbana_premium,4,3,"En general la cobertura es buena. La verdad normal, sin más. Lo peor es que no es perfecto pero cumple.",51.85,0,0.2593,0,0.236
+E77700739,2024-07-01,Z26,Oeste,urbana_premium,1,4,"En general no es perfecto pero cumple. me parece caro para lo que ofrecen. Si no mejora, me planteo cambiarme.",51.85,0,0.2593,1,-0.172
+E77700756,2024-07-01,Z26,Oeste,urbana_premium,4,1,"En mi zona hay cortes constantes. no carga nada. Por favor, revisen la cobertura en mi zona.",51.85,0,0.2593,1,-0.598
+E77700958,2024-07-01,Z26,Oeste,urbana_premium,4,3,En las últimas semanas se corta en llamadas. depende del día. Lo peor es que depende del día.,51.85,0,0.2593,0,-0.15
+E77700987,2024-07-01,Z26,Oeste,urbana_premium,5,4,"Últimamente hay cortes constantes. se nota congestión. me parece caro para lo que ofrecen. Si no mejora, me planteo cambiarme.",51.85,0,0.2593,1,-0.764
+E77700063,2024-07-01,Z27,Norte,suburbana,3,3,Últimamente no tengo cobertura dentro de casa. se nota congestión. Espero que lo solucionen pronto.,36.26,0,0.482,0,-0.676
+E77700176,2024-07-01,Z29,Oeste,urbana_premium,3,2,Este mes se corta en llamadas. hay mucha latencia. No es lo que esperaba.,50.91,0,0.2727,0,-0.403
+E77700698,2024-07-01,Z29,Oeste,urbana_premium,3,6,"En las últimas semanas no tengo cobertura dentro de casa. la velocidad es muy baja. Si no mejora, me planteo cambiarme.",50.91,0,0.2727,0,-0.481
+E77700131,2024-08-01,Z02,Oeste,suburbana,3,0,En general se queda sin servicio. se nota congestión. Lo mejor es que tiene altibajos.,39.21,0,0.4399,0,-0.905
+E77700632,2024-08-01,Z02,Oeste,suburbana,3,4,En general la cobertura es mala. los datos van lentísimos. me parece caro para lo que ofrecen. No es lo que esperaba.,39.21,0,0.4399,0,-0.421
+E77700857,2024-08-01,Z02,Oeste,suburbana,2,3,Este mes no carga nada. me cobraron de más. Sinceramente depende del día.,39.21,0,0.4399,0,-0.287
+E77700559,2024-08-01,Z04,Centro,suburbana,2,1,"Desde hace meses se queda sin servicio. el 5G ni se nota. la atención al cliente no ayuda. Si no mejora, me planteo cambiarme.",38.03,0,0.4567,0,-0.945
+E77700133,2024-08-01,Z05,Este,urbana_premium,3,5,Últimamente hay cortes constantes. me marean con respuestas. Lo peor es que podría ser mejor.,51.87,0,0.259,0,-0.199
+E77700978,2024-08-01,Z05,Este,urbana_premium,3,1,Últimamente se corta en llamadas. hay mucha latencia. me cobraron de más. Espero que lo solucionen pronto.,51.87,0,0.259,0,-0.548
+E77700999,2024-08-01,Z07,Centro,rural,2,1,Últimamente se queda sin servicio. se nota congestión. La verdad podría ser mejor.,22.09,0,0.6844,0,-0.779
+E77700089,2024-08-01,Z09,Norte,urbana_premium,4,5,"En general la señal va y viene. los datos van lentísimos. Por favor, revisen la cobertura en mi zona.",47.57,0,0.3204,0,-0.568
+E77700232,2024-08-01,Z09,Norte,urbana_premium,3,4,"En mi zona no es perfecto pero cumple. no es perfecto pero cumple. Si no mejora, me planteo cambiarme.",47.57,0,0.3204,0,-0.13
+E77700331,2024-08-01,Z09,Norte,urbana_premium,2,3,Desde hace meses hay cortes constantes. el 5G ni se nota. Espero que lo solucionen pronto.,47.57,0,0.3204,0,-0.679
+E77700487,2024-08-01,Z09,Norte,urbana_premium,3,5,En mi experiencia se corta en llamadas. tiene altibajos. Gracias por la atención.,47.57,0,0.3204,0,-0.254
+E77700629,2024-08-01,Z09,Norte,urbana_premium,3,2,"Desde hace meses no tengo cobertura dentro de casa. los datos van lentísimos. el descuento no se aplicó. Por favor, revisen la cobertura en mi zona.",47.57,0,0.3204,0,-0.482
+E77700637,2024-08-01,Z09,Norte,urbana_premium,4,4,En mi experiencia la cobertura es mala. me marean con respuestas. Espero que lo solucionen pronto.,47.57,0,0.3204,0,-0.054
+E77700797,2024-08-01,Z09,Norte,urbana_premium,3,7,En mi experiencia no es perfecto pero cumple. podría ser mejor. Además no es perfecto pero cumple.,47.57,0,0.3204,0,-0.246
+E77700597,2024-08-01,Z12,Norte,rural,4,0,"En las últimas semanas la señal va y viene. la factura sube sin explicación. Por favor, revisen la cobertura en mi zona.",20.81,0,0.7027,0,-0.147
+E77700558,2024-08-01,Z13,Este,suburbana,3,1,Este mes la cobertura es mala. se nota congestión. me atendieron bien pero no lo resolvieron. Espero que lo solucionen pronto.,38.2,0,0.4543,0,-0.574
+E77700187,2024-08-01,Z15,Oeste,suburbana,3,3,En mi experiencia se queda sin servicio. se nota congestión. No es lo que esperaba.,40.35,0,0.4236,0,-0.518
+E77700631,2024-08-01,Z15,Oeste,suburbana,4,3,Últimamente la señal va y viene. podría ser mejor. En resumen depende del día.,40.35,0,0.4236,0,-0.164
+E77700295,01/08/2024,Z18,Sur,urbana_premium,4,3,En mi zona la señal va y viene. no carga nada. la atención al cliente no ayuda. Gracias por la atención.,49.7,0,0.29,1,-0.469
+E77700349,2024-08-01,Z18,Sur,urbana_premium,4,1,En general se queda sin servicio. la velocidad es muy baja. Además podría ser mejor.,49.7,0,0.29,1,-0.814
+E77700553,2024-08-01,Z19,Este,rural,3,1,En mi experiencia se corta en llamadas. el 5G ni se nota. Espero que lo solucionen pronto.,24.15,0,0.655,0,-0.961
+E77700111,2024-08-01,Z21,Centro,rural,3,0,Últimamente hay cortes constantes. los datos van lentísimos. me cobraron de más. No es lo que esperaba.,21.77,0,0.689,0,-0.868
+E77700463,2024-08-01,Z22,Este,suburbana,4,1,"Desde hace meses se corta en llamadas. la velocidad es muy baja. me atendieron bien pero no lo resolvieron. Si no mejora, me planteo cambiarme.",35.9,0,0.4871,0,-0.427
+E77700325,2024-08-01,Z26,Oeste,urbana_premium,3,5,"En mi zona se queda sin servicio. me cobraron de más. Lo mejor es que normal, sin más.",52.6,0,0.2486,0,-0.133
+E77700427,2024-08-01,Z26,Oeste,urbana_premium,3,6,Desde hace meses se queda sin servicio. los datos van lentísimos. Espero que lo solucionen pronto.,52.6,0,0.2486,0,-0.515
+E77700528,2024-08-01,Z26,Oeste,urbana_premium,2,2,"Desde hace meses normal, sin más. me marean con respuestas. Además tiene altibajos.",52.6,0,0.2486,0,-0.073
+E77700915,2024-08-01,Z26,Oeste,urbana_premium,3,2,"Desde hace meses no tengo cobertura dentro de casa. el 5G ni se nota. tardaron muchísimo. Por favor, revisen la cobertura en mi zona.",52.6,0,0.2486,0,-0.737
+E77700352,2024-08-01,Z27,Norte,suburbana,4,2,En mi zona se corta en llamadas. no es perfecto pero cumple. No es lo que esperaba.,36.09,0,0.4844,0,-0.169
+E77700092,2024-08-01,Z28,Sur,urbana_premium,3,4,Este mes la cobertura es mala. la velocidad es muy baja. No es lo que esperaba.,50.83,0,0.2739,0,-0.949
+E77700839,2024-09-01,Z04,Centro,suburbana,3,2,Este mes se queda sin servicio. la velocidad es muy baja. el descuento no se aplicó. Espero que lo solucionen pronto.,37.65,0,0.4621,0,-1.0
+E77700627,2024-09-01,Z05,Este,urbana_premium,1,3,En las últimas semanas la señal va y viene. no me dieron solución.,50.42,0,0.2797,1,0.072
+E77700326,2024-09-01,Z06,Sur,rural,4,0,En mi experiencia no tengo cobertura dentro de casa. se nota congestión. Gracias por la atención.,19.15,0,0.7264,1,-0.962
+E77700011,2024-09-01,Z09,Norte,urbana_premium,3,8,En las últimas semanas depende del día. tiene altibajos. Lo mejor es que depende del día.,46.71,0,0.3327,0,-0.063
+E77700284,2024-09-01,Z09,Norte,urbana_premium,3,5,En mi zona no carga nada. el descuento no se aplicó. Lo mejor es que podría ser mejor.,46.71,0,0.3327,0,-0.222
+E77700645,2024-09-01,Z09,Norte,urbana_premium,2,1,"En las últimas semanas hay cortes constantes. no carga nada. el descuento no se aplicó. Si no mejora, me planteo cambiarme.",46.71,0,0.3327,0,-0.691
+E77700499,2024-09-01,Z10,Este,suburbana,3,3,Desde hace meses se queda sin servicio. se nota congestión. Espero que lo solucionen pronto.,39.65,0,0.4336,0,-0.726
+E77700946,2024-09-01,Z10,Este,suburbana,3,3,"Este mes la señal va y viene. el 5G ni se nota. Si no mejora, me planteo cambiarme.",39.65,0,0.4336,0,-0.692
+E77700856,2024-09-01,Z14,Norte,rural,4,3,En general se corta en llamadas. no carga nada. tardaron muchísimo. Espero que lo solucionen pronto.,19.29,0,0.7244,0,-0.631
+E77700324,2024-09-01,Z15,Oeste,suburbana,5,0,En las últimas semanas se corta en llamadas. se nota congestión. la atención al cliente no ayuda. No es lo que esperaba.,39.78,0,0.4317,1,-0.786
+E77700372,2024-09-01,Z15,Oeste,suburbana,2,0,Desde hace meses hay cortes constantes. hay mucha latencia. Espero que lo solucionen pronto.,39.78,0,0.4317,0,-0.602
+E77700504,2024-09-01,Z15,Oeste,suburbana,3,2,"En mi zona no carga nada. normal, sin más. Por otro lado normal, sin más.",39.78,0,0.4317,0,-0.256
+E77700907,2024-09-01,Z15,Oeste,suburbana,4,7,En mi zona la señal va y viene. no carga nada. No es lo que esperaba.,39.78,0,0.4317,1,-0.654
+E77700883,2024-09-01,Z16,Este,urbana_premium,4,5,En mi experiencia la velocidad es muy baja. tardaron muchísimo. Espero que lo solucionen pronto.,52.55,0,0.2493,0,-0.257
+E77700695,2024-09-01,Z18,Sur,urbana_premium,1,6,"Este mes la cobertura es buena. depende del día. Por otro lado normal, sin más.",52.38,0,0.2517,1,0.15
+E77700928,2024-09-01,Z18,Sur,urbana_premium,3,2,Este mes se corta en llamadas. tiene altibajos. No es lo que esperaba.,52.38,0,0.2517,0,-0.208
+E77700653,2024-09-01,Z19,Este,rural,2,1,Desde hace meses la cobertura es mala. no carga nada. Por otro lado no es perfecto pero cumple.,23.8,0,0.66,0,-0.691
+E77700891,2024-09-01,Z20,Oeste,suburbana,2,2,"En las últimas semanas la señal va y viene. el 5G ni se nota. la factura sube sin explicación. Por favor, revisen la cobertura en mi zona.",39.98,0,0.4289,0,-1.0
+E77700087,2024-09-01,Z22,Este,suburbana,2,1,"En mi experiencia hay cortes constantes. hay mucha latencia. Por favor, revisen la cobertura en mi zona.",39.05,0,0.4421,0,-1.0
+E77700264,2024-09-01,Z22,Este,suburbana,3,4,"En mi experiencia hay cortes constantes. la velocidad es muy baja. Si no mejora, me planteo cambiarme.",39.05,0,0.4421,0,-1.0
+E77700466,2024-09-01,Z22,Este,suburbana,3,3,En mi experiencia se corta en llamadas. los datos van lentísimos. Gracias por la atención.,39.05,0,0.4421,0,-0.682
+E77700860,2024-09-01,Z25,Oeste,rural,4,0,Desde hace meses se queda sin servicio. no carga nada. me marean con respuestas. Espero que lo solucionen pronto.,23.49,0,0.6644,1,-0.562
+E77700130,2024-09-01,Z26,Oeste,urbana_premium,4,4,"En mi zona hay cortes constantes. la velocidad es muy baja. Lo peor es que normal, sin más.",51.34,0,0.2666,1,-0.457
+E77700618,2024-09-01,Z26,Oeste,urbana_premium,4,6,"En mi zona funciona bastante bien. normal, sin más. La verdad no es perfecto pero cumple.",51.34,0,0.2666,0,0.223
+E77700852,2024-09-01,Z26,Oeste,urbana_premium,3,2,"En general los datos van lentísimos. normal, sin más. Sinceramente normal, sin más.",51.34,0,0.2666,0,-0.3
+E77700943,2024-09-01,Z28,Sur,urbana_premium,3,3,"Este mes hay cortes constantes. los datos van lentísimos. me marean con respuestas. Si no mejora, me planteo cambiarme.",51.91,0,0.2584,0,-0.476
+E77700144,2024-09-01,Z29,Oeste,urbana_premium,4,9,Desde hace meses se corta en llamadas. el 5G ni se nota. me cobraron de más. Gracias por la atención.,54.4,0,0.2229,1,-0.46
+E77700271,2024-09-01,Z29,Oeste,urbana_premium,5,2,Este mes se queda sin servicio. se nota congestión. No es lo que esperaba.,54.4,0,0.2229,1,-0.534
+E77700083,2024-10-01,Z02,Oeste,suburbana,5,4,"En general se corta en llamadas. el 5G ni se nota. me marean con respuestas. Si no mejora, me planteo cambiarme.",38.81,0,0.4456,1,-0.86
+E77700763,2024-10-01,Z02,Oeste,suburbana,5,0,Desde hace meses hay mucha latencia. tiene altibajos. Lo peor es que tiene altibajos.,38.81,0,0.4456,1,-0.296
+E77700772,2024-10-01,Z03,Sur,rural,2,1,Últimamente la señal va y viene. la velocidad es muy baja. Gracias por la atención.,22.86,0,0.6734,0,-0.944
+E77700736,2024-10-01,Z04,Centro,suburbana,2,0,Desde hace meses no tengo cobertura dentro de casa. el 5G ni se nota.,41.23,0,0.411,0,-0.495
+E77700019,2024-10-01,Z05,Este,urbana_premium,3,4,En las últimas semanas no tengo cobertura dentro de casa. se nota congestión. No es lo que esperaba.,53.7,0,0.2329,0,-0.411
+E77700290,2024-10-01,Z06,Sur,rural,3,2,"En las últimas semanas la cobertura es mala. el 5G ni se nota. la factura sube sin explicación. Si no mejora, me planteo cambiarme.",24.24,0,0.6537,0,-1.0
+E77700778,2024-10-01,Z06,Sur,rural,5,0,Últimamente hay cortes constantes. se nota congestión. Gracias por la atención. Lo peor es que tiene altibajos.,24.24,0,0.6537,1,-0.984
+E77700120,2024-10-01,Z09,Norte,urbana_premium,5,4,Desde hace meses depende del día. depende del día. Lo mejor es que no es perfecto pero cumple.,51.32,0,0.2669,1,-0.334
+E77700480,2024-10-01,Z09,Norte,urbana_premium,3,0,En general hay cortes constantes. tiene altibajos. Lo mejor es que no es perfecto pero cumple.,51.32,0,0.2669,0,-0.326
+E77700340,2024-10-01,Z10,Este,suburbana,3,5,Desde hace meses hay cortes constantes. tiene altibajos. Sinceramente depende del día.,41.01,0,0.4141,0,-0.336
+E77700485,2024-10-01,Z13,Este,suburbana,4,0,"Este mes no tengo cobertura dentro de casa. el 5G ni se nota. la atención al cliente no ayuda. Si no mejora, me planteo cambiarme.",39.74,0,0.4323,1,-0.941
+E77700624,2024-10-01,Z15,Oeste,suburbana,3,2,En general no es perfecto pero cumple. tardaron muchísimo. La verdad depende del día.,42.28,0,0.396,0,-0.1
+E77700755,2024-10-01,Z16,Este,urbana_premium,4,3,En general se queda sin servicio. no me dieron solución. Por otro lado tiene altibajos.,51.5,0,0.2643,0,-0.231
+E77700033,2024-10-01,Z17,Sur,suburbana,3,1,Este mes no tengo cobertura dentro de casa. hay mucha latencia. Espero que lo solucionen pronto.,40.08,0,0.4274,0,-0.991
+E77700926,2024-10-01,Z18,Sur,urbana_premium,4,1,Últimamente no es perfecto pero cumple. no es perfecto pero cumple. No es lo que esperaba.,52.43,0,0.251,0,-0.141
+E77700021,2024-10-01,Z20,Oeste,suburbana,4,4,En las últimas semanas no tengo cobertura dentro de casa. la velocidad es muy baja. me marean con respuestas. Espero que lo solucionen pronto.,39.27,0,0.439,1,-0.935
+E77700018,2024-10-01,Z21,Centro,rural,3,1,En las últimas semanas la señal va y viene. la velocidad es muy baja. me marean con respuestas. No es lo que esperaba.,23.53,0,0.6639,0,-0.744
+E77700165,2024-10-01,Z23,Norte,rural,2,1,"Este mes la señal va y viene. me parece caro para lo que ofrecen. Por favor, revisen la cobertura en mi zona.",22.69,0,0.6759,0,-0.146
+E77700367,2024-10-01,Z23,Norte,rural,2,3,Desde hace meses hay cortes constantes. el 5G ni se nota. No es lo que esperaba.,22.69,0,0.6759,0,-0.59
+E77700700,2024-10-01,Z23,Norte,rural,4,0,Desde hace meses se queda sin servicio. el 5G ni se nota.,22.69,0,0.6759,1,-0.813
+E77700967,2024-10-01,Z23,Norte,rural,3,0,Este mes hay cortes constantes. no carga nada. el descuento no se aplicó.,22.69,0,0.6759,0,-0.663
+E77700260,2024-10-01,Z25,Oeste,rural,3,0,Últimamente se corta en llamadas. no carga nada. Gracias por la atención.,23.79,0,0.6601,0,-0.717
+E77700424,2024-10-01,Z26,Oeste,urbana_premium,3,4,Desde hace meses se queda sin servicio. se nota congestión. me marean con respuestas. No es lo que esperaba.,51.86,0,0.2591,0,-0.451
+E77700793,2024-10-01,Z26,Oeste,urbana_premium,3,5,"En mi zona podría ser mejor. me marean con respuestas. Además normal, sin más.",51.86,0,0.2591,0,-0.29
+E77700903,2024-10-01,Z26,Oeste,urbana_premium,4,5,Este mes se queda sin servicio. se nota congestión. Espero que lo solucionen pronto.,51.86,0,0.2591,1,-0.537
+E77700010,2024-10-01,Z27,Norte,suburbana,4,2,"Este mes se nota congestión. me marean con respuestas. Por otro lado normal, sin más.",37.71,0,0.4613,0,-0.196
+E77700362,2024-10-01,Z28,Sur,urbana_premium,3,7,Desde hace meses se queda sin servicio. el 5G ni se nota.,51.86,0,0.2591,0,-0.512
+E77700675,2024-10-01,Z28,Sur,urbana_premium,3,0,En mi experiencia la cobertura es mala. los datos van lentísimos. Gracias por la atención.,51.86,0,0.2591,0,-0.64
+E77700205,2024-10-01,Z29,Oeste,urbana_premium,3,4,"Desde hace meses hay cortes constantes. hay mucha latencia. Por otro lado normal, sin más.",49.2,0,0.2971,0,-0.477
+E77700626,2024-10-01,Z29,Oeste,urbana_premium,3,5,"En las últimas semanas no carga nada. depende del día. Si no mejora, me planteo cambiarme.",49.2,0,0.2971,0,-0.151
+E77700678,2024-10-01,Z29,Oeste,urbana_premium,3,6,"Desde hace meses la señal va y viene. los datos van lentísimos. Por favor, revisen la cobertura en mi zona.",49.2,0,0.2971,0,-0.397
+E77700052,2024-10-01,Z30,Centro,suburbana,4,0,"En mi experiencia la cobertura es mala. el 5G ni se nota. el descuento no se aplicó. Si no mejora, me planteo cambiarme.",38.82,0,0.4454,1,-0.93
+E77700305,2024-11-01,Z01,Centro,rural,2,3,"En mi experiencia se queda sin servicio. el 5G ni se nota. me atendieron bien pero no lo resolvieron. Por favor, revisen la cobertura en mi zona.",25.26,0,0.6391,0,-0.823
+E77700738,2024-11-01,Z01,Centro,rural,3,0,"En general la cobertura es mala. no carga nada. no entiendo los cargos. Por favor, revisen la cobertura en mi zona.",25.26,0,0.6391,0,-0.628
+E77700225,2024-11-01,Z02,Oeste,suburbana,3,5,En general la cobertura es mala. el 5G ni se nota. No es lo que esperaba.,40.28,0,0.4246,0,-0.426
+E77700607,2024-11-01,Z02,Oeste,suburbana,2,2,"En mi experiencia podría ser mejor. normal, sin más. Por otro lado depende del día.",40.28,0,0.4246,0,-0.347
+E77700782,2024-11-01,Z02,Oeste,suburbana,4,1,"Este mes la cobertura es mala. la velocidad es muy baja. Por favor, revisen la cobertura en mi zona.",40.28,0,0.4246,0,-0.623
+E77700413,2024-11-01,Z05,Este,urbana_premium,2,24,"Últimamente normal, sin más. me marean con respuestas. Además no es perfecto pero cumple.",55.85,0,0.2021,1,-0.022
+E77700752,2024-11-01,Z05,Este,urbana_premium,4,6,,55.85,0,0.2021,0,-0.013
+E77700438,2024-11-01,Z09,Norte,urbana_premium,10,7,Desde hace meses los datos van lentísimos. me parece caro para lo que ofrecen.,51.24,0,0.268,0,0.001
+E77700641,2024-11-01,Z09,Norte,urbana_premium,3,1,"En general el 5G ni se nota. me cobraron de más. Sinceramente normal, sin más.",51.24,0,0.268,0,-0.188
+E77700853,2024-11-01,Z09,Norte,urbana_premium,4,5,En mi zona no tengo cobertura dentro de casa. hay mucha latencia. No es lo que esperaba.,51.24,0,0.268,0,-0.44
+E77700186,2024-11-01,Z11,Oeste,suburbana,2,1,Desde hace meses hay mucha latencia. me cobraron de más. Lo mejor es que no es perfecto pero cumple.,38.35,0,0.4521,0,-0.271
+E77700329,2024-11-01,Z11,Oeste,suburbana,2,0,"Desde hace meses hay cortes constantes. no carga nada. no me dieron solución. Si no mejora, me planteo cambiarme.",38.35,0,0.4521,0,-0.428
+E77700461,2024-11-01,Z11,Oeste,suburbana,3,0,En mi experiencia se corta en llamadas. se nota congestión. No es lo que esperaba.,38.35,0,0.4521,0,-1.0
+E77700976,2024-11-01,Z11,Oeste,suburbana,4,2,En mi zona hay cortes constantes. los datos van lentísimos. Espero que lo solucionen pronto.,38.35,0,0.4521,1,-0.664
+E77700572,2024-11-01,Z13,Este,suburbana,3,2,Desde hace meses la señal va y viene. se nota congestión. Espero que lo solucionen pronto.,39.89,0,0.4301,0,-0.936
+E77700009,2024-11-01,Z16,Este,urbana_premium,2,1,"Últimamente la señal va y viene. se nota congestión. la factura sube sin explicación. Si no mejora, me planteo cambiarme.",52.66,0,0.2477,0,-1.0
+E77700919,2024-11-01,Z16,Este,urbana_premium,4,3,Últimamente no carga nada. me cobraron de más. Gracias por la atención.,52.66,0,0.2477,1,-0.039
+E77700041,01/11/2024,Z17,Sur,suburbana,3,0,En mi zona se corta en llamadas. hay mucha latencia. tardaron muchísimo. Espero que lo solucionen pronto.,42.63,0,0.391,0,-0.466
+E77700190,2024-11-01,Z20,Oeste,suburbana,4,1,"Últimamente se queda sin servicio. no carga nada. Por favor, revisen la cobertura en mi zona.",38.42,0,0.4511,1,-0.795
+E77700437,2024-11-01,Z21,Centro,rural,8,0,"En las últimas semanas la señal va y viene. no carga nada. Si no mejora, me planteo cambiarme.",22.4,0,0.68,1,-0.919
+E77700370,01/11/2024,Z22,Este,suburbana,2,0,"En las últimas semanas se queda sin servicio. se nota congestión. no me dieron solución. Por favor, revisen la cobertura en mi zona.",40.54,0,0.4209,0,-1.0
+E77700090,2024-11-01,Z26,Oeste,urbana_premium,3,0,Últimamente la señal va y viene. la velocidad es muy baja. Espero que lo solucionen pronto.,57.52,0,0.1783,0,-0.382
+E77700617,2024-11-01,Z26,Oeste,urbana_premium,3,1,En mi experiencia se queda sin servicio. los datos van lentísimos. Gracias por la atención.,57.52,0,0.1783,0,-0.35
+E77700859,2024-11-01,Z26,Oeste,urbana_premium,4,5,"En general todo correcto. normal, sin más. La verdad tiene altibajos. Por otro lado depende del día.",57.52,0,0.1783,0,0.189
+E77700625,2024-11-01,Z27,Norte,suburbana,3,3,"En las últimas semanas normal, sin más. tardaron muchísimo. Por favor, revisen la cobertura en mi zona.",39.6,0,0.4343,0,-0.093
+E77700779,2024-11-01,Z28,Sur,urbana_premium,3,0,En mi experiencia se queda sin servicio. los datos van lentísimos. La verdad depende del día.,52.54,0,0.2494,0,-0.658
+E77700126,2024-11-01,Z29,Oeste,urbana_premium,3,3,"Últimamente no tengo cobertura dentro de casa. no carga nada. Por favor, revisen la cobertura en mi zona.",55.78,0,0.2031,0,-0.381
+E77700837,2024-11-01,Z29,Oeste,urbana_premium,3,2,En las últimas semanas no carga nada. podría ser mejor. Gracias por la atención.,55.78,0,0.2031,0,-0.35
+E77700494,2024-12-01,Z04,Centro,suburbana,2,1,Desde hace meses no tengo cobertura dentro de casa. se nota congestión. me marean con respuestas. Espero que lo solucionen pronto.,39.52,0,0.4354,0,-0.782
+E77700542,2024-12-01,Z04,Centro,suburbana,3,1,Este mes se queda sin servicio. el 5G ni se nota. no me dieron solución. No es lo que esperaba.,39.52,0,0.4354,0,-1.0
+E77700652,2024-12-01,Z04,Centro,suburbana,2,2,En las últimas semanas la cobertura es mala. se nota congestión. No es lo que esperaba.,39.52,0,0.4354,0,-0.543
+E77700773,2024-12-01,Z04,Centro,suburbana,2,3,Este mes la señal va y viene. se nota congestión. la factura sube sin explicación. No es lo que esperaba.,39.52,0,0.4354,0,-0.653
+E77700273,2024-12-01,Z05,Este,urbana_premium,4,4,"Últimamente normal, sin más. me marean con respuestas. La verdad depende del día.",55.95,0,0.2007,0,-0.13
+E77700950,2024-12-01,Z06,Sur,rural,1,0,En mi experiencia se corta en llamadas. se nota congestión. No es lo que esperaba.,24.65,0,0.6479,0,-1.0
+E77700003,2024-12-01,Z07,Centro,rural,3,2,Este mes la señal va y viene. la velocidad es muy baja. la atención al cliente no ayuda. Gracias por la atención.,22.93,0,0.6724,0,-0.911
+E77700391,2024-12-01,Z09,Norte,urbana_premium,4,4,Últimamente depende del día. me marean con respuestas. Gracias por la atención.,53.49,0,0.2359,0,-0.191
+E77700109,2024-12-01,Z11,Oeste,suburbana,5,4,Últimamente la cobertura es mala. me cobraron de más. No es lo que esperaba.,39.82,0,0.4311,1,-0.25
+E77700396,2024-12-01,Z11,Oeste,suburbana,5,2,"Desde hace meses se queda sin servicio. no carga nada. el descuento no se aplicó. Si no mejora, me planteo cambiarme.",39.82,0,0.4311,1,-0.749
+E77700959,2024-12-01,Z13,Este,suburbana,3,0,Este mes la cobertura es mala. el 5G ni se nota. no entiendo los cargos. Espero que lo solucionen pronto.,42.9,0,0.3871,0,-0.708
+E77700171,2024-12-01,Z15,Oeste,suburbana,5,3,En general tiene altibajos. no entiendo los cargos. Lo peor es que podría ser mejor.,41.57,0,0.4061,1,-0.237
+E77700696,2024-12-01,Z15,Oeste,suburbana,4,2,Últimamente la cobertura es mala. los datos van lentísimos. me marean con respuestas. Gracias por la atención.,41.57,0,0.4061,1,-0.928
+E77700974,2024-12-01,Z15,Oeste,suburbana,3,0,En mi zona se corta en llamadas. los datos van lentísimos. No es lo que esperaba.,41.57,0,0.4061,0,-0.43
+E77700046,2024-12-01,Z17,Sur,suburbana,5,4,Desde hace meses hay cortes constantes. no es perfecto pero cumple. Gracias por la atención.,42.39,0,0.3944,0,0.065
+E77700630,2024-12-01,Z18,Sur,urbana_premium,3,2,Este mes hay cortes constantes. no carga nada. Espero que lo solucionen pronto.,53.27,0,0.239,0,-0.472
+E77700192,2024-12-01,Z19,Este,rural,2,0,,24.14,0,0.6551,0,-1.0
+E77700139,2024-12-01,Z26,Oeste,urbana_premium,4,10,"En mi experiencia hay cortes constantes. depende del día. Si no mejora, me planteo cambiarme.",53.78,0,0.2317,0,-0.055
+E77700309,2024-12-01,Z26,Oeste,urbana_premium,4,7,En general la cobertura es mala. no carga nada. no me dieron solución. Gracias por la atención.,53.78,0,0.2317,1,-0.368
+E77700497,2024-12-01,Z26,Oeste,urbana_premium,4,3,"Este mes depende del día. me cobraron de más. Por favor, revisen la cobertura en mi zona.",53.78,0,0.2317,0,-0.147
+E77700606,2024-12-01,Z26,Oeste,urbana_premium,3,0,"En general no es perfecto pero cumple. me parece caro para lo que ofrecen. Por favor, revisen la cobertura en mi zona.",53.78,0,0.2317,0,-0.29
+E77700097,2024-12-01,Z30,Centro,suburbana,2,4,En mi experiencia se queda sin servicio. el descuento no se aplicó. Gracias por la atención.,43.49,0,0.3787,1,0.029
+E77700737,2024-12-01,Z30,Centro,suburbana,5,0,"En mi zona se corta en llamadas. se nota congestión. Si no mejora, me planteo cambiarme.",43.49,0,0.3787,1,-0.555
+E77700177,2025-01-01,Z02,Oeste,suburbana,2,5,Últimamente tiene altibajos. podría ser mejor. Gracias por la atención. Por otro lado tiene altibajos.,43.8,0,0.3743,0,-0.027
+E77700428,2025-01-01,Z02,Oeste,suburbana,3,2,En general se corta en llamadas. hay mucha latencia. Espero que lo solucionen pronto.,43.8,0,0.3743,0,-0.404
+E77700556,2025-01-01,Z02,Oeste,suburbana,3,3,En mi experiencia hay cortes constantes. la velocidad es muy baja. Espero que lo solucionen pronto.,43.8,0,0.3743,0,-0.411
+E77700562,2025-01-01,Z05,Este,urbana_premium,3,0,En general la señal va y viene. el 5G ni se nota.,54.76,0,0.2177,0,-0.405
+E77700166,2025-01-01,Z09,Norte,urbana_premium,6,5,Últimamente se queda sin servicio. la velocidad es muy baja. Sinceramente tiene altibajos.,53.77,0,0.2319,0,-0.512
+E77700183,2025-01-01,Z09,Norte,urbana_premium,3,0,Últimamente no tengo cobertura dentro de casa. el 5G ni se nota. No es lo que esperaba.,53.77,0,0.2319,0,-1.0
+E77700703,2025-01-01,Z09,Norte,urbana_premium,5,5,Últimamente la cobertura es mala. me marean con respuestas. No es lo que esperaba.,53.77,0,0.2319,1,-0.167
+E77700879,2025-01-01,Z09,Norte,urbana_premium,4,2,"En mi experiencia la señal va y viene. el 5G ni se nota. el descuento no se aplicó. Por favor, revisen la cobertura en mi zona.",53.77,0,0.2319,0,-0.502
+E77700081,2025-01-01,Z10,Este,suburbana,4,0,En mi experiencia hay cortes constantes. no carga nada. No es lo que esperaba.,40.87,0,0.4161,1,-0.437
+E77700541,2025-01-01,Z10,Este,suburbana,4,4,"Últimamente la velocidad es muy baja. el descuento no se aplicó. Por favor, revisen la cobertura en mi zona.",40.87,0,0.4161,0,-0.153
+E77700430,2025-01-01,Z11,Oeste,suburbana,3,4,En mi zona la cobertura es mala. no me dieron solución. Además podría ser mejor.,40.51,0,0.4213,0,-0.283
+E77700197,2025-01-01,Z13,Este,suburbana,3,6,,41.28,0,0.4103,0,-0.307
+E77700364,2025-01-01,Z13,Este,suburbana,1,2,En general la señal va y viene. no entiendo los cargos. Lo peor es que tiene altibajos.,41.28,0,0.4103,1,0.142
+E77700535,2025-01-01,Z13,Este,suburbana,5,6,Este mes la señal va y viene. la factura sube sin explicación. No es lo que esperaba.,41.28,0,0.4103,1,-0.313
+E77700913,2025-01-01,Z13,Este,suburbana,1,3,"En mi zona normal, sin más. normal, sin más. Por favor, revisen la cobertura en mi zona.",41.28,0,0.4103,1,-0.017
+E77700226,2025-01-01,Z15,Oeste,suburbana,5,4,Desde hace meses los datos van lentísimos. la factura sube sin explicación.,41.49,0,0.4073,1,-0.338
+E77700125,2025-01-01,Z16,Este,urbana_premium,4,4,Últimamente se corta en llamadas. la velocidad es muy baja. Por otro lado podría ser mejor.,56.02,0,0.1997,1,-0.436
+E77700233,2025-01-01,Z16,Este,urbana_premium,5,3,"En general la señal va y viene. la factura sube sin explicación. Si no mejora, me planteo cambiarme.",56.02,0,0.1997,1,-0.226
+E77700824,2025-01-01,Z17,Sur,suburbana,5,3,En general hay cortes constantes. se nota congestión. Espero que lo solucionen pronto.,42.22,0,0.3969,1,-1.0
+E77700380,2025-01-01,Z18,Sur,urbana_premium,4,3,En general hay mucha latencia. no entiendo los cargos. Por otro lado tiene altibajos.,53.19,0,0.2401,0,-0.06
+E77700662,01/01/2025,Z18,Sur,urbana_premium,4,2,"En mi zona podría ser mejor. normal, sin más. Además normal, sin más.",53.19,0,0.2401,1,-0.206
+E77700746,2025-01-01,Z18,Sur,urbana_premium,4,2,"Últimamente hay cortes constantes. se nota congestión. Por otro lado normal, sin más.",53.19,0,0.2401,1,-0.733
+E77700080,2025-01-01,Z19,Este,rural,3,4,Últimamente no tengo cobertura dentro de casa. se nota congestión. me cobraron de más. Gracias por la atención.,27.46,0,0.6077,0,-0.771
+E77700116,2025-01-01,Z20,Oeste,suburbana,3,9,En las últimas semanas no tengo cobertura dentro de casa. me atendieron bien pero no lo resolvieron. Gracias por la atención.,38.43,0,0.451,0,0.018
+E77700453,2025-01-01,Z20,Oeste,suburbana,3,0,"En general hay cortes constantes. se nota congestión. me cobraron de más. Por favor, revisen la cobertura en mi zona.",38.43,0,0.451,0,-1.0
+E77700643,2025-01-01,Z26,Oeste,urbana_premium,4,2,En mi zona se nota congestión. me cobraron de más. Por otro lado podría ser mejor.,55.45,0,0.2079,0,-0.187
+E77700650,2025-01-01,Z26,Oeste,urbana_premium,3,3,Últimamente no tengo cobertura dentro de casa. podría ser mejor. Por otro lado tiene altibajos.,55.45,0,0.2079,0,-0.171
+E77700677,2025-01-01,Z26,Oeste,urbana_premium,5,10,En general hay cortes constantes. los datos van lentísimos. el descuento no se aplicó.,55.45,0,0.2079,1,-0.473
+E77700795,2025-01-01,Z26,Oeste,urbana_premium,2,1,"En general se queda sin servicio. el 5G ni se nota. la atención al cliente no ayuda. Por favor, revisen la cobertura en mi zona.",55.45,0,0.2079,0,-0.787
+E77700846,2025-01-01,Z26,Oeste,urbana_premium,2,5,"En general se queda sin servicio. se nota congestión. la factura sube sin explicación. Por favor, revisen la cobertura en mi zona.",55.45,0,0.2079,0,-1.0
+E77700991,2025-01-01,Z26,Oeste,urbana_premium,3,3,En las últimas semanas no tengo cobertura dentro de casa. no carga nada. tardaron muchísimo. Gracias por la atención.,55.45,0,0.2079,0,-0.624
+E77700342,2025-01-01,Z29,Oeste,urbana_premium,2,6,En general la cobertura es buena. depende del día. Además no es perfecto pero cumple.,56.17,0,0.1976,0,0.159
+E77700470,2025-01-01,Z29,Oeste,urbana_premium,3,21,Desde hace meses podría ser mejor. no me dieron solución. Espero que lo solucionen pronto.,56.17,0,0.1976,0,-0.1
+E77700998,2025-02-01,Z01,Centro,rural,5,4,"En las últimas semanas no tengo cobertura dentro de casa. la velocidad es muy baja. Si no mejora, me planteo cambiarme.",27.3,0,0.61,1,-0.558
+E77700594,2025-02-01,Z02,Oeste,suburbana,4,4,"Últimamente se queda sin servicio. se nota congestión. el descuento no se aplicó. Si no mejora, me planteo cambiarme.",42.78,0,0.3889,1,-0.417
+E77700361,2025-02-01,Z04,Centro,suburbana,3,2,"Desde hace meses no tengo cobertura dentro de casa. se nota congestión. Por favor, revisen la cobertura en mi zona.",41.98,0,0.4003,0,-0.69
+E77700815,2025-02-01,Z04,Centro,suburbana,4,4,"En general podría ser mejor. normal, sin más. Sinceramente normal, sin más.",41.98,0,0.4003,1,-0.326
+E77700235,2025-02-01,Z05,Este,urbana_premium,4,4,"En las últimas semanas hay cortes constantes. los datos van lentísimos. Por favor, revisen la cobertura en mi zona.",55.12,0,0.2126,0,-0.48
+E77700170,2025-02-01,Z06,Sur,rural,3,1,En general la cobertura es mala. se nota congestión. el descuento no se aplicó. No es lo que esperaba.,28.65,0,0.5907,0,-0.728
+E77700792,2025-02-01,Z06,Sur,rural,2,3,Este mes hay cortes constantes. no carga nada. el descuento no se aplicó. Espero que lo solucionen pronto.,28.65,0,0.5907,0,-0.876
+E77700066,2025-02-01,Z09,Norte,urbana_premium,5,3,,55.06,0,0.2134,1,-0.154
+E77700189,2025-02-01,Z09,Norte,urbana_premium,4,5,Últimamente todo correcto. Lo peor es que depende del día. Sinceramente depende del día.,55.06,0,0.2134,0,0.598
+E77700239,2025-02-01,Z09,Norte,urbana_premium,5,2,"En mi zona hay cortes constantes. no es perfecto pero cumple. La verdad normal, sin más.",55.06,0,0.2134,1,-0.232
+E77700345,2025-02-01,Z09,Norte,urbana_premium,3,0,"En mi experiencia se queda sin servicio. hay mucha latencia. Por favor, revisen la cobertura en mi zona.",55.06,0,0.2134,0,-0.742
+E77700005,2025-02-01,Z10,Este,suburbana,2,2,Desde hace meses no tengo cobertura dentro de casa. hay mucha latencia.,43.36,0,0.3806,0,-0.98
+E77700914,2025-02-01,Z13,Este,suburbana,3,0,Desde hace meses la cobertura es mala. la velocidad es muy baja. la factura sube sin explicación. Gracias por la atención.,40.38,0,0.4231,0,-0.893
+E77700965,2025-02-01,Z13,Este,suburbana,4,3,Desde hace meses la señal va y viene. depende del día. Además no es perfecto pero cumple.,40.38,0,0.4231,1,-0.306
+E77700771,2025-02-01,Z17,Sur,suburbana,3,4,"Últimamente hay cortes constantes. los datos van lentísimos. Por favor, revisen la cobertura en mi zona.",45.17,0,0.3547,0,-0.524
+E77700862,2025-02-01,Z17,Sur,suburbana,3,0,"Este mes se corta en llamadas. los datos van lentísimos. Si no mejora, me planteo cambiarme.",45.17,0,0.3547,0,-0.445
+E77700082,2025-02-01,Z20,Oeste,suburbana,3,2,En mi zona no tengo cobertura dentro de casa. podría ser mejor. Espero que lo solucionen pronto.,42.1,0,0.3986,0,-0.313
+E77700531,2025-02-01,Z20,Oeste,suburbana,4,3,Este mes no es perfecto pero cumple. podría ser mejor. Además depende del día.,42.1,0,0.3986,1,-0.198
+E77700445,2025-02-01,Z22,Este,suburbana,3,2,"Últimamente hay cortes constantes. el 5G ni se nota. Por favor, revisen la cobertura en mi zona.",43.95,0,0.3721,0,-0.513
+E77700434,2025-02-01,Z23,Norte,rural,3,0,En general la señal va y viene. los datos van lentísimos. No es lo que esperaba.,25.06,0,0.642,0,-0.903
+E77700117,2025-02-01,Z26,Oeste,urbana_premium,4,1,En general se queda sin servicio. depende del día. Sinceramente depende del día.,58.5,0,0.1643,1,-0.159
+E77700874,2025-02-01,Z26,Oeste,urbana_premium,3,5,En mi experiencia se corta en llamadas. no carga nada. Espero que lo solucionen pronto.,58.5,0,0.1643,0,-0.553
+E77700930,2025-02-01,Z26,Oeste,urbana_premium,3,8,En general se queda sin servicio. depende del día. Por otro lado no es perfecto pero cumple.,58.5,0,0.1643,0,0.041
+E77700505,2025-02-01,Z27,Norte,suburbana,3,2,En mi experiencia la cobertura es mala. los datos van lentísimos. Gracias por la atención.,37.26,0,0.4677,0,-0.758
+E77700655,2025-02-01,Z27,Norte,suburbana,4,2,"En mi zona no tengo cobertura dentro de casa. no carga nada. Por favor, revisen la cobertura en mi zona.",37.26,0,0.4677,1,-0.356
+E77700450,2025-02-01,Z28,Sur,urbana_premium,4,0,En general no tengo cobertura dentro de casa. el 5G ni se nota. Gracias por la atención.,55.83,0,0.2024,1,-0.694
+E77700548,2025-02-01,Z28,Sur,urbana_premium,4,8,En mi zona se corta en llamadas. se nota congestión. no me dieron solución.,55.83,0,0.2024,0,-0.494
+E77700636,2025-02-01,Z28,Sur,urbana_premium,3,0,"En general se queda sin servicio. no carga nada. Por favor, revisen la cobertura en mi zona.",55.83,0,0.2024,0,-1.0
+E77700566,2025-02-01,Z29,Oeste,urbana_premium,3,5,"En las últimas semanas no he tenido problemas. normal, sin más. Además depende del día.",58.5,0,0.1643,0,0.216
+E77700657,2025-02-01,Z29,Oeste,urbana_premium,2,5,En las últimas semanas se corta en llamadas. no es perfecto pero cumple.,58.5,0,0.1643,1,0.147
+E77700015,2025-03-01,Z02,Oeste,suburbana,3,5,Desde hace meses se queda sin servicio. se nota congestión. me marean con respuestas. No es lo que esperaba.,43.74,0,0.3751,0,-0.7
+E77700640,2025-03-01,Z02,Oeste,suburbana,3,1,En mi experiencia no tengo cobertura dentro de casa. se nota congestión. Gracias por la atención.,43.74,0,0.3751,0,-0.813
+E77700785,2025-03-01,Z02,Oeste,suburbana,3,2,En mi experiencia hay cortes constantes. hay mucha latencia. La verdad depende del día.,43.74,0,0.3751,0,-0.937
+E77700880,2025-03-01,Z04,Centro,suburbana,3,3,"En general se corta en llamadas. el 5G ni se nota. Si no mejora, me planteo cambiarme.",43.56,0,0.3777,0,-0.989
+E77700251,2025-03-01,Z05,Este,urbana_premium,5,8,"En general se queda sin servicio. normal, sin más. Por otro lado no es perfecto pero cumple.",56.05,0,0.1993,1,-0.331
+E77700576,2025-03-01,Z05,Este,urbana_premium,2,1,En mi zona se corta en llamadas. me atendieron bien pero no lo resolvieron.,56.05,0,0.1993,0,-0.33
+E77700661,2025-03-01,Z05,Este,urbana_premium,5,7,"Este mes se nota congestión. normal, sin más. Lo mejor es que depende del día.",56.05,0,0.1993,0,0.102
+E77700585,2025-03-01,Z08,Sur,rural,5,3,En las últimas semanas no tengo cobertura dentro de casa. no carga nada. me atendieron bien pero no lo resolvieron.,26.55,0,0.6207,1,-0.928
+E77700169,2025-03-01,Z09,Norte,urbana_premium,3,2,En general los datos van lentísimos. me marean con respuestas. Gracias por la atención.,56.9,0,0.1871,0,-0.044
+E77700501,2025-03-01,Z09,Norte,urbana_premium,4,3,"Este mes se corta en llamadas. hay mucha latencia. la atención al cliente no ayuda. Si no mejora, me planteo cambiarme.",56.9,0,0.1871,1,-0.467
+E77700808,2025-03-01,Z09,Norte,urbana_premium,3,0,"En mi zona la cobertura es mala. los datos van lentísimos. Por favor, revisen la cobertura en mi zona.",56.9,0,0.1871,0,-0.494
+E77700127,2025-03-01,Z11,Oeste,suburbana,3,2,"En mi zona la señal va y viene. no carga nada. me cobraron de más. Si no mejora, me planteo cambiarme.",42.51,0,0.3927,0,-0.619
+E77700336,2025-03-01,Z11,Oeste,suburbana,3,1,Desde hace meses se corta en llamadas. los datos van lentísimos. me atendieron bien pero no lo resolvieron. No es lo que esperaba.,42.51,0,0.3927,0,-1.0
+E77700277,2025-03-01,Z15,Oeste,suburbana,2,0,"En las últimas semanas la cobertura es mala. hay mucha latencia. no entiendo los cargos. Por favor, revisen la cobertura en mi zona.",43.72,0,0.3754,0,-0.485
+E77700521,2025-03-01,Z15,Oeste,suburbana,1,0,En general la señal va y viene. hay mucha latencia. No es lo que esperaba.,43.72,0,0.3754,0,-0.672
+E77700810,2025-03-01,Z15,Oeste,suburbana,4,3,"En las últimas semanas la señal va y viene. la velocidad es muy baja. Por favor, revisen la cobertura en mi zona.",43.72,0,0.3754,0,-0.415
+E77700088,2025-03-01,Z18,Sur,urbana_premium,4,3,En las últimas semanas se queda sin servicio. se nota congestión. me parece caro para lo que ofrecen. Gracias por la atención.,57.17,0,0.1833,0,-0.354
+E77700622,2025-03-01,Z18,Sur,urbana_premium,4,7,"En general no es perfecto pero cumple. podría ser mejor. Si no mejora, me planteo cambiarme.",57.17,0,0.1833,0,0.049
+E77700151,2025-03-01,Z26,Oeste,urbana_premium,4,4,En las últimas semanas en general estoy satisfecho. tiene altibajos. Además tiene altibajos.,56.85,0,0.1879,0,0.278
+E77700244,2025-03-01,Z26,Oeste,urbana_premium,2,0,"En las últimas semanas la cobertura es mala. los datos van lentísimos. no me dieron solución. Si no mejora, me planteo cambiarme.",56.85,0,0.1879,0,-0.529
+E77700539,2025-03-01,Z26,Oeste,urbana_premium,4,4,"En mi experiencia no tengo cobertura dentro de casa. se nota congestión. Por favor, revisen la cobertura en mi zona.",56.85,0,0.1879,0,-0.448
+E77700888,2025-03-01,Z27,Norte,suburbana,4,5,En las últimas semanas hay cortes constantes. no carga nada. Gracias por la atención.,40.02,0,0.4283,0,-0.617
+E77700383,2025-03-01,Z28,Sur,urbana_premium,3,5,"En las últimas semanas la señal va y viene. el 5G ni se nota. Por favor, revisen la cobertura en mi zona.",58.26,0,0.1677,0,-0.586
+E77700716,2025-03-01,Z28,Sur,urbana_premium,3,6,En mi zona hay cortes constantes. la factura sube sin explicación. Espero que lo solucionen pronto.,58.26,0,0.1677,0,0.004
+E77700054,2025-03-01,Z30,Centro,suburbana,4,8,En mi experiencia no es perfecto pero cumple. no me dieron solución.,41.03,0,0.4139,0,-0.091
+E77700767,2025-04-01,Z02,Oeste,suburbana,3,5,En mi zona hay cortes constantes. la velocidad es muy baja. No es lo que esperaba.,42.96,0,0.3863,0,-0.64
+E77700498,2025-04-01,Z05,Este,urbana_premium,3,2,Últimamente se corta en llamadas. la velocidad es muy baja. No es lo que esperaba.,53.88,0,0.2303,0,-0.548
+E77700299,2025-04-01,Z08,Sur,rural,5,1,"Últimamente la señal va y viene. la velocidad es muy baja. el descuento no se aplicó. Si no mejora, me planteo cambiarme.",25.29,0,0.6387,1,-0.955
+E77700647,2025-04-01,Z08,Sur,rural,3,0,Desde hace meses la señal va y viene. la velocidad es muy baja. Espero que lo solucionen pronto.,25.29,0,0.6387,0,-0.914
+E77700062,2025-04-01,Z09,Norte,urbana_premium,4,5,"En mi experiencia la cobertura es mala. la velocidad es muy baja. Si no mejora, me planteo cambiarme.",57.83,0,0.1739,1,-0.863
+E77700343,2025-04-01,Z09,Norte,urbana_premium,4,4,Este mes no es perfecto pero cumple. me cobraron de más. En resumen podría ser mejor.,57.83,0,0.1739,1,-0.259
+E77700718,2025-04-01,Z09,Norte,urbana_premium,5,6,"Últimamente hay mucha latencia. normal, sin más. Lo peor es que podría ser mejor.",57.83,0,0.1739,0,0.052
+E77700800,2025-04-01,Z09,Norte,urbana_premium,4,5,"En las últimas semanas la señal va y viene. el 5G ni se nota. Si no mejora, me planteo cambiarme.",57.83,0,0.1739,1,-0.638
+E77700672,2025-04-01,Z10,Este,suburbana,5,2,En las últimas semanas se queda sin servicio. tiene altibajos. Por otro lado podría ser mejor.,42.96,0,0.3863,1,-0.323
+E77700174,2025-04-01,Z11,Oeste,suburbana,5,0,,41.7,0,0.4043,1,-0.668
+E77700955,2025-04-01,Z11,Oeste,suburbana,2,2,Desde hace meses la cobertura es mala. hay mucha latencia. No es lo que esperaba.,41.7,0,0.4043,0,-0.785
+E77700006,2025-04-01,Z15,Oeste,suburbana,3,3,"En mi experiencia se corta en llamadas. la velocidad es muy baja. Si no mejora, me planteo cambiarme.",42.78,0,0.3889,0,-0.523
+E77700724,2025-04-01,Z15,Oeste,suburbana,2,6,"En mi experiencia todo correcto. Además podría ser mejor. Por otro lado normal, sin más.",42.78,0,0.3889,1,0.6
+E77700068,2025-04-01,Z16,Este,urbana_premium,2,0,"Este mes se corta en llamadas. el 5G ni se nota. me parece caro para lo que ofrecen. Si no mejora, me planteo cambiarme.",54.89,0,0.2159,0,-0.613
+E77700459,2025-04-01,Z16,Este,urbana_premium,3,1,En mi zona podría ser mejor. me cobraron de más. Lo mejor es que podría ser mejor.,54.89,0,0.2159,0,-0.028
+E77700007,2025-04-01,Z17,Sur,suburbana,2,3,"Últimamente no tengo cobertura dentro de casa. hay mucha latencia. Si no mejora, me planteo cambiarme.",40.93,0,0.4153,0,-0.738
+E77700095,2025-04-01,Z18,Sur,urbana_premium,5,3,"Desde hace meses normal, sin más. me cobraron de más. No es lo que esperaba.",59.1,0,0.1557,1,-0.336
+E77700894,01/04/2025,Z19,Este,rural,4,0,En mi zona la señal va y viene. hay mucha latencia. Lo peor es que no es perfecto pero cumple.,26.17,0,0.6261,0,-1.0
+E77700654,2025-04-01,Z20,Oeste,suburbana,4,4,En mi zona se corta en llamadas. no carga nada. tardaron muchísimo.,44.06,0,0.3706,1,-0.692
+E77700031,2025-04-01,Z21,Centro,rural,5,0,"Últimamente la señal va y viene. hay mucha latencia. me atendieron bien pero no lo resolvieron. Por favor, revisen la cobertura en mi zona.",29.11,0,0.5841,1,-0.503
+E77700954,2025-04-01,Z21,Centro,rural,3,1,Desde hace meses la cobertura es mala. no carga nada. Lo mejor es que podría ser mejor.,29.11,0,0.5841,0,-0.42
+E77700520,2025-04-01,Z22,Este,suburbana,2,2,Últimamente se nota congestión. me marean con respuestas. No es lo que esperaba.,43.57,0,0.3776,1,0.135
+E77700267,2025-04-01,Z27,Norte,suburbana,3,2,En general hay cortes constantes. la velocidad es muy baja. Además podría ser mejor.,44.77,0,0.3604,0,-0.376
+E77700836,2025-04-01,Z27,Norte,suburbana,2,7,En las últimas semanas funciona bastante bien. Sinceramente podría ser mejor. Lo mejor es que no es perfecto pero cumple.,44.77,0,0.3604,0,0.313
+E77700146,2025-04-01,Z28,Sur,urbana_premium,3,3,En las últimas semanas no carga nada. no me dieron solución. Lo peor es que podría ser mejor.,55.71,0,0.2041,0,-0.313
+E77700492,2025-04-01,Z28,Sur,urbana_premium,3,3,En mi experiencia la cobertura es mala. la velocidad es muy baja. Espero que lo solucionen pronto.,55.71,0,0.2041,0,-0.414
+E77700518,2025-04-01,Z29,Oeste,urbana_premium,4,4,Desde hace meses no carga nada. no me dieron solución. En resumen tiene altibajos.,56.85,0,0.1879,1,-0.28
+E77700294,2025-04-01,Z30,Centro,suburbana,1,4,"En las últimas semanas hay cortes constantes. normal, sin más. Por favor, revisen la cobertura en mi zona.",47.19,0,0.3259,1,0.117
+E77700128,2025-05-01,Z02,Oeste,suburbana,4,4,En mi experiencia hay cortes constantes. tiene altibajos. En resumen podría ser mejor.,43.92,0,0.3726,1,-0.299
+E77700223,2025-05-01,Z02,Oeste,suburbana,3,3,"En mi experiencia la cobertura es mala. no carga nada. La verdad normal, sin más.",43.92,0,0.3726,0,-0.639
+E77700812,2025-05-01,Z04,Centro,suburbana,3,7,"Últimamente la velocidad es muy baja. no es perfecto pero cumple. Lo mejor es que normal, sin más.",46.46,0,0.3363,0,-0.077
+E77700242,2025-05-01,Z05,Este,urbana_premium,5,4,En general hay cortes constantes. me parece caro para lo que ofrecen.,59.66,0,0.1477,1,-0.112
+E77700454,2025-05-01,Z05,Este,urbana_premium,4,6,"En mi zona la cobertura es mala. me cobraron de más. Por favor, revisen la cobertura en mi zona.",59.66,0,0.1477,0,-0.083
+E77700699,2025-05-01,Z05,Este,urbana_premium,4,5,En mi experiencia no tengo cobertura dentro de casa. los datos van lentísimos. Espero que lo solucionen pronto.,59.66,0,0.1477,0,-0.504
+E77700941,2025-05-01,Z05,Este,urbana_premium,1,7,En general hay cortes constantes. no es perfecto pero cumple. La verdad no es perfecto pero cumple.,59.66,0,0.1477,1,0.075
+E77700947,2025-05-01,Z07,Centro,rural,3,5,En mi experiencia se queda sin servicio. se nota congestión. Espero que lo solucionen pronto.,28.33,0,0.5953,0,-0.878
+E77700282,2025-05-01,Z09,Norte,urbana_premium,3,0,"En mi zona se corta en llamadas. los datos van lentísimos. Por favor, revisen la cobertura en mi zona.",55.85,0,0.2021,0,-0.534
+E77700059,2025-05-01,Z13,Este,suburbana,3,8,,40.63,0,0.4196,0,0.48
+E77700969,2025-05-01,Z15,Oeste,suburbana,10,2,En mi experiencia se corta en llamadas. hay mucha latencia. Lo peor es que depende del día.,43.18,0,0.3831,1,-1.0
+E77700104,2025-05-01,Z16,Este,urbana_premium,4,7,En las últimas semanas la señal va y viene. se nota congestión. no me dieron solución.,61.33,0,0.1239,1,-0.369
+E77700388,2025-05-01,Z17,Sur,suburbana,3,4,"En general la cobertura es mala. hay mucha latencia. Si no mejora, me planteo cambiarme.",43.45,0,0.3793,0,-0.549
+E77700722,2025-05-01,Z18,Sur,urbana_premium,3,2,En mi experiencia hay mucha latencia. la atención al cliente no ayuda.,55.89,0,0.2016,0,-0.187
+E77700822,2025-05-01,Z22,Este,suburbana,4,2,"En las últimas semanas la cobertura es mala. no carga nada. no entiendo los cargos. Si no mejora, me planteo cambiarme.",42.46,0,0.3934,1,-0.709
+E77700665,2025-05-01,Z23,Norte,rural,3,0,"Últimamente la señal va y viene. hay mucha latencia. Si no mejora, me planteo cambiarme.",23.62,0,0.6626,0,-1.0
+E77700579,2025-05-01,Z25,Oeste,rural,1,0,Desde hace meses la señal va y viene. hay mucha latencia. No es lo que esperaba.,25.6,0,0.6343,0,-1.0
+E77700301,2025-05-01,Z26,Oeste,urbana_premium,5,4,"En mi zona hay mucha latencia. tardaron muchísimo. Si no mejora, me planteo cambiarme.",61.61,0,0.1199,1,-0.148
+E77700508,01/05/2025,Z26,Oeste,urbana_premium,3,4,"En las últimas semanas la velocidad es muy baja. podría ser mejor. Si no mejora, me planteo cambiarme.",61.61,0,0.1199,0,-0.031
+E77700740,2025-05-01,Z26,Oeste,urbana_premium,3,5,"En mi experiencia hay mucha latencia. no entiendo los cargos. Por favor, revisen la cobertura en mi zona.",61.61,0,0.1199,0,0.075
+E77700775,2025-05-01,Z26,Oeste,urbana_premium,3,1,"En mi experiencia se queda sin servicio. la velocidad es muy baja. Si no mejora, me planteo cambiarme.",61.61,0,0.1199,0,-1.0
+E77700905,2025-05-01,Z26,Oeste,urbana_premium,5,6,En las últimas semanas la cobertura es mala. la atención al cliente no ayuda.,61.61,0,0.1199,1,-0.316
+E77700882,2025-05-01,Z27,Norte,suburbana,3,2,En mi zona la cobertura es mala. se nota congestión. En resumen podría ser mejor.,43.41,0,0.3799,0,-0.472
+E77700704,2025-05-01,Z29,Oeste,urbana_premium,3,0,Desde hace meses no tengo cobertura dentro de casa. los datos van lentísimos. me parece caro para lo que ofrecen. No es lo que esperaba.,58.36,0,0.1663,0,-0.938
+E77700748,2025-05-01,Z29,Oeste,urbana_premium,3,0,"En las últimas semanas la velocidad es muy baja. normal, sin más. Por favor, revisen la cobertura en mi zona.",58.36,0,0.1663,0,-0.334
+E77700821,2025-06-01,Z05,Este,urbana_premium,1,1,En mi experiencia los datos van lentísimos. la factura sube sin explicación.,54.98,0,0.2146,1,0.068
+E77700877,2025-06-01,Z05,Este,urbana_premium,4,7,Este mes hay mucha latencia. no entiendo los cargos. Gracias por la atención.,54.98,0,0.2146,0,-0.15
+E77700478,2025-06-01,Z07,Centro,rural,2,2,En mi zona se corta en llamadas. no carga nada. Espero que lo solucionen pronto.,25.75,0,0.6321,0,-0.909
+E77700574,2025-06-01,Z09,Norte,urbana_premium,5,4,"En mi experiencia normal, sin más. me cobraron de más. Gracias por la atención.",60.46,0,0.1363,1,-0.279
+E77700602,2025-06-01,Z09,Norte,urbana_premium,5,7,Desde hace meses la cobertura es mala. me parece caro para lo que ofrecen.,60.46,0,0.1363,0,-0.267
+E77700827,2025-06-01,Z09,Norte,urbana_premium,4,9,Desde hace meses la cobertura es buena. Lo peor es que podría ser mejor.,60.46,0,0.1363,0,0.378
+E77700982,2025-06-01,Z10,Este,suburbana,3,0,,44.14,0,0.3694,0,-0.223
+E77700523,2025-06-01,Z13,Este,suburbana,4,0,,46.06,0,0.342,0,-0.702
+E77700355,2025-06-01,Z15,Oeste,suburbana,2,0,"En general hay cortes constantes. los datos van lentísimos. Si no mejora, me planteo cambiarme.",43.69,0,0.3759,0,-0.795
+E77700436,2025-06-01,Z15,Oeste,suburbana,5,2,Últimamente el 5G ni se nota. la atención al cliente no ayuda.,43.69,0,0.3759,1,-0.264
+E77700615,2025-06-01,Z15,Oeste,suburbana,4,2,"En mi experiencia la cobertura es mala. hay mucha latencia. Por favor, revisen la cobertura en mi zona.",43.69,0,0.3759,1,-0.491
+E77700156,2025-06-01,Z16,Este,urbana_premium,3,7,Últimamente la señal va y viene. no es perfecto pero cumple. Gracias por la atención.,59.26,0,0.1534,0,-0.043
+E77700348,2025-06-01,Z16,Este,urbana_premium,3,2,"En mi experiencia la señal va y viene. hay mucha latencia. Por favor, revisen la cobertura en mi zona.",59.26,0,0.1534,0,-0.697
+E77700114,2025-06-01,Z17,Sur,suburbana,2,2,"En mi zona tiene altibajos. podría ser mejor. Por favor, revisen la cobertura en mi zona.",44.31,0,0.367,0,-0.341
+E77700758,2025-06-01,Z17,Sur,suburbana,3,4,En las últimas semanas los datos van lentísimos. me atendieron bien pero no lo resolvieron. Espero que lo solucionen pronto.,44.31,0,0.367,0,-0.306
+E77700889,2025-06-01,Z20,Oeste,suburbana,2,0,Desde hace meses hay cortes constantes. la velocidad es muy baja. me marean con respuestas. Espero que lo solucionen pronto.,43.15,0,0.3836,0,-0.478
+E77700268,2025-06-01,Z26,Oeste,urbana_premium,3,7,"En las últimas semanas la cobertura es mala. el 5G ni se nota. tardaron muchísimo. Por favor, revisen la cobertura en mi zona.",59.79,0,0.1459,0,-0.398
+E77700664,2025-06-01,Z26,Oeste,urbana_premium,2,3,En las últimas semanas los datos van lentísimos. me cobraron de más. Gracias por la atención.,59.79,0,0.1459,1,-0.036
+E77700705,2025-06-01,Z26,Oeste,urbana_premium,4,0,En las últimas semanas la velocidad es muy baja. tardaron muchísimo. Espero que lo solucionen pronto.,59.79,0,0.1459,0,-0.221
+E77700786,2025-06-01,Z26,Oeste,urbana_premium,3,3,Este mes se corta en llamadas. la velocidad es muy baja. me atendieron bien pero no lo resolvieron. No es lo que esperaba.,59.79,0,0.1459,0,-0.358
+E77700020,2025-06-01,Z27,Norte,suburbana,2,1,En mi experiencia la cobertura es mala. se nota congestión. no me dieron solución.,45.42,0,0.3511,0,-0.441
+E77700482,2025-06-01,Z27,Norte,suburbana,3,2,En las últimas semanas la cobertura es mala. la factura sube sin explicación.,45.42,0,0.3511,0,-0.271
+E77700526,2025-06-01,Z27,Norte,suburbana,5,7,En las últimas semanas no tengo cobertura dentro de casa. la velocidad es muy baja.,45.42,0,0.3511,1,-0.4
+E77700365,2025-06-01,Z28,Sur,urbana_premium,4,2,En mi experiencia la velocidad es muy baja. no es perfecto pero cumple.,59.35,0,0.1521,0,-0.236
+E77700136,2025-06-01,Z29,Oeste,urbana_premium,1,6,En las últimas semanas tiene altibajos. me atendieron bien pero no lo resolvieron.,59.88,0,0.1446,1,0.005
+E77700619,2025-06-01,Z29,Oeste,urbana_premium,4,4,"En las últimas semanas hay cortes constantes. no es perfecto pero cumple. Si no mejora, me planteo cambiarme.",59.88,0,0.1446,0,0.01
+E77700760,2025-07-01,Z02,Oeste,suburbana,5,3,"En mi zona hay cortes constantes. se nota congestión. no entiendo los cargos. Por favor, revisen la cobertura en mi zona.",45.42,0,0.3511,1,-0.672
+E77700920,2025-07-01,Z03,Sur,rural,3,4,En general se queda sin servicio. no carga nada. no me dieron solución. Gracias por la atención.,24.89,0,0.6444,0,-0.847
+E77700283,2025-07-01,Z05,Este,urbana_premium,3,2,En las últimas semanas la velocidad es muy baja. tardaron muchísimo. En resumen depende del día.,58.24,0,0.168,0,-0.013
+E77700834,2025-07-01,Z05,Este,urbana_premium,3,9,"Desde hace meses el 5G ni se nota. tiene altibajos. En resumen normal, sin más.",58.24,0,0.168,0,0.044
+E77700997,2025-07-01,Z06,Sur,rural,5,3,Desde hace meses no tengo cobertura dentro de casa. el 5G ni se nota.,28.1,0,0.5986,1,-0.642
+E77700693,2025-07-01,Z07,Centro,rural,2,4,"En las últimas semanas no tengo cobertura dentro de casa. no es perfecto pero cumple. Si no mejora, me planteo cambiarme.",26.6,0,0.62,0,-0.231
+E77700188,2025-07-01,Z09,Norte,urbana_premium,5,4,Este mes no tengo cobertura dentro de casa. el 5G ni se nota.,58.49,0,0.1644,1,-0.431
+E77700842,2025-07-01,Z09,Norte,urbana_premium,3,2,"En mi experiencia la señal va y viene. hay mucha latencia. me parece caro para lo que ofrecen. Por favor, revisen la cobertura en mi zona.",58.49,0,0.1644,0,-0.791
+E77700529,01/07/2025,Z14,Norte,rural,3,0,Este mes se queda sin servicio. los datos van lentísimos. no entiendo los cargos.,24.89,0,0.6444,0,-0.568
+E77700291,2025-07-01,Z15,Oeste,suburbana,3,6,En las últimas semanas la velocidad ha mejorado. Lo peor es que no es perfecto pero cumple.,42.06,0,0.3991,0,0.31
+E77700353,2025-07-01,Z15,Oeste,suburbana,3,1,En mi experiencia tiene altibajos. depende del día. Espero que lo solucionen pronto.,42.06,0,0.3991,0,-0.332
+E77700557,2025-07-01,Z15,Oeste,suburbana,3,5,"En general depende del día. no es perfecto pero cumple. En resumen normal, sin más.",42.06,0,0.3991,0,0.035
+E77700734,2025-07-01,Z15,Oeste,suburbana,2,4,Últimamente no tengo cobertura dentro de casa. podría ser mejor. Además depende del día.,42.06,0,0.3991,0,-0.279
+E77700237,2025-07-01,Z16,Este,urbana_premium,4,5,En mi experiencia la señal va y viene. hay mucha latencia. la atención al cliente no ayuda.,60.06,0,0.142,1,-0.77
+E77700616,2025-07-01,Z16,Este,urbana_premium,3,4,En las últimas semanas la cobertura es mala. los datos van lentísimos. la factura sube sin explicación. Espero que lo solucionen pronto.,60.06,0,0.142,0,-0.721
+E77700178,2025-07-01,Z18,Sur,urbana_premium,3,0,"En mi zona la señal va y viene. la velocidad es muy baja. Por favor, revisen la cobertura en mi zona.",59.31,0,0.1527,0,-0.615
+E77700522,2025-07-01,Z21,Centro,rural,5,0,"Este mes la cobertura es mala. los datos van lentísimos. me atendieron bien pero no lo resolvieron. Por favor, revisen la cobertura en mi zona.",29.06,0,0.5849,1,-1.0
+E77700103,2025-07-01,Z22,Este,suburbana,2,4,"Este mes la señal va y viene. se nota congestión. Por favor, revisen la cobertura en mi zona.",46.49,0,0.3359,0,-0.593
+E77700204,2025-07-01,Z22,Este,suburbana,3,0,Últimamente podría ser mejor. tiene altibajos. Espero que lo solucionen pronto. En resumen depende del día.,46.49,0,0.3359,0,-0.315
+E77700921,2025-07-01,Z25,Oeste,rural,3,0,En las últimas semanas la señal va y viene. los datos van lentísimos. tardaron muchísimo. Gracias por la atención.,27.65,0,0.605,0,-0.48
+E77700252,2025-07-01,Z26,Oeste,urbana_premium,3,2,Este mes la cobertura es mala. podría ser mejor. No es lo que esperaba.,58.63,0,0.1624,0,-0.302
+E77700935,2025-07-01,Z26,Oeste,urbana_premium,3,1,Últimamente la señal va y viene. la atención al cliente no ayuda. No es lo que esperaba.,58.63,0,0.1624,0,-0.109
+E77700168,2025-07-01,Z27,Norte,suburbana,5,0,"En mi zona no tengo cobertura dentro de casa. la velocidad es muy baja. me cobraron de más. Si no mejora, me planteo cambiarme.",43.87,0,0.3733,1,-0.879
+E77700825,2025-07-01,Z30,Centro,suburbana,2,0,Este mes la señal va y viene. no carga nada. No es lo que esperaba.,45.4,0,0.3514,0,-1.0
+E77700096,2025-08-01,Z04,Centro,suburbana,3,0,Este mes el 5G ni se nota. no me dieron solución. En resumen depende del día.,48.53,0,0.3067,0,-0.089
+E77700363,2025-08-01,Z04,Centro,suburbana,4,3,"En general no tengo cobertura dentro de casa. hay mucha latencia. Si no mejora, me planteo cambiarme.",48.53,0,0.3067,1,-0.398
+E77700621,2025-08-01,Z05,Este,urbana_premium,2,2,En mi experiencia no carga nada. podría ser mejor. Espero que lo solucionen pronto.,59.05,0,0.1564,1,0.076
+E77700924,2025-08-01,Z05,Este,urbana_premium,5,3,En mi zona hay cortes constantes. la velocidad es muy baja. Espero que lo solucionen pronto.,59.05,0,0.1564,1,-0.408
+E77700411,2025-08-01,Z09,Norte,urbana_premium,4,3,Últimamente no tengo cobertura dentro de casa. la factura sube sin explicación.,62.83,0,0.1024,0,0.109
+E77700981,2025-08-01,Z10,Este,suburbana,4,5,Últimamente se corta en llamadas. el 5G ni se nota. Espero que lo solucionen pronto.,45.01,0,0.357,1,-0.659
+E77700666,2025-08-01,Z14,Norte,rural,5,0,En general no tengo cobertura dentro de casa. se nota congestión. me marean con respuestas.,26.07,0,0.6276,1,-0.911
+E77700701,2025-08-01,Z15,Oeste,suburbana,4,1,En general hay cortes constantes. los datos van lentísimos. no me dieron solución. Espero que lo solucionen pronto.,43.38,0,0.3803,1,-1.0
+E77700064,2025-08-01,Z16,Este,urbana_premium,4,3,"Desde hace meses el 5G ni se nota. depende del día. Por favor, revisen la cobertura en mi zona.",62.26,0,0.1106,0,-0.188
+E77700455,2025-08-01,Z16,Este,urbana_premium,3,10,"Este mes en general estoy satisfecho. normal, sin más. Además normal, sin más.",62.26,0,0.1106,0,0.339
+E77700830,2025-08-01,Z16,Este,urbana_premium,3,5,En general no tengo cobertura dentro de casa. la factura sube sin explicación.,62.26,0,0.1106,0,0.042
+E77700085,2025-08-01,Z17,Sur,suburbana,5,2,Desde hace meses no carga nada. tiene altibajos. La verdad no es perfecto pero cumple.,46.73,0,0.3324,1,-0.299
+E77700373,2025-08-01,Z17,Sur,suburbana,3,3,"En mi experiencia se queda sin servicio. se nota congestión. Por favor, revisen la cobertura en mi zona.",46.73,0,0.3324,0,-0.833
+E77700390,2025-08-01,Z17,Sur,suburbana,4,1,"Desde hace meses se queda sin servicio. se nota congestión. Si no mejora, me planteo cambiarme.",46.73,0,0.3324,0,-0.638
+E77700457,2025-08-01,Z17,Sur,suburbana,3,1,Desde hace meses se corta en llamadas. la velocidad es muy baja. tardaron muchísimo.,46.73,0,0.3324,0,-0.601
+E77700592,2025-08-01,Z20,Oeste,suburbana,3,0,"En general no tengo cobertura dentro de casa. se nota congestión. Por favor, revisen la cobertura en mi zona.",45.96,0,0.3434,0,-0.908
+E77700802,2025-08-01,Z20,Oeste,suburbana,4,4,"En general se queda sin servicio. los datos van lentísimos. la atención al cliente no ayuda. Por favor, revisen la cobertura en mi zona.",45.96,0,0.3434,0,-0.995
+E77700835,2025-08-01,Z20,Oeste,suburbana,2,3,En mi zona la cobertura es mala. el 5G ni se nota. la factura sube sin explicación. Gracias por la atención.,45.96,0,0.3434,0,-0.673
+E77700360,2025-08-01,Z22,Este,suburbana,3,2,"En mi experiencia la cobertura es mala. tardaron muchísimo. Además normal, sin más.",47.03,0,0.3281,0,-0.315
+E77700610,2025-08-01,Z22,Este,suburbana,5,3,"En mi experiencia la cobertura es mala. el 5G ni se nota. el descuento no se aplicó. Si no mejora, me planteo cambiarme.",47.03,0,0.3281,1,-0.86
+E77700968,2025-08-01,Z22,Este,suburbana,3,1,Este mes depende del día. tardaron muchísimo. Además podría ser mejor. Además depende del día.,47.03,0,0.3281,0,-0.054
+E77700196,2025-08-01,Z24,Centro,rural,3,0,"Desde hace meses se corta en llamadas. los datos van lentísimos. Si no mejora, me planteo cambiarme.",28.2,0,0.5971,0,-0.596
+E77700809,2025-08-01,Z26,Oeste,urbana_premium,4,7,"En las últimas semanas hay cortes constantes. normal, sin más. Además normal, sin más.",61.22,0,0.1254,0,-0.259
+E77700406,2025-08-01,Z27,Norte,suburbana,3,1,"En general no es perfecto pero cumple. no me dieron solución. En resumen normal, sin más.",47.88,0,0.316,0,-0.314
+E77700875,2025-08-01,Z27,Norte,suburbana,5,3,"Este mes se corta en llamadas. los datos van lentísimos. me parece caro para lo que ofrecen. Si no mejora, me planteo cambiarme.",47.88,0,0.316,1,-0.41
+E77700892,2025-08-01,Z27,Norte,suburbana,5,5,Últimamente se corta en llamadas. la factura sube sin explicación. La verdad tiene altibajos.,47.88,0,0.316,1,-0.16
+E77700350,2025-08-01,Z28,Sur,urbana_premium,4,3,En mi zona la cobertura es mala. los datos van lentísimos. Espero que lo solucionen pronto.,60.58,0,0.1346,1,-0.783
+E77700185,2025-08-01,Z29,Oeste,urbana_premium,4,6,En mi experiencia el 5G ni se nota. no es perfecto pero cumple.,59.12,0,0.1554,0,0.084
+E77700025,2025-09-01,Z04,Centro,suburbana,3,2,En general se corta en llamadas. hay mucha latencia. Gracias por la atención.,48.83,0,0.3024,0,-0.748
+E77700279,2025-09-01,Z04,Centro,suburbana,1,5,En mi experiencia no tengo cobertura dentro de casa. no carga nada. me parece caro para lo que ofrecen.,48.83,0,0.3024,0,-0.352
+E77700681,2025-09-01,Z04,Centro,suburbana,1,6,Desde hace meses todo correcto. La verdad tiene altibajos. Por otro lado podría ser mejor.,48.83,0,0.3024,1,0.207
+E77700975,2025-09-01,Z04,Centro,suburbana,3,3,"En mi experiencia se nota congestión. la factura sube sin explicación. Lo mejor es que normal, sin más.",48.83,0,0.3024,0,-0.273
+E77700869,2025-09-01,Z05,Este,urbana_premium,2,4,En las últimas semanas la velocidad es muy baja. la atención al cliente no ayuda.,58.65,0,0.1621,0,0.017
+E77700581,2025-09-01,Z07,Centro,rural,3,3,"En las últimas semanas la señal va y viene. hay mucha latencia. Por favor, revisen la cobertura en mi zona.",29.37,0,0.5804,0,-0.377
+E77700401,2025-09-01,Z09,Norte,urbana_premium,5,6,"Desde hace meses normal, sin más. no entiendo los cargos. Gracias por la atención.",60.55,0,0.135,1,-0.211
+E77700432,2025-09-01,Z09,Norte,urbana_premium,5,3,Desde hace meses no carga nada. me cobraron de más. En resumen podría ser mejor.,60.55,0,0.135,1,-0.262
+E77700495,2025-09-01,Z11,Oeste,suburbana,2,2,Este mes no carga nada. no entiendo los cargos. Por otro lado depende del día.,47.02,0,0.3283,1,-0.048
+E77700530,2025-09-01,Z11,Oeste,suburbana,4,0,"En las últimas semanas hay cortes constantes. el 5G ni se nota. Por favor, revisen la cobertura en mi zona.",47.02,0,0.3283,1,-0.741
+E77700588,2025-09-01,Z11,Oeste,suburbana,4,4,"Este mes la señal va y viene. se nota congestión. Por favor, revisen la cobertura en mi zona.",47.02,0,0.3283,0,-0.447
+E77700001,2025-09-01,Z13,Este,suburbana,3,0,"En general la cobertura es mala. el 5G ni se nota. Si no mejora, me planteo cambiarme.",48.18,0,0.3117,0,-1.0
+E77700985,2025-09-01,Z13,Este,suburbana,3,3,"En las últimas semanas la cobertura es mala. hay mucha latencia. me cobraron de más. Por favor, revisen la cobertura en mi zona.",48.18,0,0.3117,0,-0.572
+E77700079,2025-09-01,Z15,Oeste,suburbana,5,1,"En mi experiencia no es perfecto pero cumple. depende del día. Lo peor es que normal, sin más.",45.33,0,0.3524,1,-0.265
+E77700376,2025-09-01,Z15,Oeste,suburbana,2,2,En general los datos van lentísimos. no me dieron solución. La verdad podría ser mejor.,45.33,0,0.3524,0,-0.129
+E77700444,2025-09-01,Z15,Oeste,suburbana,3,2,En general se queda sin servicio. los datos van lentísimos. la factura sube sin explicación. No es lo que esperaba.,45.33,0,0.3524,0,-0.874
+E77700069,2025-09-01,Z16,Este,urbana_premium,2,1,En mi zona hay cortes constantes. la velocidad es muy baja. tardaron muchísimo. Espero que lo solucionen pronto.,62.44,0,0.108,0,-0.737
+E77700712,2025-09-01,Z17,Sur,suburbana,4,8,"En mi zona normal, sin más. podría ser mejor. Por favor, revisen la cobertura en mi zona.",47.15,0,0.3264,1,-0.277
+E77700780,2025-09-01,Z17,Sur,suburbana,5,3,Este mes se queda sin servicio. hay mucha latencia. Espero que lo solucionen pronto.,47.15,0,0.3264,1,-0.599
+E77700211,2025-09-01,Z18,Sur,urbana_premium,5,2,"En mi zona la señal va y viene. normal, sin más. En resumen tiene altibajos.",59.75,0,0.1464,1,-0.122
+E77700568,2025-09-01,Z22,Este,suburbana,3,1,En mi zona los datos van lentísimos. no me dieron solución. Además depende del día.,44.56,0,0.3634,0,-0.3
+E77700864,2025-09-01,Z22,Este,suburbana,4,3,En mi zona se corta en llamadas. los datos van lentísimos. me parece caro para lo que ofrecen.,44.56,0,0.3634,0,-0.673
+E77700439,2025-09-01,Z24,Centro,rural,3,0,En mi experiencia no tengo cobertura dentro de casa. no carga nada. me atendieron bien pero no lo resolvieron. Espero que lo solucionen pronto.,27.93,0,0.601,0,-0.832
+E77700122,2025-09-01,Z26,Oeste,urbana_premium,3,4,"Desde hace meses tiene altibajos. la atención al cliente no ayuda. Por favor, revisen la cobertura en mi zona.",60.06,0,0.142,0,0.13
+E77700433,2025-09-01,Z26,Oeste,urbana_premium,3,0,"Desde hace meses se queda sin servicio. la velocidad es muy baja. la atención al cliente no ayuda. Si no mejora, me planteo cambiarme.",60.06,0,0.142,0,-1.0
+E77700707,2025-09-01,Z26,Oeste,urbana_premium,4,6,Desde hace meses no tengo cobertura dentro de casa. la velocidad es muy baja. no me dieron solución. Espero que lo solucionen pronto.,60.06,0,0.142,0,-0.563
+E77700843,2025-09-01,Z26,Oeste,urbana_premium,4,8,Desde hace meses no carga nada. la atención al cliente no ayuda. Espero que lo solucionen pronto.,60.06,0,0.142,0,-0.129
+E77700960,2025-09-01,Z27,Norte,suburbana,3,3,Desde hace meses se queda sin servicio. se nota congestión. la factura sube sin explicación. Gracias por la atención.,46.55,0,0.335,0,-0.653
+E77700129,2025-09-01,Z28,Sur,urbana_premium,4,4,Desde hace meses la señal va y viene. depende del día. Por otro lado no es perfecto pero cumple.,62.02,0,0.114,0,-0.169
+E77700420,2025-09-01,Z28,Sur,urbana_premium,4,4,"En las últimas semanas tiene altibajos. podría ser mejor. Si no mejora, me planteo cambiarme.",62.02,0,0.114,0,-0.114
+E77700942,2025-09-01,Z28,Sur,urbana_premium,3,5,"Este mes hay cortes constantes. normal, sin más. Por favor, revisen la cobertura en mi zona.",62.02,0,0.114,0,-0.059
+E77700561,2025-09-01,Z29,Oeste,urbana_premium,3,4,Últimamente la cobertura es mala. la velocidad es muy baja. no entiendo los cargos. Espero que lo solucionen pronto.,59.55,0,0.1493,0,-0.822
+E77700519,2025-10-01,Z01,Centro,rural,3,0,Este mes la señal va y viene. la velocidad es muy baja. no entiendo los cargos. Gracias por la atención.,25.56,0,0.6349,0,-0.692
+E77700532,2025-10-01,Z02,Oeste,suburbana,4,2,Este mes no tengo cobertura dentro de casa. no me dieron solución.,45.01,0,0.357,0,-0.275
+E77700577,2025-10-01,Z04,Centro,suburbana,3,3,"Últimamente la señal va y viene. me parece caro para lo que ofrecen. Si no mejora, me planteo cambiarme.",48.34,0,0.3094,0,-0.065
+E77700851,2025-10-01,Z04,Centro,suburbana,5,0,"En mi zona se corta en llamadas. me marean con respuestas. En resumen normal, sin más.",48.34,0,0.3094,1,-0.248
+E77700070,2025-10-01,Z05,Este,urbana_premium,4,9,En las últimas semanas podría ser mejor. me marean con respuestas. Por otro lado no es perfecto pero cumple.,59.74,0,0.1466,0,-0.019
+E77700160,2025-10-01,Z05,Este,urbana_premium,5,15,Este mes no tengo cobertura dentro de casa. podría ser mejor. Por otro lado tiene altibajos.,59.74,0,0.1466,1,-0.241
+E77700635,2025-10-01,Z05,Este,urbana_premium,5,6,En mi experiencia la velocidad ha mejorado. Además no es perfecto pero cumple.,59.74,0,0.1466,0,0.238
+E77700847,2025-10-01,Z05,Este,urbana_premium,5,6,En las últimas semanas la señal va y viene. me cobraron de más.,59.74,0,0.1466,1,-0.343
+E77700956,2025-10-01,Z08,Sur,rural,3,1,"En mi zona la cobertura es mala. los datos van lentísimos. Si no mejora, me planteo cambiarme.",25.24,0,0.6394,0,-0.766
+E77700048,2025-10-01,Z09,Norte,urbana_premium,4,3,"Últimamente hay cortes constantes. se nota congestión. no me dieron solución. Si no mejora, me planteo cambiarme.",61.56,0,0.1206,0,-0.71
+E77700446,2025-10-01,Z09,Norte,urbana_premium,3,3,"En mi zona podría ser mejor. podría ser mejor. Sinceramente normal, sin más.",61.56,0,0.1206,0,-0.309
+E77700447,2025-10-01,Z09,Norte,urbana_premium,4,5,"En las últimas semanas la cobertura es mala. los datos van lentísimos. no me dieron solución. Por favor, revisen la cobertura en mi zona.",61.56,0,0.1206,0,-0.742
+E77700844,2025-10-01,Z09,Norte,urbana_premium,3,7,"En las últimas semanas se queda sin servicio. depende del día. Sinceramente normal, sin más.",61.56,0,0.1206,0,0.125
+E77700484,2025-10-01,Z15,Oeste,suburbana,5,1,"Este mes el 5G ni se nota. no me dieron solución. Si no mejora, me planteo cambiarme.",44.3,0,0.3671,1,-0.312
+E77700899,2025-10-01,Z15,Oeste,suburbana,1,1,"En general normal, sin más. normal, sin más. Lo peor es que tiene altibajos.",44.3,0,0.3671,1,0.104
+E77700199,2025-10-01,Z16,Este,urbana_premium,4,0,En las últimas semanas la señal va y viene. no carga nada. Gracias por la atención.,60.3,0,0.1386,0,-0.675
+E77700061,2025-10-01,Z17,Sur,suburbana,2,0,En las últimas semanas hay cortes constantes. no entiendo los cargos. No es lo que esperaba.,45.96,0,0.3434,0,-0.07
+E77700456,2025-10-01,Z17,Sur,suburbana,3,2,"En general hay cortes constantes. se nota congestión. Además normal, sin más.",45.96,0,0.3434,0,-0.923
+E77700753,2025-10-01,Z17,Sur,suburbana,5,0,En mi zona se queda sin servicio. los datos van lentísimos. la factura sube sin explicación. No es lo que esperaba.,45.96,0,0.3434,1,-0.351
+E77700024,2025-10-01,Z18,Sur,urbana_premium,3,5,En mi zona la velocidad es muy baja. no entiendo los cargos. No es lo que esperaba.,60.31,0,0.1384,0,-0.226
+E77700072,2025-10-01,Z18,Sur,urbana_premium,5,7,En general se corta en llamadas. me parece caro para lo que ofrecen.,60.31,0,0.1384,1,-0.211
+E77700272,2025-10-01,Z18,Sur,urbana_premium,3,5,Desde hace meses no he tenido problemas. En resumen podría ser mejor.,60.31,0,0.1384,0,0.443
+E77700979,2025-10-01,Z18,Sur,urbana_premium,3,3,"En mi zona hay mucha latencia. normal, sin más. Si no mejora, me planteo cambiarme.",60.31,0,0.1384,0,-0.119
+E77700682,2025-10-01,Z20,Oeste,suburbana,3,4,"Este mes la cobertura es mala. los datos van lentísimos. Si no mejora, me planteo cambiarme.",44.22,0,0.3683,0,-0.847
+E77700138,2025-10-01,Z21,Centro,rural,3,1,En mi zona no tengo cobertura dentro de casa. se nota congestión. me parece caro para lo que ofrecen.,29.68,0,0.576,0,-0.686
+E77700749,2025-10-01,Z23,Norte,rural,3,0,Últimamente la señal va y viene. los datos van lentísimos. No es lo que esperaba.,26.71,0,0.6184,0,-0.849
+E77700055,2025-10-01,Z26,Oeste,urbana_premium,5,3,En mi zona la cobertura es mala. hay mucha latencia. me parece caro para lo que ofrecen. Espero que lo solucionen pronto.,62.36,0,0.1091,1,-0.523
+E77700094,2025-10-01,Z26,Oeste,urbana_premium,3,6,En las últimas semanas la señal va y viene. los datos van lentísimos. me parece caro para lo que ofrecen. Gracias por la atención.,62.36,0,0.1091,0,-0.769
+E77700547,2025-10-01,Z26,Oeste,urbana_premium,3,6,En general se queda sin servicio. no carga nada. me cobraron de más. Espero que lo solucionen pronto.,62.36,0,0.1091,0,-0.493
+E77700796,2025-10-01,Z26,Oeste,urbana_premium,4,6,Últimamente no carga nada. no me dieron solución. Espero que lo solucionen pronto.,62.36,0,0.1091,0,-0.213
+E77700218,2025-10-01,Z27,Norte,suburbana,3,1,"Desde hace meses hay cortes constantes. la velocidad es muy baja. Lo peor es que normal, sin más.",43.92,0,0.3726,0,-0.543
+E77700429,2025-10-01,Z27,Norte,suburbana,2,2,"En general se queda sin servicio. hay mucha latencia. Si no mejora, me planteo cambiarme.",43.92,0,0.3726,0,-0.413
+E77700691,2025-10-01,Z27,Norte,suburbana,1,1,"En mi zona depende del día. podría ser mejor. Sinceramente normal, sin más.",43.92,0,0.3726,1,0.012
+E77700245,2025-10-01,Z28,Sur,urbana_premium,4,7,Últimamente hay cortes constantes. hay mucha latencia. Gracias por la atención. Sinceramente depende del día.,65.48,0,0.0646,1,-0.363
+E77700694,2025-10-01,Z28,Sur,urbana_premium,3,0,En general se queda sin servicio. la velocidad es muy baja. Además tiene altibajos.,65.48,0,0.0646,0,-0.594
+E77700198,2025-10-01,Z29,Oeste,urbana_premium,5,12,Este mes se queda sin servicio. la factura sube sin explicación. La verdad depende del día.,61.37,0,0.1233,0,0.042
+E77700818,2025-10-01,Z29,Oeste,urbana_premium,4,5,Últimamente los datos van lentísimos. el descuento no se aplicó. Lo mejor es que depende del día.,61.37,0,0.1233,0,-0.26
+E77700026,2025-10-01,Z30,Centro,suburbana,3,0,En mi zona se corta en llamadas. el 5G ni se nota. Gracias por la atención.,45.92,0,0.344,0,-0.916
+E77700035,2025-10-01,Z30,Centro,suburbana,1,2,"Desde hace meses la cobertura es mala. la velocidad es muy baja. Si no mejora, me planteo cambiarme.",45.92,0,0.344,0,-0.447
+E77700865,2025-10-01,Z30,Centro,suburbana,3,2,"En mi zona la cobertura es mala. hay mucha latencia. Lo mejor es que normal, sin más.",45.92,0,0.344,0,-0.867
+E77700512,2025-11-01,Z01,Centro,rural,3,0,Este mes se corta en llamadas. la velocidad es muy baja. la factura sube sin explicación.,28.74,0,0.5894,0,-0.402
+E77700826,2025-11-01,Z04,Centro,suburbana,3,1,"En las últimas semanas hay cortes constantes. no carga nada. el descuento no se aplicó. Por favor, revisen la cobertura en mi zona.",45.82,0,0.3454,0,-0.465
+E77700980,2025-11-01,Z04,Centro,suburbana,4,0,En general se queda sin servicio. el 5G ni se nota. no entiendo los cargos. Gracias por la atención.,45.82,0,0.3454,0,-0.905
+E77700281,2025-11-01,Z05,Este,urbana_premium,2,4,Últimamente se queda sin servicio. los datos van lentísimos. Lo peor es que tiene altibajos.,59.38,0,0.1517,0,-0.558
+E77700313,2025-11-01,Z05,Este,urbana_premium,2,8,"En mi zona normal, sin más. no entiendo los cargos. Por otro lado no es perfecto pero cumple.",59.38,0,0.1517,0,-0.159
+E77700764,2025-11-01,Z05,Este,urbana_premium,3,8,"Últimamente depende del día. normal, sin más. Sinceramente podría ser mejor. Por otro lado depende del día.",59.38,0,0.1517,0,0.093
+E77700431,2025-11-01,Z08,Sur,rural,4,2,En general no tengo cobertura dentro de casa. se nota congestión. No es lo que esperaba.,27.66,0,0.6049,1,-0.926
+E77700042,2025-11-01,Z09,Norte,urbana_premium,3,4,"Últimamente no tengo cobertura dentro de casa. el 5G ni se nota. la factura sube sin explicación. Por favor, revisen la cobertura en mi zona.",59.6,0,0.1486,0,-0.435
+E77700321,2025-11-01,Z09,Norte,urbana_premium,2,2,"Desde hace meses se corta en llamadas. se nota congestión. Por favor, revisen la cobertura en mi zona.",59.6,0,0.1486,0,-0.478
+E77700240,2025-11-01,Z11,Oeste,suburbana,4,3,Este mes se corta en llamadas. el 5G ni se nota. el descuento no se aplicó. Espero que lo solucionen pronto.,47.61,0,0.3199,0,-0.46
+E77700687,2025-11-01,Z14,Norte,rural,2,0,"En general se queda sin servicio. hay mucha latencia. Por favor, revisen la cobertura en mi zona.",24.41,0,0.6513,0,-0.747
+E77700238,2025-11-01,Z15,Oeste,suburbana,3,2,En mi experiencia no tengo cobertura dentro de casa. hay mucha latencia. me atendieron bien pero no lo resolvieron. Gracias por la atención.,44.71,0,0.3613,0,-0.589
+E77700322,2025-11-01,Z15,Oeste,suburbana,4,7,"En general normal, sin más. me parece caro para lo que ofrecen.",44.71,0,0.3613,0,0.095
+E77700458,2025-11-01,Z15,Oeste,suburbana,4,1,"Últimamente hay cortes constantes. hay mucha latencia. Si no mejora, me planteo cambiarme.",44.71,0,0.3613,0,-0.689
+E77700612,2025-11-01,Z17,Sur,suburbana,3,0,"En general la cobertura es mala. hay mucha latencia. Si no mejora, me planteo cambiarme.",46.11,0,0.3413,0,-1.0
+E77700584,2025-11-01,Z18,Sur,urbana_premium,5,3,Este mes se queda sin servicio. los datos van lentísimos. me atendieron bien pero no lo resolvieron.,61.71,0,0.1184,0,-0.576
+E77700720,2025-11-01,Z20,Oeste,suburbana,2,3,En mi zona no es perfecto pero cumple. me parece caro para lo que ofrecen.,47.95,0,0.315,0,-0.168
+E77700949,2025-11-01,Z22,Este,suburbana,3,1,En mi zona no tengo cobertura dentro de casa. el 5G ni se nota. tardaron muchísimo. Gracias por la atención.,45.65,0,0.3479,0,-0.532
+E77700473,2025-11-01,Z23,Norte,rural,3,1,"En mi experiencia no tengo cobertura dentro de casa. hay mucha latencia. la factura sube sin explicación. Si no mejora, me planteo cambiarme.",29.9,0,0.5729,0,-0.518
+E77700580,2025-11-01,Z24,Centro,rural,2,2,"Últimamente se queda sin servicio. no carga nada. tardaron muchísimo. Lo peor es que normal, sin más.",31.3,0,0.5529,0,-0.793
+E77700638,2025-11-01,Z26,Oeste,urbana_premium,5,3,En general los datos van lentísimos. tiene altibajos. Además no es perfecto pero cumple.,62.22,0,0.1111,1,-0.231
+E77700323,2025-11-01,Z27,Norte,suburbana,3,7,En mi experiencia se corta en llamadas. el 5G ni se nota. No es lo que esperaba.,46.13,0,0.341,0,-0.397
+E77700491,2025-11-01,Z27,Norte,suburbana,4,1,Desde hace meses hay cortes constantes. el 5G ni se nota. me parece caro para lo que ofrecen. Espero que lo solucionen pronto.,46.13,0,0.341,1,-0.706
+E77700289,2025-12-01,Z02,Oeste,suburbana,3,3,"Este mes la cobertura es mala. no carga nada. me cobraron de más. Si no mejora, me planteo cambiarme.",47.75,0,0.3179,0,-0.459
+E77700065,2025-12-01,Z04,Centro,suburbana,3,5,Desde hace meses se queda sin servicio. no carga nada. Por otro lado no es perfecto pero cumple.,48.06,0,0.3134,0,-0.616
+E77700296,2025-12-01,Z04,Centro,suburbana,4,6,"Últimamente no tengo cobertura dentro de casa. me cobraron de más. Si no mejora, me planteo cambiarme.",48.06,0,0.3134,1,-0.179
+E77700404,2025-12-01,Z05,Este,urbana_premium,3,7,"En general no he tenido problemas. normal, sin más. Además normal, sin más.",62.73,0,0.1039,0,0.283
+E77700514,01/12/2025,Z05,Este,urbana_premium,4,2,En las últimas semanas la señal va y viene. se nota congestión. la factura sube sin explicación. No es lo que esperaba.,62.73,0,0.1039,0,-0.357
+E77700713,2025-12-01,Z08,Sur,rural,3,1,En general la cobertura es mala. hay mucha latencia. no me dieron solución. Espero que lo solucionen pronto.,26.31,0,0.6241,0,-0.497
+E77700044,2025-12-01,Z09,Norte,urbana_premium,4,4,Últimamente la señal va y viene. la velocidad es muy baja. La verdad podría ser mejor.,64.07,0,0.0847,1,-0.472
+E77700254,2025-12-01,Z09,Norte,urbana_premium,4,2,En mi experiencia no es perfecto pero cumple. no me dieron solución.,64.07,0,0.0847,1,-0.256
+E77700583,2025-12-01,Z09,Norte,urbana_premium,4,5,"Últimamente se queda sin servicio. no carga nada. no entiendo los cargos. Por favor, revisen la cobertura en mi zona.",64.07,0,0.0847,0,-0.37
+E77700648,2025-12-01,Z09,Norte,urbana_premium,4,7,Desde hace meses todo correcto. En resumen depende del día. Además podría ser mejor.,64.07,0,0.0847,0,0.483
+E77700867,2025-12-01,Z10,Este,suburbana,3,4,En mi experiencia tiene altibajos. depende del día. Lo peor es que depende del día.,50.4,0,0.28,0,-0.059
+E77700209,2025-12-01,Z11,Oeste,suburbana,3,6,En general tiene altibajos. la atención al cliente no ayuda. Lo peor es que tiene altibajos.,48.18,0,0.3117,0,-0.174
+E77700683,2025-12-01,Z11,Oeste,suburbana,3,2,Este mes el 5G ni se nota. me parece caro para lo que ofrecen. No es lo que esperaba.,48.18,0,0.3117,0,-0.097
+E77700346,2025-12-01,Z13,Este,suburbana,3,2,En mi experiencia no tengo cobertura dentro de casa. se nota congestión. No es lo que esperaba.,45.12,0,0.3554,0,-0.83
+E77700407,2025-12-01,Z16,Este,urbana_premium,2,0,"En mi zona depende del día. podría ser mejor. Lo peor es que normal, sin más.",64.05,0,0.085,0,-0.338
+E77700400,2025-12-01,Z17,Sur,suburbana,3,4,"Desde hace meses hay cortes constantes. hay mucha latencia. Por favor, revisen la cobertura en mi zona.",46.91,0,0.3299,0,-0.387
+E77700206,2025-12-01,Z20,Oeste,suburbana,2,2,En mi experiencia la cobertura es mala. los datos van lentísimos. tardaron muchísimo. Espero que lo solucionen pronto.,45.2,0,0.3543,0,-0.824
+E77700311,2025-12-01,Z20,Oeste,suburbana,2,2,Desde hace meses se queda sin servicio. se nota congestión. la atención al cliente no ayuda. Espero que lo solucionen pronto.,45.2,0,0.3543,0,-1.0
+E77700551,2025-12-01,Z21,Centro,rural,4,2,En general la señal va y viene. hay mucha latencia. Espero que lo solucionen pronto.,29.06,0,0.5849,0,-0.765
+E77700727,2025-12-01,Z22,Este,suburbana,4,0,"En mi zona se queda sin servicio. se nota congestión. no me dieron solución. Por favor, revisen la cobertura en mi zona.",48.44,0,0.308,0,-0.476
+E77700234,2025-12-01,Z26,Oeste,urbana_premium,4,5,En las últimas semanas no tengo cobertura dentro de casa. el 5G ni se nota.,62.41,0,0.1084,0,-0.382
+E77700881,2025-12-01,Z26,Oeste,urbana_premium,4,5,"Este mes tiene altibajos. me atendieron bien pero no lo resolvieron. Lo mejor es que normal, sin más.",62.41,0,0.1084,1,-0.318
+E77700649,2025-12-01,Z27,Norte,suburbana,3,5,"En mi experiencia la señal va y viene. se nota congestión. me cobraron de más. Por favor, revisen la cobertura en mi zona.",49.49,0,0.293,0,-0.572
+E77700161,2025-12-01,Z28,Sur,urbana_premium,4,4,Este mes la señal va y viene. el 5G ni se nota. la factura sube sin explicación. No es lo que esperaba.,60.5,0,0.1357,1,-0.689
+E77700932,2025-12-01,Z29,Oeste,urbana_premium,1,8,Desde hace meses no he tenido problemas. Lo peor es que tiene altibajos.,61.71,0,0.1184,1,0.305
+E77700328,2025-12-01,Z30,Centro,suburbana,3,5,En las últimas semanas la señal va y viene. me marean con respuestas.,47.73,0,0.3181,0,-0.324
+E77700257,2024-04-01,Z07,Centro,rural,2,3,"Desde hace meses podría ser mejor. normal, sin más. Lo mejor es que normal, sin más.",19.89,0,0.7159,1,0.056
+E77700148,2024-06-01,Z05,Este,urbana_premium,5,3,Desde hace meses no tengo cobertura dentro de casa. el 5G ni se nota. No es lo que esperaba.,50.21,0,0.2827,1,-0.451
+E77700934,2024-06-01,Z05,Este,urbana_premium,3,0,"En mi zona hay cortes constantes. la velocidad es muy baja. Si no mejora, me planteo cambiarme.",50.21,0,0.2827,0,-0.485
+E77700209,2025-12-01,Z11,Oeste,suburbana,3,6,En general tiene altibajos. la atención al cliente no ayuda. Lo peor es que tiene altibajos.,48.18,0,0.3117,0,-0.174
+E77700659,2024-04-01,Z29,Oeste,urbana_premium,3,5,En mi experiencia se nota congestión. me cobraron de más. Espero que lo solucionen pronto.,51.02,0,0.2711,0,0.021
+E77700868,2023-11-01,Z20,Oeste,suburbana,3,4,Desde hace meses no tengo cobertura dentro de casa. el 5G ni se nota. la factura sube sin explicación. Gracias por la atención.,33.74,0,0.518,0,-0.419
+E77700128,2025-05-01,Z02,Oeste,suburbana,4,4,En mi experiencia hay cortes constantes. tiene altibajos. En resumen podría ser mejor.,43.92,0,0.3726,1,-0.299
+E77700884,2023-11-01,Z17,Sur,suburbana,1,3,En mi experiencia no carga nada. podría ser mejor. Por otro lado tiene altibajos.,36.75,0,0.475,1,-0.087
+E77700907,2024-09-01,Z15,Oeste,suburbana,4,7,En mi zona la señal va y viene. no carga nada. No es lo que esperaba.,39.78,0,0.4317,1,-0.654
+E77700445,2025-02-01,Z22,Este,suburbana,3,2,"Últimamente hay cortes constantes. el 5G ni se nota. Por favor, revisen la cobertura en mi zona.",43.95,0,0.3721,0,-0.513
+E77700413,2024-11-01,Z05,Este,urbana_premium,2,24,"Últimamente normal, sin más. me marean con respuestas. Además no es perfecto pero cumple.",55.85,0,0.2021,1,-0.022
+E77700829,2024-04-01,Z03,Sur,rural,3,0,"En general se corta en llamadas. no carga nada. el descuento no se aplicó. Por favor, revisen la cobertura en mi zona.",19.51,0,0.7213,0,-1.0
+E77700453,2025-01-01,Z20,Oeste,suburbana,3,0,"En general hay cortes constantes. se nota congestión. me cobraron de más. Por favor, revisen la cobertura en mi zona.",38.43,0,0.451,0,-1.0
+E77700230,2023-04-01,Z17,Sur,suburbana,4,2,,33.91,0,0.5156,1,-0.741
+E77700205,2024-10-01,Z29,Oeste,urbana_premium,3,4,"Desde hace meses hay cortes constantes. hay mucha latencia. Por otro lado normal, sin más.",49.2,0,0.2971,0,-0.477
