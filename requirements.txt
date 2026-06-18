@@ -1,7 +1,10 @@
-# librerías de Python necesarias para ejecutar el proyecto
+# Librerias de Python necesarias para ejecutar el proyecto
 pandas==2.2.2
 numpy==1.26.4
 matplotlib==3.8.4
 seaborn==0.13.2
+scipy==1.17.1
 scikit-learn==1.3.2
-xgboost==1.7.5
+xgboost==2.0.3
+joblib==1.5.3
+ipython==9.13.0

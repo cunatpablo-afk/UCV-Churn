@@ -1,0 +1,64 @@
+{
+  "iteration": "it_4",
+  "source_scores": "reports/models/test_scores_best_model_it_3c_top75.csv",
+  "rows": 48888,
+  "total_churners": 252,
+  "baseline_churn_rate": 0.005154639175257732,
+  "best_threshold_by_f1": {
+    "threshold": 0.85,
+    "contacted": 229.0,
+    "contacted_rate": 0.004684176075928653,
+    "captured_churners": 19.0,
+    "capture_rate": 0.07539682539682539,
+    "precision": 0.08296943231441048,
+    "recall": 0.07539682539682539,
+    "f1": 0.079002079002079,
+    "tp": 19.0,
+    "fp": 210.0,
+    "tn": 48426.0,
+    "fn": 233.0
+  },
+  "smallest_contact_volume_with_recall_at_least_50": {
+    "threshold": 0.51,
+    "contacted": 9309.0,
+    "contacted_rate": 0.19041482572410406,
+    "captured_churners": 127.0,
+    "capture_rate": 0.503968253968254,
+    "precision": 0.013642711354603073,
+    "recall": 0.503968253968254,
+    "f1": 0.026566258759543982,
+    "tp": 127.0,
+    "fp": 9182.0,
+    "tn": 39454.0,
+    "fn": 125.0
+  },
+  "top_5_percent": {
+    "top_fraction": 0.05,
+    "top_percent": 5.0,
+    "contacted": 2444.0,
+    "captured_churners": 68.0,
+    "capture_rate": 0.2698412698412698,
+    "precision_at_k": 0.027823240589198037,
+    "baseline_churn_rate": 0.005154639175257732,
+    "lift": 5.397708674304419,
+    "min_score": 0.6831200825570829,
+    "max_score": 0.9497089391730988
+  },
+  "top_10_percent": {
+    "top_fraction": 0.1,
+    "top_percent": 10.0,
+    "contacted": 4889.0,
+    "captured_churners": 95.0,
+    "capture_rate": 0.376984126984127,
+    "precision_at_k": 0.019431376559623646,
+    "baseline_churn_rate": 0.005154639175257732,
+    "lift": 3.7696870525669874,
+    "min_score": 0.6005083186125227,
+    "max_score": 0.9497089391730988
+  },
+  "notes": [
+    "Iteracion 4 no reentrena modelos.",
+    "Evalua umbrales y lift sobre los scores del mejor modelo de Iteracion 3C Top75.",
+    "Usar estos resultados para decidir volumen operativo de contacto."
+  ]
+}

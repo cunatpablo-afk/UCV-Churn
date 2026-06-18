@@ -1,0 +1,4 @@
+model,search_mode,best_score,best_params
+dummy_mayoritaria,randomized,,{}
+logistic_regression,randomized,,{}
+xgboost,randomized,0.02010833880703781,"{""model__subsample"": 1.0, ""model__reg_lambda"": 3, ""model__reg_alpha"": 2, ""model__n_estimators"": 150, ""model__min_child_weight"": 8, ""model__max_depth"": 2, ""model__learning_rate"": 0.03, ""model__gamma"": 0.5, ""model__colsample_bytree"": 0.65}"

@@ -1,0 +1,3 @@
+model,gap_train_cv_roc_auc,gap_train_test_roc_auc,gap_cv_test_roc_auc,gap_train_cv_pr_auc,gap_train_test_pr_auc,gap_cv_test_pr_auc,diagnostico
+dummy_mayoritaria,0.0,0.0,0.0,2.8703000046204075e-11,0.0014208324152842006,0.0014208323865812006,underfitting
+logistic_regression,0.013248240189538185,-0.00893524515675892,-0.022183485346297105,0.0007044733593669014,-0.004907986078051499,-0.0056124594374184,ok

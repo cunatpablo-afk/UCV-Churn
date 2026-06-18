@@ -1,0 +1,32 @@
+{
+  "best_model": "logistic_regression",
+  "run_suffix": "it_3f_family_pruning",
+  "target": "churn_t_plus_1",
+  "threshold": 0.5,
+  "search_mode": "none",
+  "n_iter": null,
+  "cv_splits": 3,
+  "n_jobs_model": 4,
+  "n_jobs_search": 1,
+  "primary_metric": "pr_auc_test",
+  "secondary_ranking_metrics": [
+    "recall_test",
+    "f1_test",
+    "roc_auc_test"
+  ],
+  "secondary_report_metrics": [
+    "roc_auc",
+    "accuracy",
+    "precision",
+    "recall",
+    "f1",
+    "confusion_matrix"
+  ],
+  "train_rows_full": 263099,
+  "train_rows_used": 263099,
+  "train_sample_frac": 1.0,
+  "test_rows": 48888,
+  "test_month_min": "2025-06-01",
+  "test_month_max": "2025-11-01",
+  "test_scores": "reports/models/test_scores_best_model_it_3f_family_pruning.csv"
+}

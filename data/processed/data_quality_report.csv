@@ -1,0 +1,38 @@
+dataset,metric,value_before,value_after,action
+calidad_senal_zona_mensual,duplicados_exactos,16,0,drop_duplicates
+calidad_senal_zona_mensual,fecha_nulos,0,0,normalizar fecha a mes
+calidad_senal_zona_mensual,cobertura_4g_pct_imputados,32,0,mediana por tipo_zona
+calidad_senal_zona_mensual,cobertura_5g_pct_imputados,32,0,mediana por tipo_zona
+calidad_senal_zona_mensual,latencia_ms_imputados,32,0,mediana por tipo_zona
+calidad_senal_zona_mensual,cobertura_4g_pct_fuera_rango,0,0,clip 0-100
+calidad_senal_zona_mensual,cobertura_5g_pct_fuera_rango,0,0,clip 0-100
+calidad_senal_zona_mensual,duplicados_zona_mes,0,0,agregacion zona-mes
+clientes,duplicados_exactos,150,0,drop_duplicates
+clientes,zona_id_invalidos,150,0,reemplazo por Z26
+clientes,cliente_id_duplicados,0,0,mantener primera fila
+clientes,antiguedad_negativa,145,0,marcar e imputar
+clientes,edad_imputados,300,0,mediana por tipo_plan
+clientes,ingreso_estimado_imputados,300,0,mediana por tipo_plan
+clientes,antiguedad_meses_imputados,445,0,mediana por tipo_plan
+clientes,sexo_fuera_catalogo,150,0,Desconocido
+clientes,estado_civil_fuera_catalogo,150,0,Desconocido
+clientes,tipo_plan_fuera_catalogo,0,0,Desconocido
+clientes,tipo_dispositivo_fuera_catalogo,0,0,Desconocido
+churn_target,duplicados_exactos,0,0,drop_duplicates
+churn_target,churn_fuera_catalogo,0,0,filtrar binario
+churn_target,duplicados_cliente_mes,0,0,max churn
+facturacion_mensual,duplicados_exactos,4829,0,drop_duplicates
+facturacion_mensual,tipo_plan_imputados,9659,0,cliente y fallback global
+facturacion_mensual,importe_total_imputados,9659,0,cliente y fallback global
+facturacion_mensual,cargo_base_negativos,0,0,clip a cero
+facturacion_mensual,consumo_extra_negativos,3636,0,clip a cero
+facturacion_mensual,descuento_aplicado_negativos,0,0,clip a cero
+facturacion_mensual,importe_total_negativos,0,0,clip a cero
+facturacion_mensual,dias_retraso_pago_negativos,0,0,clip a cero
+facturacion_mensual,duplicados_cliente_mes,0,0,agregacion cliente-mes
+interacciones_soporte,duplicados_exactos,4558,0,drop_duplicates
+interacciones_soporte,interaccion_id_duplicados,0,0,mantener primera fila
+interacciones_soporte,duracion_min_invalidos_o_nulos,4558,0,mediana por motivo
+interacciones_soporte,satisfaccion_post_imputados,4558,0,mediana por motivo/resuelto
+encuestas_texto,duplicados_exactos,15,0,drop_duplicates
+encuestas_texto,texto_libre_imputados,15,0,Sin comentario

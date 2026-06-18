@@ -1,0 +1,35 @@
+{
+  "cliente_id": "C002119",
+  "fecha": "2025-10-01",
+  "target_real_churn_t_plus_1": 1,
+  "score_churn": 0.2712655984159863,
+  "pred_churn_threshold_0_5": 0,
+  "operational_recommendation": "no_prioritario",
+  "risk_position": {
+    "rank_by_risk": 33228,
+    "total_test_cases": 48888,
+    "risk_percentile": 0.3203444608083783,
+    "top_membership": {
+      "top_1pct": false,
+      "top_5pct": false,
+      "top_10pct": false,
+      "top_20pct": false
+    }
+  },
+  "feature_snapshot": {
+    "soporte_canal_principal": null,
+    "soporte_motivo_principal": null,
+    "fact_importe_total": 143.75,
+    "fact_importe_total_lag_1m": 146.95,
+    "fact_dias_retraso_pago_roll_3m": 0.0,
+    "fact_impago_flag_roll_3m": 0.0,
+    "red_indice_calidad_global_lag_2m": 59.05,
+    "red_cobertura_5g_pct_lag_2m": 63.96,
+    "fact_stress_calidad_lag_roll_3m": 0.1621666666666666
+  },
+  "interpretation": [
+    "score_churn es la probabilidad estimada/ranking score de churn para t+1.",
+    "La recomendacion operativa usa pertenencia al Top 10% de riesgo, no threshold 0.5.",
+    "target_real_churn_t_plus_1 solo existe en test historico; en produccion no estaria disponible."
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "iteration": "it_6_xgb_tuned",
+  "xgboost_device": "cuda",
+  "total_runtime_seconds": 589.9154503000027,
+  "total_runtime_minutes": 9.831924171666712,
+  "n_iter": 30,
+  "cv_splits": 3,
+  "dataset": "data/modeling/churn_modeling_dataset_it_3c_top75.csv"
+}

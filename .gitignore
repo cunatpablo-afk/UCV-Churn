@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.py[cod]
+
+# Generated modeling datasets and reports that can exceed GitHub limits.
+data/modeling/*.csv

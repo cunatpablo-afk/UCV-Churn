@@ -1,0 +1,25 @@
+{
+  "iteration": "it_7_manual_features",
+  "base_dataset": "data/modeling/churn_modeling_dataset_it_3c_top75.csv",
+  "source_dataset": "data/modeling/churn_modeling_dataset_it_3a.csv",
+  "output_dataset": "data/modeling/churn_modeling_dataset_it_7_manual_features.csv",
+  "leakage_control": "Todas las variables usan informacion de t, t-1, t-2 o t-3; no usan churn futuro.",
+  "manual_features": {
+    "caida_facturacion_3m": "fact_importe_total_lag_3m - fact_importe_total",
+    "ratio_facturacion_3m": "fact_importe_total / fact_importe_total_lag_3m, con denominador 0 como NaN",
+    "deterioro_calidad_3m": "red_indice_calidad_global_lag_3m - red_indice_calidad_global",
+    "tickets_ultimos_90d": "soporte_contactos + soporte_contactos_lag_1m + soporte_contactos_lag_2m"
+  },
+  "bias_note_next_iteration": "Auditar genero y excluirlo si aparece en el dataset de entrenamiento para reducir riesgo de sesgo.",
+  "rows": 311987,
+  "base_columns": 78,
+  "output_columns": 82,
+  "new_feature_columns": [
+    "caida_facturacion_3m",
+    "ratio_facturacion_3m",
+    "deterioro_calidad_3m",
+    "tickets_ultimos_90d"
+  ],
+  "genero_present_in_base": false,
+  "genero_present_in_output": false
+}

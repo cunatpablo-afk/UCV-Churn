@@ -1,0 +1,3 @@
+model,search_mode,best_score,best_params
+dummy_mayoritaria,none,,{}
+logistic_regression,none,,{}
