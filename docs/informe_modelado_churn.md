@@ -415,6 +415,31 @@ Motivos:
 - Sin evidencia de overfitting grave.
 - Mas defendible que modelos con metricas aparentemente mejores pero con riesgo de leakage o split aleatorio.
 
+### 15.1. Tabla Final De Entrega
+
+| Elemento | Resultado final |
+|---|---|
+| Modelo recomendado | Logistic Regression |
+| Iteracion recomendada | 3G - imputacion semantica |
+| Dataset usado | `data/modeling/churn_modeling_dataset_it_3f_family_pruning.csv` |
+| Unidad de prediccion | `cliente_id` + `fecha` mensual |
+| Target | `churn_t_plus_1` |
+| Features de modelo | 37 |
+| Split de evaluacion | Test temporal: 2025-06-01 a 2025-11-01 |
+| Metrica principal | PR-AUC en test temporal |
+| PR-AUC | 0.0267 |
+| ROC-AUC | 0.7132 |
+| Recall | 0.5238 |
+| Precision | 0.0136 |
+| F1 | 0.0265 |
+| Matriz de confusion | TN=39073, FP=9563, FN=120, TP=132 |
+| Uso recomendado | Ranking de riesgo, no clasificacion binaria pura |
+| Politica operativa orientativa | Top 5% para piloto; Top 10% como politica equilibrada |
+
+Lectura final:
+
+El modelo recomendado no pretende etiquetar clientes de forma definitiva, sino priorizar a quienes tienen mayor riesgo relativo de churn. En un problema con una tasa mensual de churn cercana al 0.5% en test, la utilidad esta en concentrar churners en los primeros percentiles del ranking y decidir el volumen de contacto segun coste, capacidad comercial y valor esperado de retencion. La politica Top-K indicada es la recomendacion operativa orientativa del proyecto y debe recalcularse sobre los scores finales de 3G antes de una decision real.
+
 ## 16. Proximos Pasos Recomendados
 
 Antes de la entrega final:

@@ -957,7 +957,20 @@ Archivos preparados:
 - `data/modeling/feature_selection_report_it_3f_family_pruning.csv`
 - `data/modeling/feature_selection_summary_it_3f_family_pruning.json`
 
-Resultados pendientes de ejecucion.
+### Resultado Iteracion 3F
+
+Modelo ganador automatico: `logistic_regression`, por mayor PR-AUC en test temporal.
+
+| Modelo | PR-AUC test | ROC-AUC test | Recall test | Precision test | F1 test |
+|---|---:|---:|---:|---:|---:|
+| Logistic Regression | 0.0267 | 0.7132 | 0.5238 | 0.0136 | 0.0266 |
+| Dummy | 0.0052 | 0.5000 | 0.0000 | 0.0000 | 0.0000 |
+
+La poda por familias mantiene el rendimiento de Top50 con menos variables y elimina redundancias claras. Tambien retira los proxies geograficos `red_poblacion_zona_lag_2m` y `red_poblacion_zona_lag_3m`, lo que hace el modelo mas defendible desde una perspectiva metodologica.
+
+### Decision
+
+Adoptar Iteracion 3F como dataset simplificado principal para la siguiente prueba. El modelo conserva el rendimiento de 3D, reduce multicolinealidad y mejora la explicabilidad al seleccionar representantes por familia de variables.
 
 ## Experimento 014 - Iteracion 3G Logistic Con Imputacion Semantica
 
@@ -984,7 +997,37 @@ Archivos preparados:
 - `reports/models/test_scores_best_model_it_3g_logistic_semantic_imputation.csv`
 - `models/best_model_it_3g_logistic_semantic_imputation.joblib`
 
-Resultados pendientes de ejecucion.
+### Resultado Iteracion 3G
+
+Modelo ganador automatico: `logistic_regression`.
+
+| Modelo | PR-AUC test | ROC-AUC test | Recall test | Precision test | F1 test |
+|---|---:|---:|---:|---:|---:|
+| Logistic Regression | 0.0267 | 0.7132 | 0.5238 | 0.0136 | 0.0265 |
+| Dummy | 0.0052 | 0.5000 | 0.0000 | 0.0000 | 0.0000 |
+
+Comparacion contra baseline:
+
+| Modelo | PR-AUC test | ROC-AUC test | Recall test |
+|---|---:|---:|---:|
+| Dummy | 0.0052 | 0.5000 | 0.0000 |
+| Logistic 3G | 0.0267 | 0.7132 | 0.5238 |
+
+La imputacion semantica mantiene el rendimiento de 3F y hace el preprocesado mas coherente con el significado de las variables: conteos, flags y eventos pueden imputarse a cero cuando representa ausencia de actividad, mientras que variables continuas se imputan con mediana.
+
+### Decision Actual
+
+Adoptar Iteracion 3G como version recomendada del proyecto.
+
+| Elemento | Valor |
+|---|---|
+| Modelo | Logistic Regression |
+| Dataset | `data/modeling/churn_modeling_dataset_it_3f_family_pruning.csv` |
+| Features de modelo | 37 |
+| Metrica principal | PR-AUC en test temporal |
+| Uso recomendado | Ranking de riesgo y seleccion Top-K |
+
+El modelo no debe usarse como clasificador binario ingenuo con umbral 0.5. Su uso mas razonable es ordenar clientes por score y aplicar politicas Top-K segun capacidad comercial y coste de contacto.
 
 ## Experimento 012 - Iteracion 3E Top30 + Multicolinealidad
 
@@ -1022,4 +1065,4 @@ Nota metodologica:
 
 El analisis de correlacion y VIF se calcula solo sobre variables numericas Top30. Las variables categoricas no se incluyen en VIF para evitar interpretaciones artificiales derivadas del one-hot encoding.
 
-Resultados pendientes de ejecucion.
+Resultado integrado en la lectura comparativa de Iteracion 3E: Top30 simplifica demasiado frente a Top50, por lo que no se adopta como version principal.
